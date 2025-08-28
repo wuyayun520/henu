@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_012",
+    "name": "Fatima Al-Zahra",
+    "basic_info": {
+      "age_range": "26-32",
+      "nationality": "Lebanese",
+      "location": "Dubai, UAE",
+      "profession": "Middle Eastern Beauty Expert & Luxury Influencer"
+    },
+    "appearance": {
+      "skin_tone": "Medium with warm olive undertones",
+      "hair_color": "Dark Brown",
+      "eye_color": "Dark Brown",
+      "face_shape": "Oval",
+      "height": "5'7\" (170cm)",
+      "distinctive_features": ["Striking eyes", "Defined eyebrows", "Middle Eastern features", "Elegant bone structure"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Luxurious Middle Eastern glam",
+      "preferred_lip_colors": ["Deep red", "Rose gold", "Berry", "Natural brown"],
+      "skill_level": "Expert",
+      "specialties": ["Arabic eye makeup", "Luxury products", "Dramatic looks", "Middle Eastern beauty"],
+      "makeup_intensity": "High"
+    },
+    "social_media": {
+      "estimated_followers": "198K",
+      "engagement_rate": "4.7%",
+      "platform_focus": ["Instagram", "YouTube"],
+      "content_types": ["Luxury beauty", "Arabic makeup tutorials", "High-end reviews", "Middle Eastern culture"]
+    },
+    "brand_partnerships": {
+      "tier": "Luxury tier influencer",
+      "collaboration_history": ["Tom Ford", "Charlotte Tilbury", "Huda Beauty", "Middle Eastern luxury brands"],
+      "preferred_brands": "Luxury and Middle Eastern beauty houses",
+      "rate_range": "$1200-$2500 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/12/user_1.jpg",
+          "makeup_focus": "Dramatic Arabic eye makeup",
+          "lighting": "Luxurious golden lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/12/user_2.jpg",
+          "makeup_focus": "Middle Eastern bridal glamour",
+          "lighting": "Professional luxury lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/12/user_3.jpg",
+          "makeup_focus": "High-end evening look",
+          "lighting": "Dramatic studio lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/12/user_4.jpg",
+          "makeup_focus": "Luxury day-to-night transformation",
+          "lighting": "Elegant portrait lighting",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

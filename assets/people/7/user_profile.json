@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_007",
+    "name": "Camille Dubois",
+    "basic_info": {
+      "age_range": "27-33",
+      "nationality": "French",
+      "location": "Paris, France",
+      "profession": "Luxury Beauty Consultant & Influencer"
+    },
+    "appearance": {
+      "skin_tone": "Fair with neutral undertones",
+      "hair_color": "Dark Brown",
+      "eye_color": "Brown",
+      "face_shape": "Heart-shaped",
+      "height": "5'7\" (170cm)",
+      "distinctive_features": ["Classic French features", "Defined lips", "Elegant bone structure", "Sophisticated style"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Effortless French elegance",
+      "preferred_lip_colors": ["Classic red", "Rose", "Berry", "Natural pink"],
+      "skill_level": "Expert",
+      "specialties": ["French girl makeup", "Classic techniques", "Luxury products", "Timeless looks"],
+      "makeup_intensity": "Medium"
+    },
+    "social_media": {
+      "estimated_followers": "125K",
+      "engagement_rate": "3.2%",
+      "platform_focus": ["Instagram", "YouTube"],
+      "content_types": ["Luxury brand partnerships", "French beauty secrets", "Timeless looks", "Parisian lifestyle"]
+    },
+    "brand_partnerships": {
+      "tier": "Luxury tier influencer",
+      "collaboration_history": ["Chanel", "Dior", "YSL", "Lancôme", "French luxury brands"],
+      "preferred_brands": "Luxury French beauty houses",
+      "rate_range": "$1000-$3000 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/7/user_1.jpg",
+          "makeup_focus": "Timeless Parisian look",
+          "lighting": "Elegant studio lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/7/user_2.jpg",
+          "makeup_focus": "Elegant enhancement",
+          "lighting": "Soft romantic lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/7/user_3.jpg",
+          "makeup_focus": "Natural French beauty",
+          "lighting": "Natural Parisian light",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/7/user_4.jpg",
+          "makeup_focus": "Flawless French technique",
+          "lighting": "Professional portrait",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

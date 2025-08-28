@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_001",
+    "name": "Emma Rose",
+    "basic_info": {
+      "age_range": "25-30",
+      "nationality": "American",
+      "location": "Los Angeles, CA",
+      "profession": "Beauty Influencer & Makeup Artist"
+    },
+    "appearance": {
+      "skin_tone": "Fair with warm undertones",
+      "hair_color": "Blonde",
+      "eye_color": "Blue",
+      "face_shape": "Oval",
+      "height": "5'6\" (168cm)",
+      "distinctive_features": ["High cheekbones", "Full lips", "Defined eyebrows"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Glam with bold lips",
+      "preferred_lip_colors": ["Classic red", "Berry tones", "Natural pink", "Coral"],
+      "skill_level": "Professional",
+      "specialties": ["Contouring", "Eye makeup", "Lip art", "Color matching"],
+      "makeup_intensity": "Medium to High"
+    },
+    "social_media": {
+      "estimated_followers": "75K",
+      "engagement_rate": "4.2%",
+      "platform_focus": ["Instagram", "TikTok", "YouTube"],
+      "content_types": ["Tutorials", "Product reviews", "GRWM", "Brand partnerships"]
+    },
+    "brand_partnerships": {
+      "tier": "Mid-tier influencer",
+      "collaboration_history": ["Fenty Beauty", "Urban Decay", "MAC Cosmetics"],
+      "preferred_brands": "High-end and affordable mix",
+      "rate_range": "$500-$1500 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/1/user_1.jpg",
+          "makeup_focus": "Bold red lips with neutral eyes",
+          "lighting": "Professional studio",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/1/user_2.jpg",
+          "makeup_focus": "Highlighting and contouring",
+          "lighting": "Soft directional",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/1/user_3.jpg",
+          "makeup_focus": "Lip gloss application",
+          "lighting": "Natural bright",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/1/user_4.jpg",
+          "makeup_focus": "Complete glam look",
+          "lighting": "Professional studio",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

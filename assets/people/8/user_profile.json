@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_008",
+    "name": "Olivia Rodriguez",
+    "basic_info": {
+      "age_range": "24-30",
+      "nationality": "Mexican-American",
+      "location": "Miami, FL",
+      "profession": "Latina Beauty Influencer & Brand Ambassador"
+    },
+    "appearance": {
+      "skin_tone": "Medium-tan with warm golden undertones",
+      "hair_color": "Dark Brown with highlights",
+      "eye_color": "Dark Brown",
+      "face_shape": "Oval",
+      "height": "5'5\" (165cm)",
+      "distinctive_features": ["Full lips", "Defined eyebrows", "Warm complexion", "Expressive eyes"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Vibrant Latina glam with bold colors",
+      "preferred_lip_colors": ["Hot pink", "Coral red", "Orange-red", "Deep berry"],
+      "skill_level": "Advanced",
+      "specialties": ["Bold color combinations", "Tropical looks", "Bronzing", "Latin-inspired makeup"],
+      "makeup_intensity": "Medium to High"
+    },
+    "social_media": {
+      "estimated_followers": "78K",
+      "engagement_rate": "6.1%",
+      "platform_focus": ["Instagram", "TikTok", "YouTube"],
+      "content_types": ["Latina beauty", "Colorful tutorials", "Summer looks", "Cultural beauty"]
+    },
+    "brand_partnerships": {
+      "tier": "Mid-tier influencer",
+      "collaboration_history": ["Fenty Beauty", "Rare Beauty", "Morphe", "Latina-owned brands"],
+      "preferred_brands": "Inclusive and diverse beauty brands",
+      "rate_range": "$500-$1200 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/8/user_1.jpg",
+          "makeup_focus": "Vibrant coral lip with bronzed skin",
+          "lighting": "Warm golden lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/8/user_2.jpg",
+          "makeup_focus": "Bold eye makeup with tropical colors",
+          "lighting": "Bright studio lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/8/user_3.jpg",
+          "makeup_focus": "Full glam with statement lips",
+          "lighting": "Professional portrait lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/8/user_4.jpg",
+          "makeup_focus": "Summer bronzed look",
+          "lighting": "Natural warm light",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

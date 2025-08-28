@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_010",
+    "name": "Amara Johnson",
+    "basic_info": {
+      "age_range": "25-31",
+      "nationality": "African-American",
+      "location": "Atlanta, GA",
+      "profession": "Black Beauty Advocate & Makeup Artist"
+    },
+    "appearance": {
+      "skin_tone": "Deep with rich undertones",
+      "hair_color": "Black (natural/protective styles)",
+      "eye_color": "Dark Brown",
+      "face_shape": "Round",
+      "height": "5'6\" (168cm)",
+      "distinctive_features": ["Beautiful dark skin", "Full lips", "High cheekbones", "Natural hair advocate"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Celebrating dark skin beauty with rich pigments",
+      "preferred_lip_colors": ["Deep berry", "Rich brown", "Burgundy", "Bold red"],
+      "skill_level": "Expert",
+      "specialties": ["Dark skin makeup", "Color matching", "Pigmented products", "Natural beauty enhancement"],
+      "makeup_intensity": "Medium to High"
+    },
+    "social_media": {
+      "estimated_followers": "92K",
+      "engagement_rate": "8.2%",
+      "platform_focus": ["Instagram", "YouTube", "TikTok"],
+      "content_types": ["Dark skin tutorials", "Product reviews", "Representation advocacy", "Natural hair content"]
+    },
+    "brand_partnerships": {
+      "tier": "Established influencer",
+      "collaboration_history": ["Fenty Beauty", "Jackie Aina x ABH", "Juvia's Place", "Black-owned brands"],
+      "preferred_brands": "Inclusive brands with deep shade ranges",
+      "rate_range": "$600-$1500 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/10/user_1.jpg",
+          "makeup_focus": "Rich pigmented eyeshadow on deep skin",
+          "lighting": "Professional studio lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/10/user_2.jpg",
+          "makeup_focus": "Bold lip color celebrating dark skin",
+          "lighting": "Warm golden lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/10/user_3.jpg",
+          "makeup_focus": "Natural glow enhancement",
+          "lighting": "Soft natural lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/10/user_4.jpg",
+          "makeup_focus": "Full glam with perfect color matching",
+          "lighting": "Bright professional lighting",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

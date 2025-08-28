@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_002",
+    "name": "Isabella Martinez",
+    "basic_info": {
+      "age_range": "22-28",
+      "nationality": "Spanish",
+      "location": "Madrid, Spain",
+      "profession": "Beauty Content Creator"
+    },
+    "appearance": {
+      "skin_tone": "Medium with golden undertones",
+      "hair_color": "Dark Brown",
+      "eye_color": "Brown",
+      "face_shape": "Heart-shaped",
+      "height": "5'5\" (165cm)",
+      "distinctive_features": ["Expressive eyes", "Natural brows", "Defined jawline"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Natural glam with statement lips",
+      "preferred_lip_colors": ["Terracotta", "Warm reds", "Mauve", "Brown natural"],
+      "skill_level": "Advanced",
+      "specialties": ["Natural contouring", "Warm color palettes", "Day-to-night looks"],
+      "makeup_intensity": "Medium"
+    },
+    "social_media": {
+      "estimated_followers": "52K",
+      "engagement_rate": "5.8%",
+      "platform_focus": ["Instagram", "TikTok"],
+      "content_types": ["GRWM", "Product testing", "Lifestyle content", "Spanish beauty tips"]
+    },
+    "brand_partnerships": {
+      "tier": "Rising influencer",
+      "collaboration_history": ["Zara Beauty", "Rare Beauty", "The Ordinary"],
+      "preferred_brands": "Affordable luxury",
+      "rate_range": "$300-$800 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/2/user_1.jpg",
+          "makeup_focus": "Everyday natural look",
+          "lighting": "Golden hour natural",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/2/user_2.jpg",
+          "makeup_focus": "Dewy skin finish",
+          "lighting": "Warm natural light",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/2/user_3.jpg",
+          "makeup_focus": "Warm eyeshadow tones",
+          "lighting": "Soft indoor",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/2/user_4.jpg",
+          "makeup_focus": "No-makeup makeup look",
+          "lighting": "Natural window light",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

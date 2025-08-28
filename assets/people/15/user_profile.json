@@ -1,0 +1,62 @@
+{
+  "user_profile": {
+    "user_id": "user_015",
+    "name": "Keiko Nakamura",
+    "basic_info": {
+      "age_range": "25-31",
+      "nationality": "Japanese",
+      "location": "Osaka, Japan",
+      "profession": "Minimalist Beauty Expert & Sustainable Beauty Advocate"
+    },
+    "appearance": {
+      "skin_tone": "Light with neutral undertones",
+      "hair_color": "Black (natural straight)",
+      "eye_color": "Dark Brown",
+      "face_shape": "Oval",
+      "height": "5'4\" (162cm)",
+      "distinctive_features": ["Natural Japanese beauty", "Clear skin", "Minimalist aesthetic", "Elegant simplicity"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Japanese minimalist natural enhancement",
+      "preferred_lip_colors": ["Natural pink", "Clear balm", "Subtle coral", "Natural rose"],
+      "skill_level": "Advanced",
+      "specialties": ["Minimalist makeup", "Skincare focus", "Natural enhancement", "Sustainable beauty"],
+      "makeup_intensity": "Light"
+    },
+    "social_media": {
+      "estimated_followers": "73K",
+      "engagement_rate": "8.7%",
+      "platform_focus": ["Instagram", "YouTube"],
+      "content_types": ["Minimalist tutorials", "Skincare routines", "Sustainable beauty", "Japanese beauty philosophy"]
+    },
+    "brand_partnerships": {
+      "tier": "Mid-tier influencer",
+      "collaboration_history": ["Shiseido", "SK-II", "Sustainable beauty brands", "Japanese natural brands"],
+      "preferred_brands": "Japanese and sustainable beauty brands",
+      "rate_range": "$350-$800 per post (¥50K-120K)"
+    },
+    "images_analysis": {
+      "total_images": 3,
+      "image_details": [
+        {
+          "filename": "assets/people/15/user_1.jpg",
+          "makeup_focus": "Natural Japanese minimalist look",
+          "lighting": "Soft natural lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/15/user_2.jpg",
+          "makeup_focus": "Skincare-focused natural glow",
+          "lighting": "Clean bright lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/15/user_3.jpg",
+          "makeup_focus": "Subtle enhancement technique",
+          "lighting": "Gentle natural light",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

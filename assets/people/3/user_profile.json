@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_003",
+    "name": "Sophie Chen",
+    "basic_info": {
+      "age_range": "20-26",
+      "nationality": "Canadian",
+      "location": "Toronto, ON",
+      "profession": "Makeup Artist & Beauty Blogger"
+    },
+    "appearance": {
+      "skin_tone": "Light with neutral undertones",
+      "hair_color": "Black",
+      "eye_color": "Dark Brown",
+      "face_shape": "Round",
+      "height": "5'3\" (160cm)",
+      "distinctive_features": ["Monolid eyes", "Straight brows", "Small delicate features"]
+    },
+    "makeup_expertise": {
+      "signature_style": "K-beauty inspired with gradient lips",
+      "preferred_lip_colors": ["Coral pink", "Peach", "Berry stain", "Clear gloss"],
+      "skill_level": "Intermediate to Advanced",
+      "specialties": ["Gradient lips", "Glass skin", "Monolid eye makeup", "Asian beauty techniques"],
+      "makeup_intensity": "Light to Medium"
+    },
+    "social_media": {
+      "estimated_followers": "28K",
+      "engagement_rate": "7.2%",
+      "platform_focus": ["Instagram", "YouTube", "TikTok"],
+      "content_types": ["K-beauty reviews", "Skincare routines", "Affordable makeup", "Asian beauty tips"]
+    },
+    "brand_partnerships": {
+      "tier": "Micro-influencer",
+      "collaboration_history": ["Innisfree", "Etude House", "Glossier", "The INKEY List"],
+      "preferred_brands": "K-beauty and affordable Western brands",
+      "rate_range": "$200-$500 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/3/user_1.jpg",
+          "makeup_focus": "K-beauty gradient lips",
+          "lighting": "Bright even lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/3/user_2.jpg",
+          "makeup_focus": "Dewy glass skin",
+          "lighting": "Soft natural light",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/3/user_3.jpg",
+          "makeup_focus": "Monolid eye enhancement",
+          "lighting": "Clean studio lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/3/user_4.jpg",
+          "makeup_focus": "Natural enhancement",
+          "lighting": "Bright natural light",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_005",
+    "name": "Luna Andersson",
+    "basic_info": {
+      "age_range": "23-29",
+      "nationality": "Swedish",
+      "location": "Stockholm, Sweden",
+      "profession": "Beauty Influencer & Content Creator"
+    },
+    "appearance": {
+      "skin_tone": "Fair with cool undertones",
+      "hair_color": "Platinum Blonde",
+      "eye_color": "Green",
+      "face_shape": "Square",
+      "height": "5'8\" (173cm)",
+      "distinctive_features": ["Striking green eyes", "High cheekbones", "Angular features", "Scandinavian beauty"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Scandinavian minimalism with pop of color",
+      "preferred_lip_colors": ["Muted pinks", "Coral", "Berry", "Clear balms"],
+      "skill_level": "Advanced",
+      "specialties": ["Natural enhancement", "Subtle contouring", "Fresh looks", "Nordic beauty"],
+      "makeup_intensity": "Light to Medium"
+    },
+    "social_media": {
+      "estimated_followers": "68K",
+      "engagement_rate": "4.9%",
+      "platform_focus": ["Instagram", "TikTok"],
+      "content_types": ["Sustainable beauty", "Nordic lifestyle", "Minimalist tutorials", "Clean beauty"]
+    },
+    "brand_partnerships": {
+      "tier": "Mid-tier influencer",
+      "collaboration_history": ["Glossier", "The Ordinary", "Weleda", "Nordic beauty brands"],
+      "preferred_brands": "Clean and sustainable beauty",
+      "rate_range": "$400-$1000 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/5/user_1.jpg",
+          "makeup_focus": "Minimalist enhancement",
+          "lighting": "Nordic natural light",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/5/user_2.jpg",
+          "makeup_focus": "Scandinavian glow",
+          "lighting": "Soft natural light",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/5/user_3.jpg",
+          "makeup_focus": "Effortless beauty",
+          "lighting": "Clean bright lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/5/user_4.jpg",
+          "makeup_focus": "Healthy skin emphasis",
+          "lighting": "Natural window light",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

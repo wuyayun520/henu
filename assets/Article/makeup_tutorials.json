@@ -1,0 +1,971 @@
+{
+  "tutorials": [
+    {
+      "id": 1,
+      "image": "assets/Article/article_1.jpg",
+      "title": "Classic Red Lipstick Application Masterclass",
+      "description": "Master the art of applying classic red lipstick to create an elegant and timeless look that suits any occasion",
+      "difficulty": "Beginner",
+      "duration": "15 minutes",
+      "content": "The classic red lip is a beauty staple that has stood the test of time. This tutorial will teach you everything you need to know about achieving the perfect red lip, from preparation to application techniques. Red lipstick can instantly elevate any look and boost your confidence. Whether you're heading to a business meeting, a romantic date, or a glamorous party, a well-applied red lip will make you stand out.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Preparation",
+          "description": "Start by exfoliating your lips with a gentle lip scrub to remove dead skin cells and create a smooth canvas for your lipstick",
+          "details": "Use circular motions with your finger or a soft toothbrush to gently exfoliate. Focus on the center of your lips and work outward. Rinse with warm water and pat dry."
+        },
+        {
+          "step": 2,
+          "title": "Hydration",
+          "description": "Apply a nourishing lip balm and let it absorb for 2-3 minutes to ensure your lips are well-hydrated",
+          "details": "Choose a lip balm with ingredients like shea butter, coconut oil, or vitamin E. Avoid petroleum-based products as they can prevent lipstick from adhering properly."
+        },
+        {
+          "step": 3,
+          "title": "Lip Liner Application",
+          "description": "Use a red lip liner that matches your lipstick to define and shape your lips",
+          "details": "Start from the cupid's bow and work outward. Follow your natural lip line but you can slightly overline for fuller lips. Fill in the entire lip area with the liner to create a base."
+        },
+        {
+          "step": 4,
+          "title": "Lipstick Application",
+          "description": "Apply your red lipstick starting from the center of your lips and working outward",
+          "details": "Use a lip brush for precise application or apply directly from the bullet. Start with the upper lip, then the lower lip. Build up the color in thin layers for better staying power."
+        },
+        {
+          "step": 5,
+          "title": "Blotting",
+          "description": "Gently blot your lips with a tissue to remove excess product and set the color",
+          "details": "Place a tissue between your lips and press gently. This removes excess oils and helps the lipstick adhere better to your lips."
+        },
+        {
+          "step": 6,
+          "title": "Final Touch",
+          "description": "Apply a second layer of lipstick for maximum color intensity and longevity",
+          "details": "This second layer will ensure your red lip stays vibrant throughout the day. You can also add a touch of highlighter on your cupid's bow for extra dimension."
+        }
+      ],
+      "products": [
+        {
+          "name": "Red Lipstick",
+          "recommendations": ["MAC Ruby Woo", "NARS Dragon Girl", "Charlotte Tilbury Red Carpet Red"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Liner",
+          "recommendations": ["MAC Cherry", "Urban Decay 714", "NYX Cherry Skies"],
+          "type": "Lip Liner"
+        },
+        {
+          "name": "Lip Balm",
+          "recommendations": ["Fresh Sugar Lip Treatment", "Burt's Bees", "EOS Smooth Sphere"],
+          "type": "Lip Care"
+        },
+        {
+          "name": "Lip Scrub",
+          "recommendations": ["Fresh Sugar Lip Polish", "Lush Mint Julips", "ELF Lip Exfoliator"],
+          "type": "Lip Care"
+        }
+      ],
+      "tips": [
+        "Always test red lipsticks on your skin tone to find the perfect shade",
+        "Use a lip primer for extra staying power",
+        "Keep a lip liner in your bag for touch-ups throughout the day",
+        "Avoid eating oily foods to prevent lipstick from smudging",
+        "Consider your undertone when choosing a red lipstick"
+      ],
+      "occasions": ["Business meetings", "Date nights", "Special events", "Photography sessions"],
+      "skill_level": "Beginner-friendly with professional results"
+    },
+    {
+      "id": 2,
+      "image": "assets/Article/article_2.jpg",
+      "title": "Ombre Lip Art Technique Guide",
+      "description": "Learn the art of creating stunning ombre lip effects that add dimension and depth to your makeup look",
+      "difficulty": "Intermediate",
+      "duration": "20 minutes",
+      "content": "Ombre lips are a beautiful way to add dimension and create a modern, artistic look. This technique involves blending two or more colors seamlessly to create a gradient effect. Perfect for those who want to experiment with color and add a unique touch to their makeup routine. The ombre effect can be subtle and natural or bold and dramatic, depending on your preference.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Base Preparation",
+          "description": "Apply a light concealer or foundation to your lips to create a neutral base",
+          "details": "This step ensures that the colors you apply will show up true to their shade and creates a clean canvas for the ombre effect."
+        },
+        {
+          "step": 2,
+          "title": "Dark Color Application",
+          "description": "Apply the darker color to the center of your lips, both upper and lower",
+          "details": "Start with a small amount and build up the intensity. The dark color should cover about 60% of your lip area, focusing on the center."
+        },
+        {
+          "step": 3,
+          "title": "Blending Technique",
+          "description": "Use your finger or a lip brush to blend the dark color outward",
+          "details": "Work in small, circular motions to create a soft gradient. Don't blend too far - you want to maintain the intensity in the center."
+        },
+        {
+          "step": 4,
+          "title": "Light Color Application",
+          "description": "Apply the lighter color to the outer edges of your lips",
+          "details": "Use a lip brush for precise application. The light color should blend seamlessly with the dark color in the middle."
+        },
+        {
+          "step": 5,
+          "title": "Final Blending",
+          "description": "Use a clean lip brush to blend the two colors together seamlessly",
+          "details": "Work back and forth between the colors until you achieve a smooth transition. Take your time with this step for the best results."
+        },
+        {
+          "step": 6,
+          "title": "Enhancement",
+          "description": "Add a touch of highlighter to your cupid's bow and blend with a small brush",
+          "details": "This adds extra dimension and makes the ombre effect more pronounced. You can also add a clear gloss for extra shine."
+        }
+      ],
+      "products": [
+        {
+          "name": "Dark Lipstick",
+          "recommendations": ["MAC Diva", "NARS Train Bleu", "Urban Decay Blackmail"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Light Lipstick",
+          "recommendations": ["MAC Angel", "NARS Barbarella", "Charlotte Tilbury Kim K.W."],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Brushes",
+          "recommendations": ["MAC 316", "Real Techniques Detailer Brush", "Sigma E05"],
+          "type": "Tools"
+        },
+        {
+          "name": "Highlighter",
+          "recommendations": ["Becca Shimmering Skin Perfector", "MAC Soft & Gentle", "The Balm Mary-Lou Manizer"],
+          "type": "Highlighter"
+        }
+      ],
+      "tips": [
+        "Choose colors that are in the same family for a more natural look",
+        "Practice the technique on your hand first",
+        "Use a lip primer to help colors blend better",
+        "Don't rush the blending process",
+        "Consider your skin tone when choosing ombre colors"
+      ],
+      "occasions": ["Evening events", "Photography", "Creative makeup looks", "Fashion shows"],
+      "skill_level": "Intermediate - requires practice and patience"
+    },
+    {
+      "id": 3,
+      "image": "assets/Article/article_3.jpg",
+      "title": "Korean Gradient Lip Tutorial",
+      "description": "Master the popular Korean gradient lip technique that creates a natural, flushed look",
+      "difficulty": "Intermediate",
+      "duration": "15 minutes",
+      "content": "The Korean gradient lip has become a global beauty trend. This technique creates a natural, flushed appearance that mimics the look of naturally rosy lips. It's perfect for achieving a youthful, innocent look that's both trendy and wearable for everyday occasions. The key is creating a soft gradient from the inner lips outward.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Concealing",
+          "description": "Apply concealer or foundation to your lips to neutralize your natural lip color",
+          "details": "Use a small brush or your finger to apply a thin layer of concealer. This creates a blank canvas and ensures the gradient effect shows up clearly."
+        },
+        {
+          "step": 2,
+          "title": "Inner Lip Application",
+          "description": "Apply the lip color to the very center of your lips, both upper and lower",
+          "details": "Start with a small amount of product and focus on the innermost part of your lips. This creates the characteristic gradient effect of this look."
+        },
+        {
+          "step": 3,
+          "title": "Gradient Creation",
+          "description": "Use your finger to gently blend the color outward, creating a soft gradient",
+          "details": "Work in small, gentle strokes from the center outward. The color should fade naturally, covering about 30-40% of your lip area."
+        },
+        {
+          "step": 4,
+          "title": "Intensity Building",
+          "description": "Add more color to the center and blend again for increased intensity",
+          "details": "Layer the color gradually to build up the intensity in the center while maintaining the soft gradient effect."
+        },
+        {
+          "step": 5,
+          "title": "Edge Softening",
+          "description": "Use a clean finger or brush to soften any harsh edges",
+          "details": "Ensure the transition from colored to natural lip is seamless and natural-looking."
+        },
+        {
+          "step": 6,
+          "title": "Final Enhancement",
+          "description": "Apply a clear lip gloss or balm to add shine and moisture",
+          "details": "This step adds a fresh, dewy finish that enhances the natural look of the gradient lip."
+        }
+      ],
+      "products": [
+        {
+          "name": "Lip Color",
+          "recommendations": ["Peripera Ink Velvet", "3CE Velvet Lip Tint", "Etude House Dear Darling Tint"],
+          "type": "Lip Tint"
+        },
+        {
+          "name": "Concealer",
+          "recommendations": ["NARS Radiant Creamy Concealer", "MAC Pro Longwear", "Tarte Shape Tape"],
+          "type": "Concealer"
+        },
+        {
+          "name": "Lip Gloss",
+          "recommendations": ["Fenty Beauty Gloss Bomb", "MAC Clear Lipglass", "NYX Butter Gloss"],
+          "type": "Lip Gloss"
+        }
+      ],
+      "tips": [
+        "Choose a lip color that's 2-3 shades darker than your natural lip color",
+        "Practice the technique with different amounts of product",
+        "The gradient should look natural, not like a harsh line",
+        "This look works best with matte or velvet finish products",
+        "You can use lipstick, lip tint, or even cream blush for this effect"
+      ],
+      "occasions": ["Everyday wear", "School/University", "Casual outings", "Fresh makeup looks"],
+      "skill_level": "Intermediate - perfect for beginners wanting to try Korean beauty trends"
+    },
+    {
+      "id": 4,
+      "image": "assets/Article/article_4.jpg",
+      "title": "Long-Lasting Matte Lipstick Application",
+      "description": "Learn professional techniques to make your matte lipstick last all day without smudging or fading",
+      "difficulty": "Beginner",
+      "duration": "12 minutes",
+      "content": "Matte lipsticks are known for their long-lasting formula and sophisticated finish, but they can be tricky to apply correctly. This tutorial will teach you how to achieve a flawless matte lip that stays put for hours. Perfect for busy days when you don't have time for touch-ups, or special occasions where you need your lipstick to last.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Priming",
+          "description": "Apply a lip primer to create a smooth, even base for your lipstick",
+          "details": "Choose a lip primer that's specifically designed for long-wear formulas. This will help the lipstick adhere better and prevent feathering."
+        },
+        {
+          "step": 2,
+          "title": "Lip Lining",
+          "description": "Fill in your entire lip area with a matching lip liner",
+          "details": "This creates a base that helps the lipstick stick better and prevents it from bleeding outside your lip line."
+        },
+        {
+          "step": 3,
+          "title": "First Layer",
+          "description": "Apply your matte lipstick in thin, even layers",
+          "details": "Start from the center and work outward. Use a lip brush for precise application or apply directly from the bullet."
+        },
+        {
+          "step": 4,
+          "title": "Blotting",
+          "description": "Gently blot your lips with a tissue to remove excess product",
+          "details": "This removes oils that could break down the lipstick and helps set the color in place."
+        },
+        {
+          "step": 5,
+          "title": "Second Layer",
+          "description": "Apply a second layer of lipstick for maximum intensity and longevity",
+          "details": "This second layer will ensure your lipstick stays vibrant and doesn't fade throughout the day."
+        },
+        {
+          "step": 6,
+          "title": "Setting",
+          "description": "Lightly dust your lips with translucent powder to set the lipstick",
+          "details": "Use a small brush to apply a very light layer of powder. This creates a barrier that helps prevent smudging."
+        }
+      ],
+      "products": [
+        {
+          "name": "Matte Lipstick",
+          "recommendations": ["MAC Retro Matte", "NARS Velvet Matte", "Charlotte Tilbury Matte Revolution"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Primer",
+          "recommendations": ["MAC Prep + Prime Lip", "Urban Decay Lip Primer Potion", "Too Faced Lip Insurance"],
+          "type": "Lip Primer"
+        },
+        {
+          "name": "Lip Liner",
+          "recommendations": ["MAC Lip Pencil", "Urban Decay 24/7 Lip Pencil", "NYX Slim Lip Pencil"],
+          "type": "Lip Liner"
+        },
+        {
+          "name": "Translucent Powder",
+          "recommendations": ["Laura Mercier Translucent Powder", "RCMA No Color Powder", "NYX HD Finishing Powder"],
+          "type": "Setting Powder"
+        }
+      ],
+      "tips": [
+        "Exfoliate your lips the night before for a smoother application",
+        "Avoid eating oily foods to prevent lipstick breakdown",
+        "Carry your lipstick for touch-ups after meals",
+        "Use a lip brush for more precise application",
+        "Don't apply too much pressure when blotting"
+      ],
+      "occasions": ["Work days", "Long events", "Photography sessions", "Special occasions"],
+      "skill_level": "Beginner-friendly with professional results"
+    },
+    {
+      "id": 5,
+      "image": "assets/Article/article_5.jpg",
+      "title": "Shimmer Lipstick Application Guide",
+      "description": "Learn how to apply shimmer lipstick to create a glamorous, eye-catching lip look",
+      "difficulty": "Beginner",
+      "duration": "12 minutes",
+      "content": "Shimmer lipsticks add a beautiful, luminous finish to your lips that catches the light and creates a stunning effect. Perfect for evening events, parties, or when you want to add some sparkle to your look. This tutorial will teach you how to apply shimmer lipstick for maximum impact while maintaining a polished appearance.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Preparation",
+          "description": "Apply a hydrating lip balm and let it absorb for 2-3 minutes",
+          "details": "Shimmer lipsticks can emphasize dry patches, so well-hydrated lips are essential for a smooth application."
+        },
+        {
+          "step": 2,
+          "title": "Lip Lining",
+          "description": "Use a lip liner that matches your shimmer lipstick to define your lip shape",
+          "details": "This creates a clean edge and prevents the shimmer from bleeding outside your lip line."
+        },
+        {
+          "step": 3,
+          "title": "Shimmer Application",
+          "description": "Apply your shimmer lipstick starting from the center of your lips",
+          "details": "Use a lip brush for precise application or apply directly from the bullet. Build up the color in thin layers."
+        },
+        {
+          "step": 4,
+          "title": "Highlighting",
+          "description": "Add a touch of highlighter to your cupid's bow to enhance the shimmer effect",
+          "details": "This creates extra dimension and makes the shimmer more pronounced."
+        },
+        {
+          "step": 5,
+          "title": "Edge Blending",
+          "description": "Use a clean lip brush to blend any harsh edges",
+          "details": "Ensure the shimmer effect looks natural and polished."
+        },
+        {
+          "step": 6,
+          "title": "Final Gloss",
+          "description": "Apply a clear lip gloss to enhance the shimmer and add extra shine",
+          "details": "This step intensifies the shimmer effect and creates a more dramatic look."
+        }
+      ],
+      "products": [
+        {
+          "name": "Shimmer Lipstick",
+          "recommendations": ["MAC Frost", "NARS Shimmer", "Urban Decay Metallized"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Liner",
+          "recommendations": ["MAC Lip Pencil", "Urban Decay 24/7 Lip Pencil", "NYX Slim Lip Pencil"],
+          "type": "Lip Liner"
+        },
+        {
+          "name": "Highlighter",
+          "recommendations": ["Becca Shimmering Skin Perfector", "MAC Soft & Gentle", "The Balm Mary-Lou Manizer"],
+          "type": "Highlighter"
+        },
+        {
+          "name": "Lip Gloss",
+          "recommendations": ["Fenty Beauty Gloss Bomb", "MAC Clear Lipglass", "NYX Butter Gloss"],
+          "type": "Lip Gloss"
+        }
+      ],
+      "tips": [
+        "Choose shimmer lipsticks that complement your skin tone",
+        "Apply shimmer lipstick with a light hand to avoid overwhelming your look",
+        "Pair with minimal eye makeup to let your lips be the focus",
+        "Consider the lighting when choosing shimmer intensity",
+        "Use a lip brush for more precise application"
+      ],
+      "occasions": ["Evening events", "Parties", "Special occasions", "Photography sessions"],
+      "skill_level": "Beginner-friendly with glamorous results"
+    },
+    {
+      "id": 6,
+      "image": "assets/Article/article_6.jpg",
+      "title": "Two-Tone Lip Art Masterclass",
+      "description": "Create stunning two-tone lip looks that showcase your creativity and artistic skills",
+      "difficulty": "Advanced",
+      "duration": "25 minutes",
+      "content": "Two-tone lips are a bold and creative way to express your artistic side through makeup. This advanced technique allows you to experiment with color combinations and create unique, eye-catching looks. Perfect for fashion shows, editorial shoots, or when you want to make a statement. This tutorial will teach you how to master this challenging but rewarding technique.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Concealing",
+          "description": "Apply concealer or foundation to completely neutralize your natural lip color",
+          "details": "This creates a blank canvas and ensures that your chosen colors show up true to their shade without interference from your natural lip color."
+        },
+        {
+          "step": 2,
+          "title": "Upper Lip Application",
+          "description": "Apply the first color to your entire upper lip using a lip brush",
+          "details": "Choose your colors carefully - they should complement each other. Start with the lighter or more neutral color on the upper lip."
+        },
+        {
+          "step": 3,
+          "title": "Lower Lip Application",
+          "description": "Apply the second color to your entire lower lip",
+          "details": "Use a clean lip brush to avoid color contamination. Apply the darker or more vibrant color to the lower lip for better balance."
+        },
+        {
+          "step": 4,
+          "title": "Blending Junction",
+          "description": "Use a small brush to blend the colors where they meet",
+          "details": "Create a subtle gradient where the two colors meet to avoid a harsh line. This creates a more sophisticated look."
+        },
+        {
+          "step": 5,
+          "title": "Edge Refinement",
+          "description": "Use a lip liner to clean up and define the edges",
+          "details": "Choose a lip liner that matches the darker color or use a neutral shade. This creates clean, defined edges."
+        },
+        {
+          "step": 6,
+          "title": "Final Enhancement",
+          "description": "Add highlighter to your cupid's bow and blend with a small brush",
+          "details": "This adds dimension and draws attention to your creative lip art. You can also add a touch of glitter for extra drama."
+        }
+      ],
+      "products": [
+        {
+          "name": "Two Lipsticks",
+          "recommendations": ["MAC Ruby Woo + MAC Angel", "NARS Dragon Girl + NARS Barbarella", "Urban Decay 714 + Urban Decay Naked"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Concealer",
+          "recommendations": ["NARS Radiant Creamy Concealer", "MAC Pro Longwear", "Tarte Shape Tape"],
+          "type": "Concealer"
+        },
+        {
+          "name": "Lip Brushes",
+          "recommendations": ["MAC 316", "Real Techniques Detailer Brush", "Sigma E05"],
+          "type": "Tools"
+        },
+        {
+          "name": "Highlighter",
+          "recommendations": ["Becca Shimmering Skin Perfector", "MAC Soft & Gentle", "The Balm Mary-Lou Manizer"],
+          "type": "Highlighter"
+        }
+      ],
+      "tips": [
+        "Choose colors that are in the same color family for a more cohesive look",
+        "Practice the technique on your hand first to perfect the blending",
+        "Consider your outfit and overall makeup when choosing colors",
+        "Don't be afraid to experiment with unexpected color combinations",
+        "Use a lip primer to help colors blend better and last longer"
+      ],
+      "occasions": ["Fashion shows", "Editorial shoots", "Creative events", "Artistic makeup looks"],
+      "skill_level": "Advanced - requires practice and artistic vision"
+    },
+    {
+      "id": 7,
+      "image": "assets/Article/article_7.jpg",
+      "title": "Natural Nude Lip Application",
+      "description": "Master the art of nude lips to achieve a natural, effortless beauty look",
+      "difficulty": "Beginner",
+      "duration": "10 minutes",
+      "content": "Nude lips are a timeless beauty trend that creates a natural, polished look suitable for any occasion. The key to perfect nude lips is finding the right shade that complements your skin tone and undertone. This tutorial will teach you how to choose and apply nude lipstick for a flawless, natural finish that enhances your natural beauty.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Exfoliation",
+          "description": "Gently exfoliate your lips to remove dead skin cells and create a smooth surface",
+          "details": "Use a lip scrub or make your own with sugar and honey. This ensures a smooth application and prevents the nude color from emphasizing dry patches."
+        },
+        {
+          "step": 2,
+          "title": "Hydration",
+          "description": "Apply a nourishing lip balm and let it absorb for 3-5 minutes",
+          "details": "Well-hydrated lips are essential for nude lipstick application. Choose a lip balm that's not too greasy to ensure the lipstick adheres properly."
+        },
+        {
+          "step": 3,
+          "title": "Color Selection",
+          "description": "Choose a nude lipstick that's 1-2 shades darker than your natural lip color",
+          "details": "The perfect nude should enhance your natural lip color, not wash you out. Test the color on your lips, not your hand, for the most accurate result."
+        },
+        {
+          "step": 4,
+          "title": "Application",
+          "description": "Apply the nude lipstick starting from the center of your lips",
+          "details": "Use a lip brush for precise application or apply directly from the bullet. Build up the color gradually for a natural look."
+        },
+        {
+          "step": 5,
+          "title": "Edge Blending",
+          "description": "Use your finger to gently blend the edges for a natural finish",
+          "details": "This creates a soft, diffused edge that looks more natural and less harsh than a perfectly defined line."
+        },
+        {
+          "step": 6,
+          "title": "Final Touch",
+          "description": "Apply a clear lip gloss or balm to add moisture and shine",
+          "details": "This step adds a fresh, dewy finish that enhances the natural look of your nude lips."
+        }
+      ],
+      "products": [
+        {
+          "name": "Nude Lipstick",
+          "recommendations": ["MAC Velvet Teddy", "NARS Dolce Vita", "Charlotte Tilbury Pillow Talk"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Balm",
+          "recommendations": ["Fresh Sugar Lip Treatment", "Burt's Bees", "EOS Smooth Sphere"],
+          "type": "Lip Care"
+        },
+        {
+          "name": "Lip Scrub",
+          "recommendations": ["Fresh Sugar Lip Polish", "Lush Mint Julips", "ELF Lip Exfoliator"],
+          "type": "Lip Care"
+        },
+        {
+          "name": "Lip Gloss",
+          "recommendations": ["Fenty Beauty Gloss Bomb", "MAC Clear Lipglass", "NYX Butter Gloss"],
+          "type": "Lip Gloss"
+        }
+      ],
+      "tips": [
+        "Test nude lipsticks in natural lighting for the most accurate color match",
+        "Consider your undertone when choosing a nude shade",
+        "Warm undertones look best with peachy nudes, cool undertones with pinky nudes",
+        "Don't be afraid to mix two nude shades to create your perfect color",
+        "Apply a touch of concealer around your lips to make the nude color pop"
+      ],
+      "occasions": ["Everyday wear", "Work/Office", "Casual outings", "Natural makeup looks"],
+      "skill_level": "Beginner-friendly with natural results"
+    },
+    {
+      "id": 8,
+      "image": "assets/Article/article_8.jpg",
+      "title": "Vintage Red Lip Application",
+      "description": "Create a timeless vintage red lip that evokes classic Hollywood glamour",
+      "difficulty": "Intermediate",
+      "duration": "18 minutes",
+      "content": "The vintage red lip is an iconic beauty look that has been popular for decades. This classic style evokes the glamour of Old Hollywood and creates a sophisticated, elegant appearance. Perfect for special occasions, vintage-themed events, or when you want to channel your inner Marilyn Monroe. This tutorial will teach you how to achieve the perfect vintage red lip with precise application techniques.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Priming",
+          "description": "Apply a lip primer to create a smooth, even base for your vintage red lipstick",
+          "details": "A good lip primer will help the red lipstick adhere better and prevent it from bleeding or feathering throughout the day."
+        },
+        {
+          "step": 2,
+          "title": "Lip Lining",
+          "description": "Use a red lip liner to define and slightly overline your lips for a fuller appearance",
+          "details": "Start from the cupid's bow and work outward. Vintage red lips are typically full and defined, so don't be afraid to slightly overline for that classic look."
+        },
+        {
+          "step": 3,
+          "title": "Lipstick Application",
+          "description": "Apply your vintage red lipstick with precision using a lip brush",
+          "details": "Use a lip brush for the most precise application. Start from the center and work outward, ensuring even coverage and clean edges."
+        },
+        {
+          "step": 4,
+          "title": "Edge Definition",
+          "description": "Use a small brush to clean up and perfect the edges of your lipstick",
+          "details": "This step ensures your vintage red lip has clean, defined edges that look professional and polished."
+        },
+        {
+          "step": 5,
+          "title": "Highlighting",
+          "description": "Add a touch of highlighter to your cupid's bow to enhance the vintage look",
+          "details": "This adds dimension and creates that classic vintage glow that was popular in Old Hollywood."
+        },
+        {
+          "step": 6,
+          "title": "Concealer Cleanup",
+          "description": "Use concealer to clean up around your lips for a flawless finish",
+          "details": "This creates a clean, defined edge and ensures your vintage red lip looks perfect and professional."
+        }
+      ],
+      "products": [
+        {
+          "name": "Vintage Red Lipstick",
+          "recommendations": ["MAC Ruby Woo", "NARS Dragon Girl", "Charlotte Tilbury Red Carpet Red"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Liner",
+          "recommendations": ["MAC Cherry", "Urban Decay 714", "NYX Cherry Skies"],
+          "type": "Lip Liner"
+        },
+        {
+          "name": "Lip Primer",
+          "recommendations": ["MAC Prep + Prime Lip", "Urban Decay Lip Primer Potion", "Too Faced Lip Insurance"],
+          "type": "Lip Primer"
+        },
+        {
+          "name": "Highlighter",
+          "recommendations": ["Becca Shimmering Skin Perfector", "MAC Soft & Gentle", "The Balm Mary-Lou Manizer"],
+          "type": "Highlighter"
+        },
+        {
+          "name": "Concealer",
+          "recommendations": ["NARS Radiant Creamy Concealer", "MAC Pro Longwear", "Tarte Shape Tape"],
+          "type": "Concealer"
+        }
+      ],
+      "tips": [
+        "Choose a blue-based red for a classic vintage look",
+        "Practice the application technique before your special occasion",
+        "Pair with minimal eye makeup to let your lips be the focus",
+        "Consider your skin tone when choosing the perfect vintage red",
+        "Use a lip brush for the most precise application"
+      ],
+      "occasions": ["Vintage events", "Special occasions", "Photography sessions", "Classic makeup looks"],
+      "skill_level": "Intermediate - requires precision and attention to detail"
+    },
+    {
+      "id": 9,
+      "image": "assets/Article/article_9.jpg",
+      "title": "Pink Lipstick Application Guide",
+      "description": "Learn how to choose and apply pink lipstick to create a sweet and feminine look",
+      "difficulty": "Beginner",
+      "duration": "12 minutes",
+      "content": "Pink lipstick is a versatile choice that can range from soft and natural to bold and vibrant. It's perfect for creating a sweet, feminine look that's suitable for many occasions. The key to perfect pink lips is choosing the right shade for your skin tone and undertone. This tutorial will help you find your perfect pink and teach you how to apply it flawlessly.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Preparation",
+          "description": "Apply a hydrating lip balm to ensure your lips are smooth and moisturized",
+          "details": "Pink lipstick can emphasize dry patches, so well-hydrated lips are essential for a smooth, even application."
+        },
+        {
+          "step": 2,
+          "title": "Color Selection",
+          "description": "Choose a pink lipstick that complements your skin tone and undertone",
+          "details": "Warm undertones look best with peachy pinks, while cool undertones work well with blue-based pinks. Test the color on your lips for the most accurate result."
+        },
+        {
+          "step": 3,
+          "title": "Application",
+          "description": "Apply your pink lipstick starting from the center of your lips",
+          "details": "Use a lip brush for precise application or apply directly from the bullet. Build up the color gradually for a natural look."
+        },
+        {
+          "step": 4,
+          "title": "Blending",
+          "description": "Use your finger to gently blend the color outward for a soft, natural finish",
+          "details": "This creates a soft, diffused edge that looks more natural and less harsh than a perfectly defined line."
+        },
+        {
+          "step": 5,
+          "title": "Highlighting",
+          "description": "Add a touch of highlighter to your cupid's bow to enhance the pink lip look",
+          "details": "This adds dimension and creates a fresh, youthful appearance that complements pink lipstick perfectly."
+        },
+        {
+          "step": 6,
+          "title": "Final Gloss",
+          "description": "Apply a clear or pink-tinted lip gloss to add shine and moisture",
+          "details": "This step adds a fresh, dewy finish that enhances the sweet, feminine look of your pink lips."
+        }
+      ],
+      "products": [
+        {
+          "name": "Pink Lipstick",
+          "recommendations": ["MAC Angel", "NARS Barbarella", "Charlotte Tilbury Kim K.W."],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Balm",
+          "recommendations": ["Fresh Sugar Lip Treatment", "Burt's Bees", "EOS Smooth Sphere"],
+          "type": "Lip Care"
+        },
+        {
+          "name": "Highlighter",
+          "recommendations": ["Becca Shimmering Skin Perfector", "MAC Soft & Gentle", "The Balm Mary-Lou Manizer"],
+          "type": "Highlighter"
+        },
+        {
+          "name": "Lip Gloss",
+          "recommendations": ["Fenty Beauty Gloss Bomb", "MAC Clear Lipglass", "NYX Butter Gloss"],
+          "type": "Lip Gloss"
+        }
+      ],
+      "tips": [
+        "Test pink lipsticks in natural lighting for the most accurate color match",
+        "Consider your undertone when choosing a pink shade",
+        "Warm undertones look best with peachy pinks, cool undertones with blue-based pinks",
+        "Don't be afraid to experiment with different pink intensities",
+        "Apply a touch of concealer around your lips to make the pink color pop"
+      ],
+      "occasions": ["Everyday wear", "Date nights", "Casual outings", "Sweet makeup looks"],
+      "skill_level": "Beginner-friendly with feminine results"
+    },
+    {
+      "id": 10,
+      "image": "assets/Article/article_10.jpg",
+      "title": "Orange Lipstick Application Tutorial",
+      "description": "Master the art of orange lipstick to create a vibrant, energetic look",
+      "difficulty": "Intermediate",
+      "duration": "15 minutes",
+      "content": "Orange lipstick is a bold and vibrant choice that can instantly brighten your look and add energy to your appearance. It's perfect for summer days, tropical vacations, or when you want to make a statement. Orange lips work particularly well with warm skin tones and can range from soft coral to bright tangerine. This tutorial will teach you how to choose and apply orange lipstick for maximum impact.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Priming",
+          "description": "Apply a lip primer to create a smooth base for your orange lipstick",
+          "details": "Orange lipstick can be bold, so a good base will help it apply evenly and last longer without smudging."
+        },
+        {
+          "step": 2,
+          "title": "Lip Lining",
+          "description": "Use a lip liner that matches your orange lipstick to define your lip shape",
+          "details": "This creates a clean edge and prevents the orange color from bleeding outside your lip line."
+        },
+        {
+          "step": 3,
+          "title": "Lipstick Application",
+          "description": "Apply your orange lipstick starting from the center of your lips",
+          "details": "Use a lip brush for precise application or apply directly from the bullet. Build up the color gradually for the best result."
+        },
+        {
+          "step": 4,
+          "title": "Edge Blending",
+          "description": "Use a lip brush to blend the edges for a smooth, natural finish",
+          "details": "This ensures the orange color looks polished and professional, not harsh or uneven."
+        },
+        {
+          "step": 5,
+          "title": "Intensity Building",
+          "description": "Add more color to the center of your lips for increased intensity",
+          "details": "This creates dimension and makes the orange color more vibrant and eye-catching."
+        },
+        {
+          "step": 6,
+          "title": "Highlighting",
+          "description": "Add a touch of highlighter to your cupid's bow to enhance the orange lip look",
+          "details": "This adds extra dimension and creates a fresh, energetic appearance that complements orange lipstick perfectly."
+        }
+      ],
+      "products": [
+        {
+          "name": "Orange Lipstick",
+          "recommendations": ["MAC Morange", "NARS Heat Wave", "Urban Decay Bang"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Liner",
+          "recommendations": ["MAC Chromagraphic Pencil", "Urban Decay 24/7 Lip Pencil", "NYX Slim Lip Pencil"],
+          "type": "Lip Liner"
+        },
+        {
+          "name": "Lip Primer",
+          "recommendations": ["MAC Prep + Prime Lip", "Urban Decay Lip Primer Potion", "Too Faced Lip Insurance"],
+          "type": "Lip Primer"
+        },
+        {
+          "name": "Highlighter",
+          "recommendations": ["Becca Shimmering Skin Perfector", "MAC Soft & Gentle", "The Balm Mary-Lou Manizer"],
+          "type": "Highlighter"
+        }
+      ],
+      "tips": [
+        "Choose an orange shade that complements your skin tone",
+        "Warm skin tones look best with true orange, while cooler tones work well with coral",
+        "Pair with minimal eye makeup to let your lips be the focus",
+        "Consider the lighting when choosing orange intensity",
+        "Use a lip brush for more precise application"
+      ],
+      "occasions": ["Summer events", "Tropical vacations", "Bold makeup looks", "Creative events"],
+      "skill_level": "Intermediate - perfect for those wanting to experiment with bold colors"
+    },
+    {
+      "id": 11,
+      "image": "assets/Article/article_11.jpg",
+      "title": "Purple Lipstick Application Masterclass",
+      "description": "Create stunning purple lips that add mystery and sophistication to your look",
+      "difficulty": "Advanced",
+      "duration": "20 minutes",
+      "content": "Purple lipstick is a bold and sophisticated choice that can create a mysterious, edgy look. It's perfect for those who want to make a statement and experiment with unconventional colors. Purple lips can range from soft lavender to deep plum, and the key is choosing the right shade for your skin tone. This advanced tutorial will teach you how to master this challenging but rewarding technique.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Concealing",
+          "description": "Apply concealer or foundation to completely neutralize your natural lip color",
+          "details": "Purple lipstick needs a clean base to show its true color. This step ensures the purple appears vibrant and true to its shade."
+        },
+        {
+          "step": 2,
+          "title": "Lip Lining",
+          "description": "Use a purple lip liner to define and shape your lips",
+          "details": "Choose a lip liner that matches your purple lipstick. This creates a clean edge and prevents the color from bleeding."
+        },
+        {
+          "step": 3,
+          "title": "Lipstick Application",
+          "description": "Apply your purple lipstick with precision using a lip brush",
+          "details": "Use a lip brush for the most precise application. Start from the center and work outward, ensuring even coverage."
+        },
+        {
+          "step": 4,
+          "title": "Precise Definition",
+          "description": "Use a small brush to clean up and perfect the edges",
+          "details": "Purple lipstick requires clean, defined edges to look professional and polished."
+        },
+        {
+          "step": 5,
+          "title": "Center Highlighting",
+          "description": "Add a touch of highlighter to the center of your lips",
+          "details": "This adds dimension and creates a more sophisticated look that enhances the purple color."
+        },
+        {
+          "step": 6,
+          "title": "Concealer Cleanup",
+          "description": "Use concealer to clean up around your lips for a flawless finish",
+          "details": "This creates a clean, defined edge and ensures your purple lip looks perfect and professional."
+        }
+      ],
+      "products": [
+        {
+          "name": "Purple Lipstick",
+          "recommendations": ["MAC Heroine", "NARS Train Bleu", "Urban Decay Blackmail"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Liner",
+          "recommendations": ["MAC Chromagraphic Pencil", "Urban Decay 24/7 Lip Pencil", "NYX Slim Lip Pencil"],
+          "type": "Lip Liner"
+        },
+        {
+          "name": "Concealer",
+          "recommendations": ["NARS Radiant Creamy Concealer", "MAC Pro Longwear", "Tarte Shape Tape"],
+          "type": "Concealer"
+        },
+        {
+          "name": "Highlighter",
+          "recommendations": ["Becca Shimmering Skin Perfector", "MAC Soft & Gentle", "The Balm Mary-Lou Manizer"],
+          "type": "Highlighter"
+        }
+      ],
+      "tips": [
+        "Choose a purple shade that complements your skin tone",
+        "Warm skin tones look best with plum purples, while cooler tones work well with lavender",
+        "Practice the application technique before your special occasion",
+        "Pair with minimal eye makeup to let your lips be the focus",
+        "Use a lip brush for the most precise application"
+      ],
+      "occasions": ["Evening events", "Creative events", "Bold makeup looks", "Fashion shows"],
+      "skill_level": "Advanced - requires precision and confidence with bold colors"
+    },
+    {
+      "id": 12,
+      "image": "assets/Article/article_12.jpg",
+      "title": "Metallic Lipstick Application Guide",
+      "description": "Master the art of metallic lips to create a futuristic, high-fashion look",
+      "difficulty": "Advanced",
+      "duration": "25 minutes",
+      "content": "Metallic lipstick is a bold and avant-garde choice that creates a futuristic, high-fashion appearance. Perfect for editorial shoots, fashion shows, or when you want to make a dramatic statement. Metallic lips can range from subtle shimmer to full-on chrome effect, and the key is achieving an even, smooth application. This advanced tutorial will teach you how to master this challenging but stunning technique.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lip Priming",
+          "description": "Apply a lip primer to create a smooth, even base for your metallic lipstick",
+          "details": "Metallic lipstick requires a perfectly smooth base to achieve the best metallic effect. A good primer will help the product adhere evenly."
+        },
+        {
+          "step": 2,
+          "title": "Lip Lining",
+          "description": "Use a lip liner that matches your metallic lipstick to define your lip shape",
+          "details": "This creates a clean edge and prevents the metallic color from bleeding outside your lip line."
+        },
+        {
+          "step": 3,
+          "title": "Metallic Application",
+          "description": "Apply your metallic lipstick evenly using a lip brush",
+          "details": "Use a lip brush for the most precise application. Apply in thin, even layers to achieve a smooth metallic finish."
+        },
+        {
+          "step": 4,
+          "title": "Even Blending",
+          "description": "Use a lip brush to blend the metallic color evenly across your lips",
+          "details": "This ensures the metallic effect is uniform and smooth, without any patchy areas."
+        },
+        {
+          "step": 5,
+          "title": "Metallic Highlighting",
+          "description": "Add metallic highlighter to your cupid's bow to enhance the metallic effect",
+          "details": "This adds extra dimension and creates a more dramatic metallic look that catches the light beautifully."
+        },
+        {
+          "step": 6,
+          "title": "Edge Refinement",
+          "description": "Use concealer to clean up around your lips for a flawless finish",
+          "details": "This creates a clean, defined edge and ensures your metallic lip looks perfect and professional."
+        }
+      ],
+      "products": [
+        {
+          "name": "Metallic Lipstick",
+          "recommendations": ["MAC Metallic", "NARS Metallic", "Urban Decay Metallized"],
+          "type": "Lipstick"
+        },
+        {
+          "name": "Lip Liner",
+          "recommendations": ["MAC Chromagraphic Pencil", "Urban Decay 24/7 Lip Pencil", "NYX Slim Lip Pencil"],
+          "type": "Lip Liner"
+        },
+        {
+          "name": "Lip Primer",
+          "recommendations": ["MAC Prep + Prime Lip", "Urban Decay Lip Primer Potion", "Too Faced Lip Insurance"],
+          "type": "Lip Primer"
+        },
+        {
+          "name": "Metallic Highlighter",
+          "recommendations": ["Becca Shimmering Skin Perfector", "MAC Soft & Gentle", "The Balm Mary-Lou Manizer"],
+          "type": "Highlighter"
+        },
+        {
+          "name": "Concealer",
+          "recommendations": ["NARS Radiant Creamy Concealer", "MAC Pro Longwear", "Tarte Shape Tape"],
+          "type": "Concealer"
+        }
+      ],
+      "tips": [
+        "Choose a metallic shade that complements your skin tone",
+        "Apply metallic lipstick with a light hand to avoid overwhelming your look",
+        "Pair with minimal eye makeup to let your lips be the focus",
+        "Consider the lighting when choosing metallic intensity",
+        "Use a lip brush for the most precise application"
+      ],
+      "occasions": ["Fashion shows", "Editorial shoots", "Creative events", "Bold makeup looks"],
+      "skill_level": "Advanced - requires precision and confidence with dramatic colors"
+    }
+  ],
+  "metadata": {
+    "total_tutorials": 12,
+    "difficulty_levels": {
+      "Beginner": 5,
+      "Intermediate": 4,
+      "Advanced": 3
+    },
+    "categories": [
+      "Classic Red Lips",
+      "Ombre Lips",
+      "Korean Gradient Lips",
+      "Matte Lips",
+      "Shimmer Lips",
+      "Two-Tone Lips",
+      "Nude Lips",
+      "Vintage Lips",
+      "Pink Lips",
+      "Orange Lips",
+      "Purple Lips",
+      "Metallic Lips"
+    ],
+    "description": "Comprehensive collection of 12 professional lip makeup tutorials covering various techniques and styles from beginner to advanced levels. Each tutorial includes detailed step-by-step instructions, product recommendations, and expert tips for achieving perfect lip looks.",
+    "target_audience": "Makeup enthusiasts, beauty professionals, and anyone interested in learning lip makeup techniques",
+    "skill_progression": "Tutorials are organized from beginner-friendly techniques to advanced artistic applications",
+    "product_coverage": "Includes recommendations for high-end and drugstore products across all tutorials"
+  }
+}

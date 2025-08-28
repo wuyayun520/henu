@@ -1,0 +1,62 @@
+{
+  "user_profile": {
+    "user_id": "user_013",
+    "name": "Alessandra Silva",
+    "basic_info": {
+      "age_range": "23-29",
+      "nationality": "Brazilian",
+      "location": "São Paulo, Brazil",
+      "profession": "Brazilian Beauty Influencer & Carnival Makeup Artist"
+    },
+    "appearance": {
+      "skin_tone": "Medium-tan with golden undertones",
+      "hair_color": "Dark Brown with caramel highlights",
+      "eye_color": "Hazel-Brown",
+      "face_shape": "Oval",
+      "height": "5'6\" (168cm)",
+      "distinctive_features": ["Sun-kissed skin", "Voluminous hair", "Bright smile", "Brazilian beauty"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Vibrant Brazilian carnival-inspired looks",
+      "preferred_lip_colors": ["Bright coral", "Tropical pink", "Orange-red", "Glossy natural"],
+      "skill_level": "Advanced",
+      "specialties": ["Carnival makeup", "Tropical looks", "Colorful artistry", "Brazilian beauty trends"],
+      "makeup_intensity": "Medium to High"
+    },
+    "social_media": {
+      "estimated_followers": "89K",
+      "engagement_rate": "6.8%",
+      "platform_focus": ["Instagram", "TikTok", "YouTube"],
+      "content_types": ["Carnival tutorials", "Tropical makeup", "Brazilian beauty", "Colorful looks"]
+    },
+    "brand_partnerships": {
+      "tier": "Mid-tier influencer",
+      "collaboration_history": ["Natura", "O Boticário", "Brazilian brands", "Tropical collections"],
+      "preferred_brands": "Brazilian and tropical-themed beauty brands",
+      "rate_range": "$400-$1000 per post (R$2K-5K)"
+    },
+    "images_analysis": {
+      "total_images": 3,
+      "image_details": [
+        {
+          "filename": "assets/people/13/user_1.jpg",
+          "makeup_focus": "Carnival-inspired colorful look",
+          "lighting": "Vibrant tropical lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/13/user_2.jpg",
+          "makeup_focus": "Brazilian beach goddess glow",
+          "lighting": "Golden hour sunlight",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/13/user_3.jpg",
+          "makeup_focus": "Tropical sunset eyeshadow",
+          "lighting": "Warm colorful lighting",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

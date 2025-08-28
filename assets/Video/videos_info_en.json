@@ -1,0 +1,118 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Basic Lip Makeup Techniques - Perfect Lip Shape",
+      "content": "Learn how to create the perfect lip shape, including lip lining, lipstick application techniques, and long-lasting lip makeup methods. Perfect for beginners in lip makeup.",
+      "videoPath": "assets/Video/video_1.mp4",
+      "duration": "3:45",
+      "difficulty": "Beginner",
+      "tags": ["Basic Lip Makeup", "Lip Lining", "Beginner Friendly"]
+    },
+    {
+      "id": 2,
+      "title": "Gradient Lip Tutorial - Korean Ombre Lips",
+      "content": "Master the popular Korean ombre lip effect, creating a gradient from inner to outer lips for a more dimensional and plump appearance.",
+      "videoPath": "assets/Video/video_2.mp4",
+      "duration": "4:20",
+      "difficulty": "Intermediate",
+      "tags": ["Gradient Lips", "Ombre Lips", "Korean Style"]
+    },
+    {
+      "id": 3,
+      "title": "Matte Lipstick Application Tips",
+      "content": "Proper techniques for applying matte lipstick, including lip care, application methods, and tips to prevent dryness.",
+      "videoPath": "assets/Video/video_3.mp4",
+      "duration": "2:15",
+      "difficulty": "Beginner",
+      "tags": ["Matte Lipstick", "Lip Care", "Hydration Tips"]
+    },
+    {
+      "id": 4,
+      "title": "Glossy Lip Gloss for Plump Lips",
+      "content": "Create juicy, plump lips using glossy lip products, perfect for everyday makeup and date night looks.",
+      "videoPath": "assets/Video/video_4.mp4",
+      "duration": "3:30",
+      "difficulty": "Beginner",
+      "tags": ["Glossy Lips", "Juicy Lips", "Everyday Makeup"]
+    },
+    {
+      "id": 5,
+      "title": "3D Lip Contouring Techniques",
+      "content": "Create dimensional, plump 3D lips using highlighting and contouring techniques for a more seductive and attractive appearance.",
+      "videoPath": "assets/Video/video_5.mp4",
+      "duration": "5:10",
+      "difficulty": "Advanced",
+      "tags": ["3D Lips", "Lip Contouring", "Highlighting"]
+    },
+    {
+      "id": 6,
+      "title": "Long-lasting Lip Makeup Tips",
+      "content": "Learn techniques to make your lip makeup last all day, including base preparation, setting methods, and touch-up strategies.",
+      "videoPath": "assets/Video/video_6.mp4",
+      "duration": "4:45",
+      "difficulty": "Intermediate",
+      "tags": ["Long-lasting", "Smudge-proof", "Setting Techniques"]
+    },
+    {
+      "id": 7,
+      "title": "Lip Makeup for Different Occasions",
+      "content": "Choose appropriate lip makeup styles for different occasions, from daily office wear to important dates.",
+      "videoPath": "assets/Video/video_7.mp4",
+      "duration": "6:20",
+      "difficulty": "Intermediate",
+      "tags": ["Occasion Makeup", "Style Selection", "Makeup Coordination"]
+    },
+    {
+      "id": 8,
+      "title": "Lip Care Basics - Perfect Canvas",
+      "content": "The importance of lip care, including exfoliation, hydration, and recommended care products.",
+      "videoPath": "assets/Video/video_8.mp4",
+      "duration": "3:15",
+      "difficulty": "Beginner",
+      "tags": ["Lip Care", "Exfoliation", "Hydration"]
+    },
+    {
+      "id": 9,
+      "title": "Creative Lip Art Designs",
+      "content": "Learn creative lip art designs, including geometric patterns, gradient effects, and artistic lip makeup for special occasions.",
+      "videoPath": "assets/Video/video_9.mp4",
+      "duration": "7:30",
+      "difficulty": "Advanced",
+      "tags": ["Creative Lip Art", "Artistic Design", "Special Occasions"]
+    },
+    {
+      "id": 10,
+      "title": "Lip Makeup Tools Guide",
+      "content": "Detailed guide on how to use various lip makeup tools, including lip brushes, lip liners, and lip gloss applicators.",
+      "videoPath": "assets/Video/video_10.mp4",
+      "duration": "4:50",
+      "difficulty": "Beginner",
+      "tags": ["Makeup Tools", "Tool Usage", "Equipment Guide"]
+    },
+    {
+      "id": 11,
+      "title": "Lip Color Coordination Principles",
+      "content": "Learn the basic principles of lip color coordination, choosing suitable lip colors based on skin tone, eye makeup, and clothing.",
+      "videoPath": "assets/Video/video_11.mp4",
+      "duration": "5:40",
+      "difficulty": "Intermediate",
+      "tags": ["Color Coordination", "Skin Tone Matching", "Overall Harmony"]
+    },
+    {
+      "id": 12,
+      "title": "Common Lip Makeup Problems & Solutions",
+      "content": "Solve common problems during lip makeup application, such as lipstick bleeding, uneven color, and dry, flaky lips.",
+      "videoPath": "assets/Video/video_12.mp4",
+      "duration": "4:25",
+      "difficulty": "Intermediate",
+      "tags": ["Problem Solving", "Tips & Tricks", "Practical Advice"]
+    }
+  ],
+  "metadata": {
+    "totalVideos": 12,
+    "categories": ["Basic Techniques", "Advanced Techniques", "Creative Design", "Care & Maintenance"],
+    "difficultyLevels": ["Beginner", "Intermediate", "Advanced"],
+    "lastUpdated": "2024-01-15"
+  }
+}

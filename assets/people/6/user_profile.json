@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_006",
+    "name": "Aria Thompson",
+    "basic_info": {
+      "age_range": "24-30",
+      "nationality": "Australian",
+      "location": "Sydney, NSW",
+      "profession": "Beauty Content Creator & Brand Ambassador"
+    },
+    "appearance": {
+      "skin_tone": "Medium with golden undertones",
+      "hair_color": "Honey Blonde",
+      "eye_color": "Hazel",
+      "face_shape": "Oval",
+      "height": "5'6\" (168cm)",
+      "distinctive_features": ["Sun-kissed complexion", "Natural freckles", "Bright smile", "Beach-ready hair"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Beach-inspired glam with bronzed skin",
+      "preferred_lip_colors": ["Peachy natural", "Coral", "Bronze", "Glossy pinks"],
+      "skill_level": "Advanced",
+      "specialties": ["Bronzing techniques", "Summer looks", "Beachy styling", "Natural glow"],
+      "makeup_intensity": "Medium"
+    },
+    "social_media": {
+      "estimated_followers": "82K",
+      "engagement_rate": "5.1%",
+      "platform_focus": ["Instagram", "TikTok", "YouTube"],
+      "content_types": ["Summer collections", "Beach lifestyle", "Bronzing tutorials", "Australian beauty"]
+    },
+    "brand_partnerships": {
+      "tier": "Established influencer",
+      "collaboration_history": ["Bondi Sands", "Fenty Beauty", "Summer Fridays", "Australian brands"],
+      "preferred_brands": "Beach and summer-focused brands",
+      "rate_range": "$600-$1200 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/6/user_1.jpg",
+          "makeup_focus": "Beach-inspired bronzing",
+          "lighting": "Golden hour sunlight",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/6/user_2.jpg",
+          "makeup_focus": "Summer radiance",
+          "lighting": "Bright natural light",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/6/user_3.jpg",
+          "makeup_focus": "Enhanced natural beauty",
+          "lighting": "Soft outdoor light",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/6/user_4.jpg",
+          "makeup_focus": "Effortless summer glam",
+          "lighting": "Beach-inspired lighting",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

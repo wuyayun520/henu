@@ -1,0 +1,62 @@
+{
+  "user_profile": {
+    "user_id": "user_014",
+    "name": "Nadia Petrov",
+    "basic_info": {
+      "age_range": "24-30",
+      "nationality": "Russian",
+      "location": "Moscow, Russia",
+      "profession": "Slavic Beauty Influencer & Editorial Makeup Artist"
+    },
+    "appearance": {
+      "skin_tone": "Fair with cool undertones",
+      "hair_color": "Ash Blonde",
+      "eye_color": "Blue-Grey",
+      "face_shape": "Square",
+      "height": "5'8\" (173cm)",
+      "distinctive_features": ["Striking Slavic features", "High cheekbones", "Piercing eyes", "Angular bone structure"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Editorial Slavic beauty with dramatic elements",
+      "preferred_lip_colors": ["Deep berry", "Classic red", "Natural rose", "Dark plum"],
+      "skill_level": "Expert",
+      "specialties": ["Editorial makeup", "High fashion looks", "Dramatic contouring", "Slavic beauty enhancement"],
+      "makeup_intensity": "Medium to High"
+    },
+    "social_media": {
+      "estimated_followers": "134K",
+      "engagement_rate": "5.3%",
+      "platform_focus": ["Instagram", "YouTube"],
+      "content_types": ["Editorial tutorials", "High fashion looks", "Russian beauty", "Artistic makeup"]
+    },
+    "brand_partnerships": {
+      "tier": "Established influencer",
+      "collaboration_history": ["YSL", "Dior", "Russian beauty brands", "High-end European brands"],
+      "preferred_brands": "Luxury European beauty houses",
+      "rate_range": "$700-$1800 per post (₽50K-130K)"
+    },
+    "images_analysis": {
+      "total_images": 3,
+      "image_details": [
+        {
+          "filename": "assets/people/14/user_1.jpg",
+          "makeup_focus": "Editorial high fashion look",
+          "lighting": "Dramatic studio lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/14/user_2.jpg",
+          "makeup_focus": "Slavic beauty enhancement",
+          "lighting": "Cool professional lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/14/user_3.jpg",
+          "makeup_focus": "Artistic dramatic contouring",
+          "lighting": "Moody artistic lighting",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

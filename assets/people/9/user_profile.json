@@ -1,0 +1,74 @@
+{
+  "user_profile": {
+    "user_id": "user_009",
+    "name": "Priya Sharma",
+    "basic_info": {
+      "age_range": "22-28",
+      "nationality": "Indian",
+      "location": "Mumbai, India",
+      "profession": "Bollywood Beauty Influencer & Makeup Artist"
+    },
+    "appearance": {
+      "skin_tone": "Medium-deep with warm undertones",
+      "hair_color": "Black",
+      "eye_color": "Dark Brown",
+      "face_shape": "Heart-shaped",
+      "height": "5'4\" (162cm)",
+      "distinctive_features": ["Large expressive eyes", "Defined features", "Natural glow", "Classic Indian beauty"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Bollywood glamour with traditional Indian elements",
+      "preferred_lip_colors": ["Deep red", "Rose pink", "Burgundy", "Classic red"],
+      "skill_level": "Expert",
+      "specialties": ["Traditional Indian makeup", "Bridal looks", "Bollywood glam", "Ethnic fusion"],
+      "makeup_intensity": "Medium to High"
+    },
+    "social_media": {
+      "estimated_followers": "145K",
+      "engagement_rate": "7.8%",
+      "platform_focus": ["Instagram", "YouTube", "TikTok"],
+      "content_types": ["Bollywood tutorials", "Bridal makeup", "Traditional looks", "Festival makeup"]
+    },
+    "brand_partnerships": {
+      "tier": "Established influencer",
+      "collaboration_history": ["Lakme", "Maybelline India", "Nykaa", "Indian beauty brands"],
+      "preferred_brands": "Indian and international beauty brands",
+      "rate_range": "$300-$800 per post (INR 25K-65K)"
+    },
+    "images_analysis": {
+      "total_images": 5,
+      "image_details": [
+        {
+          "filename": "assets/people/9/user_1.jpg",
+          "makeup_focus": "Traditional Indian bridal look",
+          "lighting": "Soft romantic lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/9/user_2.jpg",
+          "makeup_focus": "Bollywood glamour with bold eyes",
+          "lighting": "Dramatic studio lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/9/user_3.jpg",
+          "makeup_focus": "Festival celebration makeup",
+          "lighting": "Colorful vibrant lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/9/user_4.jpg",
+          "makeup_focus": "Elegant evening Indian look",
+          "lighting": "Professional portrait lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/9/user_5.jpg",
+          "makeup_focus": "Modern Indian fusion style",
+          "lighting": "Natural soft lighting",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

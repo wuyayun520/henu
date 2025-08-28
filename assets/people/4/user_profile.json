@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_004",
+    "name": "Zara Ahmed",
+    "basic_info": {
+      "age_range": "26-32",
+      "nationality": "British",
+      "location": "London, UK",
+      "profession": "Professional Makeup Artist & Educator"
+    },
+    "appearance": {
+      "skin_tone": "Medium-deep with warm undertones",
+      "hair_color": "Dark Brown/Black",
+      "eye_color": "Dark Brown",
+      "face_shape": "Oval",
+      "height": "5'7\" (170cm)",
+      "distinctive_features": ["Strong bone structure", "Full lips", "Expressive eyes", "High cheekbones"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Bold and dramatic with rich colors",
+      "preferred_lip_colors": ["Deep reds", "Burgundy", "Plum", "Dark berries"],
+      "skill_level": "Expert/Professional",
+      "specialties": ["Editorial makeup", "Color theory", "Advanced techniques", "Bridal makeup"],
+      "makeup_intensity": "High"
+    },
+    "social_media": {
+      "estimated_followers": "95K",
+      "engagement_rate": "3.8%",
+      "platform_focus": ["Instagram", "YouTube", "TikTok"],
+      "content_types": ["Masterclasses", "Professional tutorials", "Editorial looks", "Client transformations"]
+    },
+    "brand_partnerships": {
+      "tier": "Professional tier",
+      "collaboration_history": ["Charlotte Tilbury", "Pat McGrath Labs", "Fenty Beauty", "NARS"],
+      "preferred_brands": "High-end and professional",
+      "rate_range": "$800-$2000 per post"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/4/user_1.jpg",
+          "makeup_focus": "Editorial dramatic makeup",
+          "lighting": "Professional studio with shadows",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/4/user_2.jpg",
+          "makeup_focus": "Advanced color techniques",
+          "lighting": "Artistic directional",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/4/user_3.jpg",
+          "makeup_focus": "High-impact glamour",
+          "lighting": "Dramatic studio",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/4/user_4.jpg",
+          "makeup_focus": "Flawless base and precision",
+          "lighting": "Professional portrait",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "user_profile": {
+    "user_id": "user_011",
+    "name": "Yuki Tanaka",
+    "basic_info": {
+      "age_range": "21-27",
+      "nationality": "Japanese",
+      "location": "Tokyo, Japan",
+      "profession": "J-Beauty Influencer & Kawaii Style Expert"
+    },
+    "appearance": {
+      "skin_tone": "Light with neutral-cool undertones",
+      "hair_color": "Black (often styled in kawaii fashion)",
+      "eye_color": "Dark Brown",
+      "face_shape": "Round",
+      "height": "5'2\" (157cm)",
+      "distinctive_features": ["Doll-like features", "Small delicate features", "Kawaii aesthetic", "Youthful appearance"]
+    },
+    "makeup_expertise": {
+      "signature_style": "Kawaii Japanese doll-like makeup",
+      "preferred_lip_colors": ["Baby pink", "Coral pink", "Peach", "Clear gloss"],
+      "skill_level": "Advanced",
+      "specialties": ["Doll makeup", "Kawaii style", "Japanese beauty trends", "Cute aesthetics"],
+      "makeup_intensity": "Light to Medium"
+    },
+    "social_media": {
+      "estimated_followers": "156K",
+      "engagement_rate": "9.1%",
+      "platform_focus": ["Instagram", "TikTok", "YouTube"],
+      "content_types": ["Kawaii tutorials", "J-beauty reviews", "Doll makeup", "Japanese fashion"]
+    },
+    "brand_partnerships": {
+      "tier": "Established influencer",
+      "collaboration_history": ["Canmake", "Etude House", "Peripera", "Japanese beauty brands"],
+      "preferred_brands": "Japanese and Korean cute beauty brands",
+      "rate_range": "$400-$900 per post (¥60K-135K)"
+    },
+    "images_analysis": {
+      "total_images": 4,
+      "image_details": [
+        {
+          "filename": "assets/people/11/user_1.jpg",
+          "makeup_focus": "Kawaii doll-like makeup with pink tones",
+          "lighting": "Soft cute lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/11/user_2.jpg",
+          "makeup_focus": "Japanese beauty trends with gradient lips",
+          "lighting": "Bright kawaii lighting",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/11/user_3.jpg",
+          "makeup_focus": "Cute eye makeup with aegyo sal",
+          "lighting": "Soft natural light",
+          "quality": "High resolution"
+        },
+        {
+          "filename": "assets/people/11/user_4.jpg",
+          "makeup_focus": "Sweet innocent look",
+          "lighting": "Dreamy soft lighting",
+          "quality": "High resolution"
+        }
+      ]
+    }
+  }
+}
