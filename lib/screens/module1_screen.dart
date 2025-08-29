@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import 'dart:math';
 import 'user_detail_screen.dart';
 import 'article_detail_screen.dart';
+import 'inapppurchases_screen.dart';
 
 class Module1Screen extends StatefulWidget {
   const Module1Screen({super.key});
@@ -17,6 +19,9 @@ class _Module1ScreenState extends State<Module1Screen> {
   List<Map<String, dynamic>> _userProfiles = [];
   List<Map<String, dynamic>> _allTutorials = [];
   bool _isLoading = true;
+  int _beautyCoins = 0; // 用户金币数量
+  Set<String> _unlockedUsers = {}; // 已解锁的用户ID集合
+  bool _hasLoadedData = false; // 标记是否已加载数据
 
   final List<Map<String, String>> _lipTypes = [
     {
@@ -38,6 +43,22 @@ class _Module1ScreenState extends State<Module1Screen> {
     super.initState();
     _loadUserProfiles();
     _loadTutorials();
+    _loadUserData();
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // 当页面重新获得焦点时，重新加载用户数据（比如从内购页面返回）
+    // 使用标志位避免重复加载
+    if (!_hasLoadedData) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (mounted) {
+          _loadUserData();
+          _hasLoadedData = true;
+        }
+      });
+    }
   }
 
   Future<void> _loadUserProfiles() async {
@@ -84,6 +105,245 @@ class _Module1ScreenState extends State<Module1Screen> {
     }
   }
 
+  Future<void> _loadUserData() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      
+      // 加载金币数量
+      int coins = prefs.getInt('beautyCoins') ?? 0;
+      
+      // 加载已解锁的用户列表
+      List<String> unlockedUsersList = prefs.getStringList('unlockedUsers') ?? [];
+      Set<String> unlockedUsers = unlockedUsersList.toSet();
+      
+      setState(() {
+        _beautyCoins = coins;
+        _unlockedUsers = unlockedUsers;
+      });
+      
+      print('Loaded beauty coins: $_beautyCoins');
+      print('Loaded unlocked users: $_unlockedUsers');
+    } catch (e) {
+      print('Error loading user data: $e');
+    }
+  }
+
+  Future<void> _refreshCoinsOnly() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      
+      // 只更新金币数量
+      int coins = prefs.getInt('beautyCoins') ?? 0;
+      
+      setState(() {
+        _beautyCoins = coins;
+      });
+      
+      print('Refreshed beauty coins: $_beautyCoins');
+    } catch (e) {
+      print('Error refreshing coins: $e');
+    }
+  }
+
+  Future<void> _saveUnlockedUser(String userId) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      
+      // 添加新解锁的用户
+      _unlockedUsers.add(userId);
+      
+      // 保存到本地存储
+      await prefs.setStringList('unlockedUsers', _unlockedUsers.toList());
+      
+      print('Saved unlocked user: $userId');
+    } catch (e) {
+      print('Error saving unlocked user: $e');
+    }
+  }
+
+  Future<void> _deductCoins(int amount) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      
+      setState(() {
+        _beautyCoins -= amount;
+      });
+      
+      // 保存金币数量
+      await prefs.setInt('beautyCoins', _beautyCoins);
+      
+      print('Deducted $amount coins, remaining: $_beautyCoins');
+    } catch (e) {
+      print('Error deducting coins: $e');
+    }
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: Row(
+            children: [
+              Icon(
+                Icons.warning_amber_rounded,
+                color: const Color(0xFFFF6B9D),
+                size: 28,
+              ),
+              const SizedBox(width: 8),
+              const Text(
+                'Insufficient Credits',
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Unlock user requires 5 Beauty Credits',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey[600],
+                ),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                'Current balance: $_beautyCoins Beauty Credits',
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.w600,
+                  color: const Color(0xFFFF6B9D),
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Colors.grey[600],
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const InAppPurchasesPage(),
+                  ),
+                );
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFF6B9D),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+              ),
+              child: const Text(
+                'Buy Credits',
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  Future<void> _handleUserUnlock(Map<String, dynamic> user, int userId) async {
+    String userIdStr = userId.toString();
+    
+    // 检查用户是否已经解锁
+    if (_unlockedUsers.contains(userIdStr)) {
+      // 用户已解锁，直接跳转
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => UserDetailScreen(
+            user: user,
+            userId: userId,
+          ),
+        ),
+      );
+      return;
+    }
+    
+    // 重新获取最新的金币余额
+    await _refreshCoinsOnly();
+    
+    // 检查金币是否足够
+    if (_beautyCoins < 5) {
+      // 金币不足，显示提示对话框
+      _showInsufficientCoinsDialog();
+      return;
+    }
+    
+    // 金币足够，解锁用户
+    await _deductCoins(5);
+    await _saveUnlockedUser(userIdStr);
+    
+    // 显示解锁成功提示
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Row(
+          children: [
+            const Icon(
+              Icons.check_circle,
+              color: Colors.white,
+              size: 20,
+            ),
+            const SizedBox(width: 8),
+            Expanded(
+              child: Text(
+                'User unlocked successfully! Used 5 Beauty Credits',
+                style: const TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.w500,
+                ),
+                overflow: TextOverflow.ellipsis,
+                maxLines: 2,
+              ),
+            ),
+          ],
+        ),
+        backgroundColor: const Color(0xFFFF6B9D),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(12),
+        ),
+        duration: const Duration(seconds: 2),
+      ),
+    );
+    
+    // 跳转到用户详情页面
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => UserDetailScreen(
+          user: user,
+          userId: userId,
+        ),
+      ),
+    );
+  }
+
   List<Map<String, dynamic>> _getCurrentUsers() {
     final users = switch (_selectedIndex) {
       0 => _userProfiles.take(6).toList(), // Lip Glaze - 用户 1-6
@@ -92,10 +352,11 @@ class _Module1ScreenState extends State<Module1Screen> {
       _ => <Map<String, dynamic>>[],
     };
     
-    print('Selected index: $_selectedIndex, Users count: ${users.length}');
-    for (int i = 0; i < users.length; i++) {
-      print('User $i: ${users[i]['name']}');
-    }
+    // 调试信息 - 只在开发模式下打印
+    // print('Selected index: $_selectedIndex, Users count: ${users.length}');
+    // for (int i = 0; i < users.length; i++) {
+    //   print('User $i: ${users[i]['name']}');
+    // }
     
     return users;
   }
@@ -122,16 +383,12 @@ class _Module1ScreenState extends State<Module1Screen> {
       userId = 13 + index; // 13, 14, 15
     }
     
+    String userIdStr = userId.toString();
+    bool isUnlocked = _unlockedUsers.contains(userIdStr);
+    
     return GestureDetector(
       onTap: () {
-        Navigator.of(context).push(
-          MaterialPageRoute(
-            builder: (context) => UserDetailScreen(
-              user: user,
-              userId: userId,
-            ),
-          ),
-        );
+        _handleUserUnlock(user, userId);
       },
       child: Container(
         height: 184,
@@ -154,6 +411,91 @@ class _Module1ScreenState extends State<Module1Screen> {
                 ),
               ),
             ),
+            // 解锁状态指示器
+            Positioned(
+              top: 12,
+              right: 12,
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                decoration: BoxDecoration(
+                  color: isUnlocked 
+                      ? const Color(0xFF4CAF50).withOpacity(0.9) // 绿色表示已解锁
+                      : const Color(0xFFFF6B9D).withOpacity(0.9), // 粉色表示未解锁
+                  borderRadius: BorderRadius.circular(12),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.2),
+                      blurRadius: 4,
+                      offset: const Offset(0, 2),
+                    ),
+                  ],
+                ),
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Icon(
+                      isUnlocked ? Icons.lock_open : Icons.lock,
+                      color: Colors.white,
+                      size: 16,
+                    ),
+                    const SizedBox(width: 4),
+                    Text(
+                      isUnlocked ? 'Unlocked' : '5 Credits',
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 12,
+                        fontWeight: FontWeight.w600,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+            // 未解锁时的半透明遮罩
+            if (!isUnlocked)
+              Positioned.fill(
+                child: Container(
+                  decoration: BoxDecoration(
+                    color: Colors.black.withOpacity(0.3),
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                  child: Center(
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFFFF6B9D),
+                        borderRadius: BorderRadius.circular(20),
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.black.withOpacity(0.3),
+                            blurRadius: 8,
+                            offset: const Offset(0, 2),
+                          ),
+                        ],
+                      ),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          const Icon(
+                            Icons.lock,
+                            color: Colors.white,
+                            size: 20,
+                          ),
+                          const SizedBox(width: 8),
+                          const Text(
+                            'Tap to Unlock',
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 14,
+                              fontWeight: FontWeight.w600,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                ),
+              ),
           ],
         ),
       ),

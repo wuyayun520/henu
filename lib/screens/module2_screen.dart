@@ -8,6 +8,7 @@ import 'dart:io';
 import 'dart:math';
 import 'user_detail_screen.dart';
 import 'video_detail_screen.dart';
+import 'subscriptions_screen.dart';
 
 class Module2Screen extends StatefulWidget {
   const Module2Screen({super.key});
@@ -25,6 +26,8 @@ class _Module2ScreenState extends State<Module2Screen> {
   bool _videosLoading = true;
   Map<int, Uint8List?> _videoThumbnails = {};
   Set<int> _hiddenVideos = {};
+  bool _isVip = false;
+  DateTime? _vipExpiry;
 
   @override
   void initState() {
@@ -33,6 +36,7 @@ class _Module2ScreenState extends State<Module2Screen> {
     _loadHiddenVideos();
     _loadUsers();
     _loadVideos();
+    _loadVipStatus();
   }
 
   Future<void> _loadFollowedUsers() async {
@@ -54,6 +58,15 @@ class _Module2ScreenState extends State<Module2Screen> {
           .where((id) => int.tryParse(id) != null) // 过滤掉非数字的ID
           .map((id) => int.parse(id))
           .toSet();
+    });
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
     });
   }
 
@@ -272,6 +285,149 @@ class _Module2ScreenState extends State<Module2Screen> {
     }
   }
 
+  void _showVipDialog([BuildContext? dialogContext]) {
+    final contextToUse = dialogContext ?? context;
+    if (!mounted) return;
+    showDialog(
+      context: contextToUse,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: Row(
+            children: [
+              Container(
+                padding: const EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  gradient: LinearGradient(
+                    colors: [
+                      const Color(0xFFFF6B9D),
+                      const Color(0xFFC874FF),
+                    ],
+                  ),
+                  shape: BoxShape.circle,
+                ),
+                child: const Icon(
+                  Icons.face,
+                  color: Colors.white,
+                  size: 24,
+                ),
+              ),
+              const SizedBox(width: 12),
+              const Text(
+                'Beauty Premium',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 18,
+                ),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Unlock unlimited access to all makeup tutorial videos!',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Color(0xFF333333),
+                ),
+              ),
+              const SizedBox(height: 16),
+              Container(
+                padding: const EdgeInsets.all(12),
+                
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    const Text(
+                      'Weekly Plan:',
+                      style: TextStyle(
+                        fontSize: 14,
+                        fontWeight: FontWeight.w600,
+                      ),
+                    ),
+                    Text(
+                      '\$12.99/week',
+                      style: TextStyle(
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                        color: const Color(0xFFFF6B9D),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 8),
+              Container(
+                padding: const EdgeInsets.all(12),
+                
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    const Text(
+                      'Monthly Plan:',
+                      style: TextStyle(
+                        fontSize: 14,
+                        fontWeight: FontWeight.w600,
+                      ),
+                    ),
+                    Text(
+                      '\$49.99/month',
+                      style: TextStyle(
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                        color: const Color(0xFFFF6B9D),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Colors.grey,
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFFF6B9D),
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(8),
+                ),
+              ),
+              child: const Text(
+                'Get Premium',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 16,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
   Widget _buildCategoryOption(String title) {
     bool isSelected = _selectedCategory == title;
     
@@ -316,15 +472,30 @@ class _Module2ScreenState extends State<Module2Screen> {
     print('Building video card for video $videoId, thumbnail data: ${thumbnailData != null ? 'available' : 'null'}');
     
     return GestureDetector(
-      onTap: () {
-        Navigator.of(context).push(
-          MaterialPageRoute(
-            builder: (context) => VideoDetailScreen(
-              video: video,
-              videoId: videoId,
+      onTap: () async {
+        // 保存context引用
+        final currentContext = context;
+        
+        // 重新获取最新的VIP状态
+        await _loadVipStatus();
+        
+        // 检查VIP状态
+        if (!mounted) return;
+        
+        if (_isVip && _vipExpiry != null && _vipExpiry!.isAfter(DateTime.now())) {
+          // VIP用户，直接跳转
+          Navigator.of(currentContext).push(
+            MaterialPageRoute(
+              builder: (context) => VideoDetailScreen(
+                video: video,
+                videoId: videoId,
+              ),
             ),
-          ),
-        );
+          );
+        } else {
+          // 非VIP用户，显示VIP弹窗
+          _showVipDialog(currentContext);
+        }
       },
       child: Container(
         width: (MediaQuery.of(context).size.width - 48) / 2, // 屏幕宽度减去边距，除以2
@@ -626,28 +797,42 @@ class _Module2ScreenState extends State<Module2Screen> {
                 const SizedBox(height: 20),
                 // 热门图片
                 GestureDetector(
-                  onTap: () {
-                    // 随机选择一个视频
-                    if (_allVideos.isNotEmpty) {
-                      final random = Random();
-                      final randomVideo = _allVideos[random.nextInt(_allVideos.length)];
-                      final randomVideoId = randomVideo['id'] ?? 1;
-                      
-                      Navigator.of(context).push(
-                        MaterialPageRoute(
-                          builder: (context) => VideoDetailScreen(
-                            video: randomVideo,
-                            videoId: randomVideoId,
+                  onTap: () async {
+                    // 保存context引用
+                    final currentContext = context;
+                    
+                    // 重新获取最新的VIP状态
+                    await _loadVipStatus();
+                    
+                    // 检查VIP状态
+                    if (!mounted) return;
+                    
+                    if (_isVip && _vipExpiry != null && _vipExpiry!.isAfter(DateTime.now())) {
+                      // VIP用户，随机选择一个视频
+                      if (_allVideos.isNotEmpty) {
+                        final random = Random();
+                        final randomVideo = _allVideos[random.nextInt(_allVideos.length)];
+                        final randomVideoId = randomVideo['id'] ?? 1;
+                        
+                        Navigator.of(currentContext).push(
+                          MaterialPageRoute(
+                            builder: (context) => VideoDetailScreen(
+                              video: randomVideo,
+                              videoId: randomVideoId,
+                            ),
                           ),
-                        ),
-                      );
+                        );
+                      }
+                    } else {
+                      // 非VIP用户，显示VIP弹窗
+                      _showVipDialog(currentContext);
                     }
                   },
                   child: Image.asset(
                     'assets/images/henu_popular.png',
                     width: double.infinity,
                     height: 190,
-                    fit: BoxFit.cover,
+                    fit: BoxFit.contain,
                   ),
                 ),
                 const SizedBox(height: 20),
