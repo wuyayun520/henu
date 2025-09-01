@@ -13,7 +13,7 @@ class BeautyProduct {
 
 class BeautyProducts {
   static const List<BeautyProduct> all = [
-    BeautyProduct('32', 'Henu', 0.99),
+    BeautyProduct('32', 'asweetecoin_6', 0.99),
     BeautyProduct('96', 'Henu2', 2.99),
     BeautyProduct('189', 'Henu5', 5.99),
     BeautyProduct('299', 'Henu9', 9.99),
@@ -36,15 +36,16 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
   final InAppPurchase _inAppPurchase = InAppPurchase.instance;
   late StreamSubscription<List<PurchaseDetails>> _subscription;
   List<ProductDetails> _products = [];
-  bool _isLoading = true;
+  bool _isLoading = false; // 改为false，不在初始化时加载
   bool _purchasePending = false;
   int _beautyCoins = 0;
   late AnimationController _animationController;
   late Animation<double> _pulseAnimation;
   late AnimationController _beautyController;
   late Animation<double> _beautyAnimation;
-  final Set<String> _processedPurchases = {}; // 跟踪已处理的购买
-  bool _isInitialized = false; // 标记是否已初始化
+  final Set<String> _processedPurchases = {};
+  bool _isInitialized = false;
+  bool _productsLoaded = false; // 新增：标记商品是否已加载
 
   List<BeautyProduct> get _beautyProducts => BeautyProducts.all;
 
@@ -74,7 +75,8 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
       debugPrint("Error in IAP Stream: $error");
     });
     _loadBeautyCoins();
-    _initInAppPurchase();
+    // 移除自动初始化内购，改为延迟加载
+    _isInitialized = true;
   }
 
   @override
@@ -108,15 +110,24 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
     await prefs.setInt('beautyCoins', _beautyCoins);
   }
 
-  Future<void> _initInAppPurchase() async {
+  // 新增：延迟加载商品信息，只在用户需要购买时才加载
+  Future<void> _loadProductsIfNeeded() async {
+    if (_productsLoaded) {
+      return; // 如果已经加载过，直接返回
+    }
+    
+    setState(() {
+      _isLoading = true;
+    });
+    
     final bool isAvailable = await _inAppPurchase.isAvailable();
     debugPrint('Store availability: $isAvailable');
     
     if (!isAvailable) {
       setState(() {
         _isLoading = false;
-        _isInitialized = true; // 即使出错也标记为已初始化
       });
+      _showSnackBar("Store not available");
       return;
     }
     
@@ -131,7 +142,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
       setState(() {
         _products = response.productDetails;
         _isLoading = false;
-        _isInitialized = true; // 标记初始化完成
+        _productsLoaded = true; // 标记为已加载
       });
       debugPrint('InAppPurchase initialized successfully');
       
@@ -142,14 +153,12 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
       debugPrint('Error loading products: $e');
       setState(() {
         _isLoading = false;
-        _isInitialized = true; // 即使出错也标记为已初始化
       });
       _showSnackBar("Failed to load products: $e");
     }
   }
 
   Future<void> _listenToPurchaseUpdated(List<PurchaseDetails> purchaseDetailsList) async {
-    // 如果页面还没有初始化完成，忽略购买更新
     if (!_isInitialized) {
       debugPrint('Ignoring purchase updates during initialization');
       return;
@@ -170,27 +179,23 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
           _showSnackBar("Purchase failed: ${purchaseDetails.error?.message ?? 'Unknown error'}");
         } else if (purchaseDetails.status == PurchaseStatus.purchased ||
                    purchaseDetails.status == PurchaseStatus.restored) {
-          // 处理新购买和恢复的购买
           _handleSuccessfulPurchase(purchaseDetails);
         } else if (purchaseDetails.status == PurchaseStatus.canceled) {
           setState(() {
             _purchasePending = false;
           });
         }
-        // 移除重复的completePurchase调用，现在在_handleSuccessfulPurchase中处理
       }
     }
   }
 
   Future<void> _handleSuccessfulPurchase(PurchaseDetails purchaseDetails) async {
-    // 检查是否已经处理过这个购买
     String purchaseKey = '${purchaseDetails.productID}_${purchaseDetails.purchaseID}_${purchaseDetails.status}';
     if (_processedPurchases.contains(purchaseKey)) {
       debugPrint('Purchase already processed: $purchaseKey');
       return;
     }
     
-    // 添加到已处理列表
     _processedPurchases.add(purchaseKey);
     
     debugPrint('Handling successful purchase: ${purchaseDetails.productID} (${purchaseDetails.status})');
@@ -216,7 +221,6 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
       debugPrint('Product amount is 0 or product not found: ${purchaseDetails.productID}');
     }
     
-    // 总是清除订单
     debugPrint('Completing purchase: ${purchaseDetails.productID}');
     await _inAppPurchase.completePurchase(purchaseDetails);
   }
@@ -236,6 +240,11 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
   }
 
   Future<void> _processPurchase(String productId) async {
+    // 在购买前确保商品已加载
+    if (!_productsLoaded) {
+      await _loadProductsIfNeeded();
+    }
+    
     debugPrint('Attempting to purchase product: $productId');
     debugPrint('Available products: ${_products.map((p) => p.id).toList()}');
     
@@ -253,7 +262,6 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
     });
     
     try {
-      // 添加短暂延迟，确保系统准备好
       await Future.delayed(const Duration(milliseconds: 500));
       
       final PurchaseParam purchaseParam = PurchaseParam(productDetails: product);

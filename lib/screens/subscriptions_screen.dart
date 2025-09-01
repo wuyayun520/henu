@@ -16,7 +16,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
   final InAppPurchase _inAppPurchase = InAppPurchase.instance;
   late StreamSubscription<List<PurchaseDetails>> _subscription;
   List<ProductDetails> _products = [];
-  bool _isLoading = true;
+  bool _isLoading = false; // 改为false，不在初始化时加载
   bool _purchasePending = false;
   int _selectedIndex = 0;
   bool _isVip = false;
@@ -24,6 +24,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
   DateTime? _lastSnackBarTime;
   late AnimationController _pulseController;
   late Animation<double> _pulseAnimation;
+  bool _productsLoaded = false; // 新增：标记商品是否已加载
 
   // 订阅商品配置
   final List<_VipPlan> _plans = [
@@ -32,7 +33,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
       subTitle: 'Per week',
       total: 'Total \$12.99',
       desc: '+7 Days ',
-      productId: 'HenuWeekVIP',
+      productId: 'loungeplusweek_13',
       popular: false,
     ),
     _VipPlan(
@@ -70,7 +71,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     }, onError: (error) {
       debugPrint("Error in IAP Stream: $error");
     });
-    _initInAppPurchase();
+    // 移除自动初始化内购，改为延迟加载
     _loadVipStatus();
   }
 
@@ -81,25 +82,42 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     super.dispose();
   }
 
-  Future<void> _initInAppPurchase() async {
+  // 新增：延迟加载商品信息，只在用户需要购买时才加载
+  Future<void> _loadProductsIfNeeded() async {
+    if (_productsLoaded) {
+      return; // 如果已经加载过，直接返回
+    }
+    
+    setState(() {
+      _isLoading = true;
+    });
+    
     final bool isAvailable = await _inAppPurchase.isAvailable();
     if (!isAvailable) {
       setState(() {
         _isLoading = false;
       });
+      _showSnackBar("Store not available");
       return;
     }
+    
     final Set<String> productIds = _plans.map((e) => e.productId).toSet();
     try {
       final ProductDetailsResponse response = await _inAppPurchase.queryProductDetails(productIds);
       setState(() {
         _products = response.productDetails;
         _isLoading = false;
+        _productsLoaded = true; // 标记为已加载
       });
+      
+      if (response.productDetails.isEmpty) {
+        _showSnackBar("No subscription products available");
+      }
     } catch (e) {
       setState(() {
         _isLoading = false;
       });
+      _showSnackBar("Failed to load subscription products: $e");
     }
   }
 
@@ -152,7 +170,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     // 计算有效期
     DateTime now = DateTime.now();
     DateTime expiry;
-    if (purchaseDetails.productID == 'HenuWeekVIP') {
+    if (purchaseDetails.productID == 'loungeplusweek_13') {
       expiry = now.add(const Duration(days: 7));
     } else if (purchaseDetails.productID == 'HenuMonthVIP') {
       expiry = now.add(const Duration(days: 30));
@@ -182,6 +200,11 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
   }
 
   Future<void> _processPurchase() async {
+    // 在购买前确保商品已加载
+    if (!_productsLoaded) {
+      await _loadProductsIfNeeded();
+    }
+    
     final plan = _plans[_selectedIndex];
     final ProductDetails? product = _products.firstWhereOrNull((p) => p.id == plan.productId);
     if (product == null) {
@@ -203,6 +226,11 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
   }
 
   Future<void> _restorePurchases() async {
+    // 在恢复前确保商品已加载
+    if (!_productsLoaded) {
+      await _loadProductsIfNeeded();
+    }
+    
     setState(() {
       _purchasePending = true;
     });
@@ -218,9 +246,9 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
       // 重新加载VIP状态以检查是否有恢复的购买
       await _loadVipStatus();
       
-              if (_isVip) {
-          _showSnackBar("Purchases restored successfully! Beauty Premium activated.");
-        } else {
+      if (_isVip) {
+        _showSnackBar("Purchases restored successfully! Beauty Premium activated.");
+      } else {
         _showSnackBar("No previous purchases found to restore.");
       }
     } catch (e) {
