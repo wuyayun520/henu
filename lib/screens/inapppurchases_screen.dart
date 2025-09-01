@@ -13,7 +13,7 @@ class BeautyProduct {
 
 class BeautyProducts {
   static const List<BeautyProduct> all = [
-    BeautyProduct('32', 'asweetecoin_6', 0.99),
+    BeautyProduct('32', 'Henu', 0.99),
     BeautyProduct('96', 'Henu2', 2.99),
     BeautyProduct('189', 'Henu5', 5.99),
     BeautyProduct('299', 'Henu9', 9.99),

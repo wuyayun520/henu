@@ -33,7 +33,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
       subTitle: 'Per week',
       total: 'Total \$12.99',
       desc: '+7 Days ',
-      productId: 'loungeplusweek_13',
+      productId: 'HenuWeekVIP',
       popular: false,
     ),
     _VipPlan(
@@ -170,7 +170,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     // 计算有效期
     DateTime now = DateTime.now();
     DateTime expiry;
-    if (purchaseDetails.productID == 'loungeplusweek_13') {
+    if (purchaseDetails.productID == 'HenuWeekVIP') {
       expiry = now.add(const Duration(days: 7));
     } else if (purchaseDetails.productID == 'HenuMonthVIP') {
       expiry = now.add(const Duration(days: 30));
