@@ -2,26 +2,28 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 import 'dart:async';
+import '../constants/app_colors.dart';
 
-class BeautyProduct {
+class GoldProduct {
   final String amountStr;
   final String productId;
   final double price;
   int get amount => int.tryParse(amountStr) ?? 0;
-  const BeautyProduct(this.amountStr, this.productId, this.price);
+  const GoldProduct(this.amountStr, this.productId, this.price);
 }
 
-class BeautyProducts {
-  static const List<BeautyProduct> all = [
-    BeautyProduct('32', 'Henu', 0.99),
-    BeautyProduct('96', 'Henu2', 2.99),
-    BeautyProduct('189', 'Henu5', 5.99),
-    BeautyProduct('299', 'Henu9', 9.99),
-    BeautyProduct('599', 'Henu19', 19.99),
-    BeautyProduct('1599', 'Henu49', 49.99),
-    BeautyProduct('3199', 'Henu99', 99.99),
-    BeautyProduct('5099', 'Henu159', 159.99),
-    BeautyProduct('7959', 'Henu239', 239.99),
+
+class GoldProducts {
+  static const List<GoldProduct> all = [
+    GoldProduct('32', 'Henu', 0.99),
+    GoldProduct('96', 'Henu2', 2.99),
+    GoldProduct('189', 'Henu5', 5.99),
+    GoldProduct('299', 'Henu9', 9.99),
+    GoldProduct('599', 'Henu19', 19.99),
+    GoldProduct('1599', 'Henu49', 49.99),
+    GoldProduct('3199', 'Henu99', 99.99),
+    GoldProduct('5099', 'Henu159', 159.99),
+    GoldProduct('7959', 'Henu239', 239.99),
   ];
 }
 
@@ -36,18 +38,15 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
   final InAppPurchase _inAppPurchase = InAppPurchase.instance;
   late StreamSubscription<List<PurchaseDetails>> _subscription;
   List<ProductDetails> _products = [];
-  bool _isLoading = false; // 改为false，不在初始化时加载
+  bool _isLoading = true;
   bool _purchasePending = false;
-  int _beautyCoins = 0;
+  int _goldCoins = 0;
   late AnimationController _animationController;
   late Animation<double> _pulseAnimation;
-  late AnimationController _beautyController;
-  late Animation<double> _beautyAnimation;
-  final Set<String> _processedPurchases = {};
-  bool _isInitialized = false;
-  bool _productsLoaded = false; // 新增：标记商品是否已加载
+  final Set<String> _processedPurchases = {}; // 跟踪已处理的购买
+  bool _isInitialized = false; // 标记是否已初始化
 
-  List<BeautyProduct> get _beautyProducts => BeautyProducts.all;
+  List<GoldProduct> get _goldProducts => GoldProducts.all;
 
   @override
   void initState() {
@@ -60,78 +59,60 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
       CurvedAnimation(parent: _animationController, curve: Curves.easeInOut),
     );
     
-    _beautyController = AnimationController(
-      duration: const Duration(seconds: 1),
-      vsync: this,
-    )..repeat(reverse: true);
-    _beautyAnimation = Tween<double>(begin: -0.1, end: 0.1).animate(
-      CurvedAnimation(parent: _beautyController, curve: Curves.easeInOut),
-    );
-    
     final Stream<List<PurchaseDetails>> purchaseUpdated = _inAppPurchase.purchaseStream;
     _subscription = purchaseUpdated.listen(_listenToPurchaseUpdated, onDone: () {
       _subscription.cancel();
     }, onError: (error) {
       debugPrint("Error in IAP Stream: $error");
     });
-    _loadBeautyCoins();
-    // 移除自动初始化内购，改为延迟加载
-    _isInitialized = true;
+    _loadGoldCoins();
+    _initInAppPurchase();
   }
 
   @override
   void dispose() {
     _animationController.dispose();
-    _beautyController.dispose();
     _subscription.cancel();
     super.dispose();
   }
 
-  Future<void> _loadBeautyCoins() async {
+  Future<void> _loadGoldCoins() async {
     final prefs = await SharedPreferences.getInstance();
-    int coins = prefs.getInt('beautyCoins') ?? 0;
+    int coins = prefs.getInt('petCoins') ?? 0;
     debugPrint('Loading beauty coins: $coins');
     setState(() {
-      _beautyCoins = coins;
+      _goldCoins = coins;
+      // 如果还没有初始化完成，在这里也设置标志
       if (!_isInitialized) {
         _isInitialized = true;
-        debugPrint('Initialized from _loadBeautyCoins');
+        debugPrint('Initialized from _loadGoldCoins');
       }
     });
   }
 
-  Future<void> _saveBeautyCoins(int amount) async {
+  Future<void> _saveGoldCoins(int amount) async {
     final prefs = await SharedPreferences.getInstance();
-    debugPrint('Saving beauty coins: current=$_beautyCoins, adding=$amount, new=${_beautyCoins + amount}');
+    debugPrint('Saving beauty coins: current=$_goldCoins, adding=$amount, new=${_goldCoins + amount}');
     debugPrint('Call stack: ${StackTrace.current}');
     setState(() {
-      _beautyCoins += amount;
+      _goldCoins += amount;
     });
-    await prefs.setInt('beautyCoins', _beautyCoins);
+    await prefs.setInt('petCoins', _goldCoins);
   }
 
-  // 新增：延迟加载商品信息，只在用户需要购买时才加载
-  Future<void> _loadProductsIfNeeded() async {
-    if (_productsLoaded) {
-      return; // 如果已经加载过，直接返回
-    }
-    
-    setState(() {
-      _isLoading = true;
-    });
-    
+  Future<void> _initInAppPurchase() async {
     final bool isAvailable = await _inAppPurchase.isAvailable();
     debugPrint('Store availability: $isAvailable');
     
     if (!isAvailable) {
       setState(() {
         _isLoading = false;
+        _isInitialized = true; // 即使出错也标记为已初始化
       });
-      _showSnackBar("Store not available");
       return;
     }
     
-    final Set<String> productIds = _beautyProducts.map((e) => e.productId).toSet();
+    final Set<String> productIds = _goldProducts.map((e) => e.productId).toSet();
     debugPrint('Querying products: $productIds');
     
     try {
@@ -142,7 +123,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
       setState(() {
         _products = response.productDetails;
         _isLoading = false;
-        _productsLoaded = true; // 标记为已加载
+        _isInitialized = true; // 标记初始化完成
       });
       debugPrint('InAppPurchase initialized successfully');
       
@@ -153,12 +134,14 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
       debugPrint('Error loading products: $e');
       setState(() {
         _isLoading = false;
+        _isInitialized = true; // 即使出错也标记为已初始化
       });
       _showSnackBar("Failed to load products: $e");
     }
   }
 
   Future<void> _listenToPurchaseUpdated(List<PurchaseDetails> purchaseDetailsList) async {
+    // 如果页面还没有初始化完成，忽略购买更新
     if (!_isInitialized) {
       debugPrint('Ignoring purchase updates during initialization');
       return;
@@ -179,59 +162,63 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
           _showSnackBar("Purchase failed: ${purchaseDetails.error?.message ?? 'Unknown error'}");
         } else if (purchaseDetails.status == PurchaseStatus.purchased ||
                    purchaseDetails.status == PurchaseStatus.restored) {
+          // 处理新购买和恢复的购买
           _handleSuccessfulPurchase(purchaseDetails);
         } else if (purchaseDetails.status == PurchaseStatus.canceled) {
           setState(() {
             _purchasePending = false;
           });
         }
+        // 移除重复的completePurchase调用，现在在_handleSuccessfulPurchase中处理
       }
     }
   }
 
   Future<void> _handleSuccessfulPurchase(PurchaseDetails purchaseDetails) async {
+    // 检查是否已经处理过这个购买
     String purchaseKey = '${purchaseDetails.productID}_${purchaseDetails.purchaseID}_${purchaseDetails.status}';
     if (_processedPurchases.contains(purchaseKey)) {
       debugPrint('Purchase already processed: $purchaseKey');
       return;
     }
     
+    // 添加到已处理列表
     _processedPurchases.add(purchaseKey);
     
     debugPrint('Handling successful purchase: ${purchaseDetails.productID} (${purchaseDetails.status})');
-    debugPrint('Available product IDs: ${_beautyProducts.map((p) => p.productId).toList()}');
+    debugPrint('Available product IDs: ${_goldProducts.map((p) => p.productId).toList()}');
     
     setState(() {
       _purchasePending = false;
     });
     
-    final product = _beautyProducts.firstWhere(
+    final product = _goldProducts.firstWhere(
       (e) => e.productId == purchaseDetails.productID, 
       orElse: () {
         debugPrint('Product not found in configuration: ${purchaseDetails.productID}');
-        return BeautyProduct('', '', 0);
+        return GoldProduct('', '', 0);
       }
     );
     
     if (product.amount > 0) {
       debugPrint('Processing purchase: ${product.amount} coins for product ${purchaseDetails.productID}');
-      await _saveBeautyCoins(product.amount);
+      await _saveGoldCoins(product.amount);
       _showSnackBar("Purchase successful! +${product.amount} Beauty Credits");
     } else {
       debugPrint('Product amount is 0 or product not found: ${purchaseDetails.productID}');
     }
     
+    // 总是清除订单
     debugPrint('Completing purchase: ${purchaseDetails.productID}');
     await _inAppPurchase.completePurchase(purchaseDetails);
   }
 
   void _showSnackBar(String msg) {
     if (mounted) {
-      final colorScheme = Theme.of(context).colorScheme;
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text(msg),
-          backgroundColor: colorScheme.primary,
+          backgroundColor: AppColors.primary,
           behavior: SnackBarBehavior.floating,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
         ),
@@ -240,11 +227,6 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
   }
 
   Future<void> _processPurchase(String productId) async {
-    // 在购买前确保商品已加载
-    if (!_productsLoaded) {
-      await _loadProductsIfNeeded();
-    }
-    
     debugPrint('Attempting to purchase product: $productId');
     debugPrint('Available products: ${_products.map((p) => p.id).toList()}');
     
@@ -262,6 +244,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
     });
     
     try {
+      // 添加短暂延迟，确保系统准备好
       await Future.delayed(const Duration(milliseconds: 500));
       
       final PurchaseParam purchaseParam = PurchaseParam(productDetails: product);
@@ -279,13 +262,12 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
 
   @override
   Widget build(BuildContext context) {
-    final colorScheme = Theme.of(context).colorScheme;
     return Scaffold(
-      backgroundColor: colorScheme.background,
+      backgroundColor: AppColors.background,
       body: _isLoading
           ? Center(
               child: CircularProgressIndicator(
-                color: const Color(0xFFFF6B9D),
+                color: AppColors.primary,
               ),
             )
           : CustomScrollView(
@@ -295,9 +277,9 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                   expandedHeight: 300,
                   floating: false,
                   pinned: true,
-                  backgroundColor: colorScheme.background,
+                  backgroundColor: AppColors.background,
                   leading: IconButton(
-                    icon: Icon(Icons.arrow_back_ios_new, color: const Color(0xFFFF6B9D)),
+                    icon: Icon(Icons.arrow_back_ios_new, color: AppColors.primary),
                     onPressed: () => Navigator.of(context).pop(),
                   ),
                   flexibleSpace: FlexibleSpaceBar(
@@ -307,8 +289,8 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                           begin: Alignment.topCenter,
                           end: Alignment.bottomCenter,
                           colors: [
-                            const Color(0xFFFF6B9D).withOpacity(0.1),
-                            colorScheme.background,
+                            AppColors.primary.withValues(alpha: 0.1),
+                            AppColors.background,
                           ],
                         ),
                       ),
@@ -316,7 +298,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           const SizedBox(height: 60),
-                          // 美妆主题图标
+                          // 彩妆主题图标
                           AnimatedBuilder(
                             animation: _pulseAnimation,
                             builder: (context, child) {
@@ -328,14 +310,11 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                                   decoration: BoxDecoration(
                                     shape: BoxShape.circle,
                                     gradient: LinearGradient(
-                                      colors: [
-                                        const Color(0xFFFF6B9D), // 粉色
-                                        const Color(0xFFC874FF), // 紫色
-                                      ],
+                                      colors: [AppColors.primary, AppColors.secondary],
                                     ),
                                     boxShadow: [
                                       BoxShadow(
-                                        color: const Color(0xFFFF6B9D).withOpacity(0.4),
+                                        color: AppColors.primary.withValues(alpha: 0.4),
                                         blurRadius: 20,
                                         spreadRadius: 5,
                                       ),
@@ -354,7 +333,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                                         right: 10,
                                         child: Icon(
                                           Icons.brush,
-                                          color: Colors.white.withOpacity(0.7),
+                                          color: Colors.white.withValues(alpha: 0.7),
                                           size: 20,
                                         ),
                                       ),
@@ -367,11 +346,11 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                           const SizedBox(height: 20),
                           // 余额显示
                           Text(
-                            '$_beautyCoins',
+                            '$_goldCoins',
                             style: TextStyle(
                               fontSize: 48,
                               fontWeight: FontWeight.bold,
-                              color: const Color(0xFFFF6B9D),
+                              color: AppColors.primary,
                             ),
                           ),
                           const SizedBox(height: 8),
@@ -379,10 +358,11 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                             'Beauty Credits',
                             style: TextStyle(
                               fontSize: 20,
-                              color: const Color(0xFFFF6B9D),
+                              color: AppColors.primary,
                               fontWeight: FontWeight.w600,
                             ),
                           ),
+                          
                         ],
                       ),
                     ),
@@ -395,7 +375,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                   sliver: SliverList(
                     delegate: SliverChildBuilderDelegate(
                       (context, index) {
-                        final item = _beautyProducts[index];
+                        final item = _goldProducts[index];
                         final product = _products.firstWhereOrNull((p) => p.id == item.productId);
                         final priceStr = product?.price ?? '\$${item.price.toStringAsFixed(2)}';
                         
@@ -404,26 +384,26 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                         Color? badgeColor;
                         
                         // 为特定商品添加标签
-                        if (item.amount >= 5000) {
+                        if (item.amount >= 1599) {
                           badge = 'BEST VALUE';
-                          badgeColor = const Color(0xFFFF6B9D);
-                        } else if (item.amount == 599) {
+                          badgeColor = AppColors.secondary;
+                        } else if (item.amount >= 599) {
                           badge = 'POPULAR';
-                          badgeColor = const Color(0xFFC874FF);
+                          badgeColor = AppColors.success;
                         }
                         
                         return Container(
                           margin: const EdgeInsets.only(bottom: 12),
                           decoration: BoxDecoration(
-                            color: colorScheme.surface,
+                            color: AppColors.surface,
                             borderRadius: BorderRadius.circular(16),
                             border: Border.all(
-                              color: const Color(0xFFFF6B9D).withOpacity(0.2),
+                              color: AppColors.primary.withValues(alpha: 0.2),
                               width: 1,
                             ),
                             boxShadow: [
                               BoxShadow(
-                                color: Colors.black.withOpacity(0.05),
+                                color: Colors.black.withValues(alpha: 0.05),
                                 blurRadius: 8,
                                 offset: const Offset(0, 2),
                               ),
@@ -439,7 +419,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                                   // 特殊标签
                                   if (badge != null)
                                     Positioned(
-                                      top: 5,
+                                      top: 10,
                                       right: 12,
                                       child: Container(
                                         padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
@@ -462,39 +442,28 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                                     padding: const EdgeInsets.all(20),
                                     child: Row(
                                       children: [
-                                        // 美妆图标
-                                        AnimatedBuilder(
-                                          animation: _beautyAnimation,
-                                          builder: (context, child) {
-                                            return Transform.rotate(
-                                              angle: _beautyAnimation.value,
-                                              child: Container(
-                                                width: 60,
-                                                height: 60,
-                                                decoration: BoxDecoration(
-                                                  gradient: LinearGradient(
-                                                    colors: [
-                                                      const Color(0xFFFF6B9D), // 粉色
-                                                      const Color(0xFFC874FF), // 紫色
-                                                    ],
-                                                  ),
-                                                  borderRadius: BorderRadius.circular(16),
-                                                  boxShadow: [
-                                                    BoxShadow(
-                                                      color: const Color(0xFFFF6B9D).withOpacity(0.3),
-                                                      blurRadius: 8,
-                                                      offset: const Offset(0, 2),
-                                                    ),
-                                                  ],
-                                                ),
-                                                child: const Icon(
-                                                  Icons.face,
-                                                  color: Colors.white,
-                                                  size: 30,
-                                                ),
+                                        // 彩妆图标
+                                        Container(
+                                          width: 60,
+                                          height: 60,
+                                          decoration: BoxDecoration(
+                                            gradient: LinearGradient(
+                                              colors: [AppColors.primary, AppColors.secondary],
+                                            ),
+                                            borderRadius: BorderRadius.circular(16),
+                                            boxShadow: [
+                                              BoxShadow(
+                                                color: AppColors.primary.withValues(alpha: 0.3),
+                                                blurRadius: 8,
+                                                offset: const Offset(0, 2),
                                               ),
-                                            );
-                                          },
+                                            ],
+                                          ),
+                                          child: const Icon(
+                                            Icons.face,
+                                            color: Colors.white,
+                                            size: 30,
+                                          ),
                                         ),
                                         
                                         const SizedBox(width: 16),
@@ -507,11 +476,12 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                                               Text(
                                                 '${item.amount} Beauty Credits',
                                                 style: TextStyle(
-                                                  color: colorScheme.onSurface,
+                                                  color: AppColors.textPrimary,
                                                   fontSize: 18,
                                                   fontWeight: FontWeight.bold,
                                                 ),
                                               ),
+                                             
                                             ],
                                           ),
                                         ),
@@ -521,15 +491,12 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                                           padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
                                           decoration: BoxDecoration(
                                             gradient: LinearGradient(
-                                              colors: [
-                                                const Color(0xFFFF6B9D), // 粉色
-                                                const Color(0xFFC874FF), // 紫色
-                                              ],
+                                              colors: [AppColors.primary, AppColors.secondary],
                                             ),
                                             borderRadius: BorderRadius.circular(25),
                                             boxShadow: [
                                               BoxShadow(
-                                                color: const Color(0xFFFF6B9D).withOpacity(0.3),
+                                                color: AppColors.primary.withValues(alpha: 0.3),
                                                 blurRadius: 8,
                                                 offset: const Offset(0, 2),
                                               ),
@@ -553,7 +520,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                           ),
                         );
                       },
-                      childCount: _beautyProducts.length,
+                      childCount: _goldProducts.length,
                     ),
                   ),
                 ),
