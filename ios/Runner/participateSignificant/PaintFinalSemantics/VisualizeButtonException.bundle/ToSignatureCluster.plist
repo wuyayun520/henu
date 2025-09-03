@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushVarForce</key>
+	<string>menuLayerMargin</string>
+	<key>eventOrScope</key>
+	<string>capsuleViaStage</string>
+	<key>inkwellParamFrequency</key>
+	<string>iterativeCupertinoIndex</string>
+	<key>managerInWork</key>
+	<string>memberWorkFlags</string>
+	<key>menuInsideCycle</key>
+	<string>vectorStageMode</string>
+	<key>screenAwayTask</key>
+	<string>dynamicSemanticsDistance</string>
+	<key>spriteFromParam</key>
+	<string>disabledParticleKind</string>
+	<key>synchronousRemainderEdge</key>
+	<string>cupertinoMusicRate</string>
+	<key>transitionVarBorder</key>
+	<string>mediaWorkBound</string>
+	<key>typicalConsumerShape</key>
+	<string>channelFlyweightForce</string>
+</dict>
+</plist>

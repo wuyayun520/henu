@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConfigurationInset</key>
+	<string>spriteAlongActivity</string>
+	<key>constraintExceptSystem</key>
+	<string>actionAboutShape</string>
+	<key>flexibleContractionFlags</key>
+	<string>streamDecoratorDistance</string>
+	<key>oldAnimationRate</key>
+	<string>sampleAmongPrototype</string>
+	<key>prismaticPositionScale</key>
+	<string>animatedZoneSkewy</string>
+	<key>unactivatedTweenStyle</key>
+	<string>futureDuringEnvironment</string>
+</dict>
+</plist>

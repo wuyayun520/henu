@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCallbackAlignment</key>
+	<string>subsequentLoopBrightness</string>
+	<key>animationStyleSkewx</key>
+	<string>directlyPriorityFeedback</string>
+	<key>captionTierStyle</key>
+	<string>oldListenerScale</string>
+	<key>cubeDespiteFacade</key>
+	<string>localizationParameterSize</string>
+	<key>curveSinceStage</key>
+	<string>baselineValueVisibility</string>
+	<key>granularSensorScale</key>
+	<string>iconModeLeft</string>
+	<key>largeStatefulDelay</key>
+	<string>backwardBuilderOrigin</string>
+	<key>modelContainMediator</key>
+	<string>buttonStageStyle</string>
+</dict>
+</plist>

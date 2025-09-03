@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletStageLocation</key>
+	<string>vectorDecoratorContrast</string>
+	<key>checkboxAtPhase</key>
+	<string>storyboardSingletonTag</string>
+	<key>completerTypeForce</key>
+	<string>ignoredViewOpacity</string>
+	<key>imagePatternShade</key>
+	<string>columnObserverTag</string>
+	<key>instructionNearScope</key>
+	<string>materialAwayPrototype</string>
+	<key>nibModeDirection</key>
+	<string>sampleAgainstVisitor</string>
+	<key>sequentialRouterCenter</key>
+	<string>skirtAgainstVar</string>
+	<key>transitionStateVisibility</key>
+	<string>paddingVisitorAppearance</string>
+</dict>
+</plist>

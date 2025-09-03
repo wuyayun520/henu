@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitCosineBorder</key>
+	<string>asyncLayerRight</string>
+	<key>grainJobShade</key>
+	<string>methodAsPattern</string>
+	<key>interactiveResolverVelocity</key>
+	<string>workflowMethodAcceleration</string>
+	<key>reusableLocalizationFeedback</key>
+	<string>persistentApertureSaturation</string>
+	<key>sliderOperationSpacing</key>
+	<string>sizedboxOrFunction</string>
+</dict>
+</plist>

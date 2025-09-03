@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFlyweightSpacing</key>
+	<string>cosineForSystem</string>
+	<key>constraintVarMargin</key>
+	<string>marginSystemMode</string>
+	<key>layoutFrameworkBottom</key>
+	<string>unactivatedProviderOffset</string>
+	<key>textEnvironmentOffset</key>
+	<string>currentCharacterSpeed</string>
+</dict>
+</plist>

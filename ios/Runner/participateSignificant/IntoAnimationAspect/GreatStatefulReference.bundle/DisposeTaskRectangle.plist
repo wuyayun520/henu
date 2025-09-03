@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutShapeDepth</key>
+	<string>lazyDescriptionRate</string>
+	<key>oldDescriptorPosition</key>
+	<string>opaqueConstraintForce</string>
+	<key>pinchableHandlerBehavior</key>
+	<string>resourceInStyle</string>
+	<key>resourceAgainstShape</key>
+	<string>actionAgainstObserver</string>
+	<key>signatureProcessHead</key>
+	<string>navigationAroundStyle</string>
+	<key>singletonForComposite</key>
+	<string>draggableUsecaseBrightness</string>
+	<key>spineOrCommand</key>
+	<string>discardedAlertBound</string>
+	<key>viewPlatformScale</key>
+	<string>movementValueSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentExceptMediator</key>
+	<string>temporaryTitleType</string>
+	<key>criticalActivityShade</key>
+	<string>priorMemberColor</string>
+	<key>cursorEnvironmentBrightness</key>
+	<string>scrollShapeHue</string>
+	<key>dynamicChapterCoord</key>
+	<string>activeUtilLeft</string>
+	<key>positionCommandName</key>
+	<string>nodeAroundStyle</string>
+	<key>uniqueServiceRate</key>
+	<string>protectedResponseSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCardCount</key>
+	<string>resultStageFormat</string>
+	<key>borderLayerScale</key>
+	<string>imperativeStreamScale</string>
+	<key>controllerAboutAction</key>
+	<string>sharedChartSpeed</string>
+	<key>serviceActionHue</key>
+	<string>accordionSpriteState</string>
+	<key>significantNibPressure</key>
+	<string>gridviewViaStyle</string>
+</dict>
+</plist>

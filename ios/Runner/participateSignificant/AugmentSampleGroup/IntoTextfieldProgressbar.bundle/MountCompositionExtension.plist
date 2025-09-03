@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerContainTask</key>
+	<string>controllerBeyondMediator</string>
+	<key>cupertinoSpecifierDepth</key>
+	<string>queueOutsideForm</string>
+	<key>mediocreDependencyBehavior</key>
+	<string>stampSinceBuffer</string>
+	<key>presenterSinceMemento</key>
+	<string>vectorMementoMode</string>
+	<key>workflowInSystem</key>
+	<string>layerDuringEnvironment</string>
+</dict>
+</plist>

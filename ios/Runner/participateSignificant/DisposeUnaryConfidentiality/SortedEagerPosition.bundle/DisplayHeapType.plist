@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorViaTier</key>
+	<string>multiplicationProxySaturation</string>
+	<key>cubitParamTail</key>
+	<string>isolateInsideAdapter</string>
+	<key>extensionParamFeedback</key>
+	<string>desktopNotificationRate</string>
+	<key>particleChainSpeed</key>
+	<string>flexibleMatrixSize</string>
+	<key>resizableAnimationValidation</key>
+	<string>listenerForBridge</string>
+</dict>
+</plist>

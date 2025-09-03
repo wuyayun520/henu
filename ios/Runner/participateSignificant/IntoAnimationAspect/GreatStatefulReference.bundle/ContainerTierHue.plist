@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerContextName</key>
+	<string>displayableViewType</string>
+	<key>decorationInsideMediator</key>
+	<string>zoneAroundEnvironment</string>
+	<key>globalProgressbarShade</key>
+	<string>navigatorMediatorBound</string>
+	<key>menuBesideComposite</key>
+	<string>factoryAwayBridge</string>
+	<key>modalOutsideObserver</key>
+	<string>crucialMethodName</string>
+	<key>priorDependencyForce</key>
+	<string>oldBlocDepth</string>
+	<key>seamlessRowBehavior</key>
+	<string>semanticsAmongProcess</string>
+	<key>topicProxyFrequency</key>
+	<string>transformerPatternStyle</string>
+	<key>uniformEventPosition</key>
+	<string>subscriptionSingletonAppearance</string>
+	<key>widgetThanStage</key>
+	<string>normalBehaviorKind</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintProcessValidation</key>
+	<string>painterNearShape</string>
+	<key>effectInsideInterpreter</key>
+	<string>gateCycleMargin</string>
+	<key>independentCosineSaturation</key>
+	<string>referenceKindTail</string>
+	<key>positionForMethod</key>
+	<string>resizableTransitionAppearance</string>
+	<key>rapidCollectionMode</key>
+	<string>sortedAwaitDuration</string>
+	<key>subscriptionDuringBuffer</key>
+	<string>workflowStrategyBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateBufferPadding</key>
+	<string>numericalNavigatorLocation</string>
+	<key>dialogsWithOperation</key>
+	<string>skirtLayerInterval</string>
+	<key>ephemeralStateInteraction</key>
+	<string>resourceAboutCommand</string>
+	<key>skinWithState</key>
+	<string>shaderProcessValidation</string>
+	<key>taskAboutPlatform</key>
+	<string>fragmentStrategyRight</string>
+	<key>transitionInterpreterDepth</key>
+	<string>deferredStatefulTop</string>
+</dict>
+</plist>

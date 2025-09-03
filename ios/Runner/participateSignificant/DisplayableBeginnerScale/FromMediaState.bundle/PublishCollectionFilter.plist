@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionIncludeMethod</key>
+	<string>storageOrStrategy</string>
+	<key>capsuleOutsideStrategy</key>
+	<string>factoryValueLocation</string>
+	<key>cupertinoContextContrast</key>
+	<string>accessoryAsChain</string>
+	<key>hardPetPadding</key>
+	<string>allocatorAmongObserver</string>
+	<key>queueVersusState</key>
+	<string>widgetBeyondNumber</string>
+</dict>
+</plist>

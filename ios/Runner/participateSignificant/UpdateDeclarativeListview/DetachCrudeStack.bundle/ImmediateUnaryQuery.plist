@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryInActivity</key>
+	<string>comprehensiveNavigatorInteraction</string>
+	<key>flexibleMediaCoord</key>
+	<string>stateChainDistance</string>
+	<key>numericalMenuLeft</key>
+	<string>eventCycleCoord</string>
+	<key>resolverKindFeedback</key>
+	<string>activityStateName</string>
+</dict>
+</plist>

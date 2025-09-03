@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionBridgeBottom</key>
+	<string>dynamicChannelTransparency</string>
+	<key>cubitAgainstContext</key>
+	<string>sceneVariableVelocity</string>
+	<key>dynamicCaptionHue</key>
+	<string>symbolPhaseSaturation</string>
+	<key>handlerViaScope</key>
+	<string>constraintFunctionDuration</string>
+	<key>intensityOfNumber</key>
+	<string>awaitActivityBrightness</string>
+	<key>substantialPlaybackBehavior</key>
+	<string>batchWithoutStructure</string>
+	<key>textPerPlatform</key>
+	<string>reductionStrategyCoord</string>
+	<key>widgetAdapterShade</key>
+	<string>resolverCommandStatus</string>
+</dict>
+</plist>

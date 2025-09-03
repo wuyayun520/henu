@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerShapeTransparency</key>
+	<string>storyboardProcessOffset</string>
+	<key>flexVersusMethod</key>
+	<string>navigationAdapterInset</string>
+	<key>pointCycleInteraction</key>
+	<string>concurrentControllerScale</string>
+	<key>projectInsideFunction</key>
+	<string>loopAsParameter</string>
+	<key>projectionOperationSize</key>
+	<string>routeContextOrientation</string>
+	<key>reducerAmongCommand</key>
+	<string>providerOrPhase</string>
+	<key>segmentViaOperation</key>
+	<string>commandAsMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSingletonVisibility</key>
+	<string>commonMediaqueryHue</string>
+	<key>intensityOutsideStrategy</key>
+	<string>resizableIntensityDuration</string>
+	<key>textfieldCommandVisible</key>
+	<string>lazyInjectionShade</string>
+	<key>variantActionRate</key>
+	<string>curveNumberType</string>
+</dict>
+</plist>

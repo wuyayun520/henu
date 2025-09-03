@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAgainstBridge</key>
+	<string>layoutWithoutKind</string>
+	<key>coordinatorVersusKind</key>
+	<string>mediumMatrixTint</string>
+	<key>extensionWithMethod</key>
+	<string>disabledMatrixInset</string>
+	<key>modelAsActivity</key>
+	<string>intermediateLayoutVelocity</string>
+	<key>playbackFlyweightFlags</key>
+	<string>progressbarSingletonColor</string>
+	<key>sizeDuringWork</key>
+	<string>typicalCurvePadding</string>
+	<key>sliderLikeScope</key>
+	<string>certificateOperationIndex</string>
+	<key>textfieldTypeResponse</key>
+	<string>completionAmongChain</string>
+	<key>titleNumberTension</key>
+	<string>heapObserverAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTransitionTransparency</key>
+	<string>commandFrameworkRight</string>
+	<key>masterByContext</key>
+	<string>loopFunctionSpeed</string>
+	<key>progressbarContainCommand</key>
+	<string>uniformEventFlags</string>
+	<key>staticTaskInteraction</key>
+	<string>arithmeticFormForce</string>
+</dict>
+</plist>

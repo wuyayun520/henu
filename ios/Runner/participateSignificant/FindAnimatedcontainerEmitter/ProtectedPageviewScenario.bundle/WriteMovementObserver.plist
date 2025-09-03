@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerChainInset</key>
+	<string>slashBesideStructure</string>
+	<key>explicitBufferMargin</key>
+	<string>topicTempleBorder</string>
+	<key>frameLevelCoord</key>
+	<string>newestCoordinatorBehavior</string>
+	<key>greatLayerInset</key>
+	<string>referenceCompositeRate</string>
+	<key>nativeLabelSkewy</key>
+	<string>transformerStructureAlignment</string>
+	<key>permanentTransitionRate</key>
+	<string>tappableModulusMode</string>
+	<key>radiusIncludeMethod</key>
+	<string>spriteShapeOffset</string>
+	<key>reductionTierDensity</key>
+	<string>completerThroughType</string>
+	<key>sampleEnvironmentFlags</key>
+	<string>routeAndNumber</string>
+</dict>
+</plist>

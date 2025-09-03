@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStrategyLeft</key>
+	<string>responseViaCycle</string>
+	<key>immutableCanvasAcceleration</key>
+	<string>spotFlyweightSize</string>
+	<key>protectedDescriptionSpacing</key>
+	<string>animatedcontainerIncludeStrategy</string>
+	<key>viewMediatorName</key>
+	<string>tabbarAdapterCenter</string>
+	<key>viewMementoEdge</key>
+	<string>taskMementoAlignment</string>
+</dict>
+</plist>

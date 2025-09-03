@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDrawerColor</key>
+	<string>diversifiedBuilderOpacity</string>
+	<key>consumerFrameworkAppearance</key>
+	<string>sizedboxInType</string>
+	<key>draggableInteractorAcceleration</key>
+	<string>tappableCharacterResponse</string>
+	<key>durationDecoratorAlignment</key>
+	<string>eventOutsideFunction</string>
+	<key>plateFormResponse</key>
+	<string>brushMediatorScale</string>
+	<key>referenceInsideBridge</key>
+	<string>imageFromSingleton</string>
+	<key>requestAgainstLevel</key>
+	<string>pageviewBeyondPhase</string>
+	<key>taskWithCommand</key>
+	<string>grainExceptLayer</string>
+</dict>
+</plist>

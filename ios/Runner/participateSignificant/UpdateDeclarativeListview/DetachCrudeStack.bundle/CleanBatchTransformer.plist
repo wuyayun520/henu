@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLabelVisibility</key>
+	<string>interactorOutsideChain</string>
+	<key>managerStrategyHue</key>
+	<string>mutableDependencyVisible</string>
+	<key>mediaLevelForce</key>
+	<string>cycleAlongTier</string>
+	<key>modelModeFlags</key>
+	<string>labelPlatformIndex</string>
+	<key>radiusParamState</key>
+	<string>delegateWithMemento</string>
+	<key>retainedAwaitSize</key>
+	<string>explicitOptionRate</string>
+	<key>singlePositionValidation</key>
+	<string>touchForPattern</string>
+	<key>sliderInsideOperation</key>
+	<string>animationSinceInterpreter</string>
+	<key>unaryVersusPhase</key>
+	<string>errorStateTheme</string>
+</dict>
+</plist>

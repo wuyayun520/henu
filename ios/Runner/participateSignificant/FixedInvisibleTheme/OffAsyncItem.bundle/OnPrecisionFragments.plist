@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAroundSingleton</key>
+	<string>sizeContainValue</string>
+	<key>interactiveHandlerFrequency</key>
+	<string>dialogsMediatorPadding</string>
+	<key>modalShapeBound</key>
+	<string>robustTransformerInset</string>
+	<key>particleFrameworkType</key>
+	<string>exceptionThroughCycle</string>
+	<key>relationalResolverRight</key>
+	<string>activityDespiteStrategy</string>
+	<key>uniformShaderType</key>
+	<string>chartBesideVisitor</string>
+</dict>
+</plist>

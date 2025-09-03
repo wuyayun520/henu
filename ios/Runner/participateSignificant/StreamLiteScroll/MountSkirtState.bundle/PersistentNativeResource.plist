@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTypeRate</key>
+	<string>gesturedetectorFlyweightBehavior</string>
+	<key>activityCommandFlags</key>
+	<string>controllerOperationDensity</string>
+	<key>appbarWithoutStyle</key>
+	<string>largeRoleName</string>
+	<key>normalSubpixelHue</key>
+	<string>custompaintParameterDirection</string>
+	<key>notificationModeTheme</key>
+	<string>durationByBuffer</string>
+	<key>rectBufferFormat</key>
+	<string>chartAtWork</string>
+	<key>rectStrategyInset</key>
+	<string>enabledGroupTension</string>
+	<key>sequentialTextEdge</key>
+	<string>monsterAboutAction</string>
+	<key>substantialUsecaseType</key>
+	<string>listviewViaBuffer</string>
+</dict>
+</plist>

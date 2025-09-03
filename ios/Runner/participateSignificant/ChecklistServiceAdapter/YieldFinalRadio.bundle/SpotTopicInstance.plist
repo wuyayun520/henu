@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInWork</key>
+	<string>sliderCommandBehavior</string>
+	<key>bulletWorkFrequency</key>
+	<string>utilParamCenter</string>
+	<key>checkboxProxyCoord</key>
+	<string>canvasContainWork</string>
+	<key>delegatePhaseOffset</key>
+	<string>immutableCompleterMargin</string>
+	<key>mainStateForce</key>
+	<string>viewWithPattern</string>
+	<key>missedModelOrientation</key>
+	<string>beginnerContainerBorder</string>
+	<key>repositoryContextOrigin</key>
+	<string>errorAlongKind</string>
+	<key>spriteScopeOffset</key>
+	<string>modelModeCenter</string>
+	<key>storeScopeCenter</key>
+	<string>sceneIncludeProxy</string>
+</dict>
+</plist>

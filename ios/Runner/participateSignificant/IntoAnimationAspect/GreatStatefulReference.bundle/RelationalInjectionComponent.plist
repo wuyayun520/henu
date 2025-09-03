@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateCommandBehavior</key>
+	<string>completerPerObserver</string>
+	<key>dependencyAsPattern</key>
+	<string>featureFromNumber</string>
+	<key>logarithmAlongPattern</key>
+	<string>directlyResourceCenter</string>
+	<key>operationFromState</key>
+	<string>mediumCustompaintScale</string>
+</dict>
+</plist>

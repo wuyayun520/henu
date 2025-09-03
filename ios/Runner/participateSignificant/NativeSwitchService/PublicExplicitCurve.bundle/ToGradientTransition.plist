@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetKindTransparency</key>
+	<string>sharedAxisFormat</string>
+	<key>mobilePlatformBorder</key>
+	<string>radioUntilPhase</string>
+	<key>observerInsideProcess</key>
+	<string>scaffoldParamRate</string>
+	<key>opaquePreviewTheme</key>
+	<string>anchorContextAppearance</string>
+	<key>parallelDrawerName</key>
+	<string>sizedboxAmongJob</string>
+	<key>resourceNearStrategy</key>
+	<string>signInsideFramework</string>
+	<key>scrollBeyondActivity</key>
+	<string>optionInComposite</string>
+	<key>textAsKind</key>
+	<string>ignoredAnimationAcceleration</string>
+</dict>
+</plist>

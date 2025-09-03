@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectUntilComposite</key>
+	<string>durationThroughInterpreter</string>
+	<key>frameProxyRate</key>
+	<string>indicatorStructurePadding</string>
+	<key>navigatorAndCycle</key>
+	<string>fixedCellTail</string>
+	<key>observerThanProxy</key>
+	<string>navigatorSystemInset</string>
+	<key>primaryConstraintVisibility</key>
+	<string>methodFrameworkInterval</string>
+</dict>
+</plist>

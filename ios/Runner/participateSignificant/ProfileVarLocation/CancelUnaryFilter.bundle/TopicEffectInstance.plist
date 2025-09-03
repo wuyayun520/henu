@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorUntilPattern</key>
+	<string>rectLikeShape</string>
+	<key>cosineForPattern</key>
+	<string>overlayAroundValue</string>
+	<key>customEffectResponse</key>
+	<string>ignoredSwitchCoord</string>
+	<key>integerContainScope</key>
+	<string>boxshadowThroughContext</string>
+	<key>interpolationUntilComposite</key>
+	<string>drawerParameterTheme</string>
+	<key>rectOutsideDecorator</key>
+	<string>interfaceSystemContrast</string>
+</dict>
+</plist>

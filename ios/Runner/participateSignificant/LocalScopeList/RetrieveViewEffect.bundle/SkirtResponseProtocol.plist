@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAndContext</key>
+	<string>labelProxyMode</string>
+	<key>futureDuringInterpreter</key>
+	<string>sensorThroughInterpreter</string>
+	<key>greatCapsuleSaturation</key>
+	<string>resourceSystemTop</string>
+	<key>multiplicationBesideFunction</key>
+	<string>routeFacadeStatus</string>
+	<key>requestOutsideForm</key>
+	<string>brushStructureTransparency</string>
+	<key>resourceAgainstParameter</key>
+	<string>arithmeticRiverpodDelay</string>
+	<key>techniqueFlyweightColor</key>
+	<string>precisionAlongMemento</string>
+	<key>usedCommandSaturation</key>
+	<string>queueDespiteForm</string>
+</dict>
+</plist>

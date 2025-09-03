@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTierMargin</key>
+	<string>requestAdapterBrightness</string>
+	<key>awaitPerState</key>
+	<string>positionFlyweightRotation</string>
+	<key>borderOfBuffer</key>
+	<string>mainSensorStatus</string>
+	<key>consultativeRowColor</key>
+	<string>sliderMediatorKind</string>
+	<key>elasticPreviewTail</key>
+	<string>activityActivityStyle</string>
+	<key>normMementoTheme</key>
+	<string>usecaseFrameworkDepth</string>
+	<key>presenterCycleBorder</key>
+	<string>pointForJob</string>
+	<key>requestDuringStrategy</key>
+	<string>streamAsChain</string>
+	<key>tableUntilPhase</key>
+	<string>resizableRequestMargin</string>
+	<key>unactivatedInterpolationFeedback</key>
+	<string>instructionParameterPosition</string>
+</dict>
+</plist>

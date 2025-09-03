@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResolverRight</key>
+	<string>drawerModeTail</string>
+	<key>borderVersusChain</key>
+	<string>eagerFragmentOffset</string>
+	<key>commandBesideWork</key>
+	<string>cupertinoAboutPlatform</string>
+	<key>containerFunctionMode</key>
+	<string>resilientTitleTransparency</string>
+	<key>previewPatternStatus</key>
+	<string>reductionCompositeDuration</string>
+	<key>providerOrProcess</key>
+	<string>delicateVectorLocation</string>
+	<key>providerTypeFeedback</key>
+	<string>sharedDecorationFrequency</string>
+	<key>subscriptionFromContext</key>
+	<string>decorationContextRotation</string>
+	<key>switchWithoutShape</key>
+	<string>asynchronousDelegateDuration</string>
+</dict>
+</plist>

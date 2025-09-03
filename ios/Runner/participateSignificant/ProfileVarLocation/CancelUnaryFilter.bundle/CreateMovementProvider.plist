@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityCompositeAppearance</key>
+	<string>asyncSceneSaturation</string>
+	<key>liteSubscriptionTint</key>
+	<string>lossCycleOrigin</string>
+	<key>matrixProxyInteraction</key>
+	<string>asynchronousSampleSkewx</string>
+	<key>sharedStateOrigin</key>
+	<string>chapterEnvironmentOrigin</string>
+	<key>singleCaptionDistance</key>
+	<string>sortedParticleIndex</string>
+</dict>
+</plist>

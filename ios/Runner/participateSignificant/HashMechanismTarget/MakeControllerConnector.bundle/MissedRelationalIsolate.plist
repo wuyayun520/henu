@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOptimizerTag</key>
+	<string>listviewStyleBrightness</string>
+	<key>asynchronousExpandedOrientation</key>
+	<string>mediaVersusTask</string>
+	<key>commandEnvironmentBehavior</key>
+	<string>sustainableViewDepth</string>
+	<key>dialogsPerActivity</key>
+	<string>grayscaleVarHue</string>
+	<key>easyRouterDistance</key>
+	<string>metadataValueBrightness</string>
+	<key>logByJob</key>
+	<string>unaryVersusTier</string>
+	<key>marginThroughNumber</key>
+	<string>progressbarValueBound</string>
+	<key>resultFunctionTransparency</key>
+	<string>permanentNavigatorTheme</string>
+</dict>
+</plist>

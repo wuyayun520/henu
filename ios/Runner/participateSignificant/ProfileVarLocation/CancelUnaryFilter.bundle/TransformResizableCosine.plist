@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseMobxFeedback</key>
+	<string>chartWorkContrast</string>
+	<key>graphThroughJob</key>
+	<string>greatPlaybackColor</string>
+	<key>keyVectorIndex</key>
+	<string>webLogPressure</string>
+	<key>modelEnvironmentTint</key>
+	<string>pageviewBufferType</string>
+	<key>otherAwaitType</key>
+	<string>handlerCommandPadding</string>
+	<key>relationalStoreDepth</key>
+	<string>navigatorBeyondStage</string>
+	<key>symmetricCompletionTransparency</key>
+	<string>sceneLikeParameter</string>
+	<key>zoneNumberIndex</key>
+	<string>alertShapeRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionProcessMode</key>
+	<string>featureOutsideFlyweight</string>
+	<key>challengeFacadeInset</key>
+	<string>gateWithLevel</string>
+	<key>cubitLayerContrast</key>
+	<string>gemOutsideProxy</string>
+	<key>euclideanBasePosition</key>
+	<string>transitionAtFacade</string>
+	<key>layerChainSpeed</key>
+	<string>euclideanTangentAppearance</string>
+	<key>notificationForJob</key>
+	<string>missionDecoratorFrequency</string>
+	<key>sensorBeyondMethod</key>
+	<string>unsortedDescriptionValidation</string>
+	<key>synchronousGemOrientation</key>
+	<string>statelessPriorityStatus</string>
+</dict>
+</plist>

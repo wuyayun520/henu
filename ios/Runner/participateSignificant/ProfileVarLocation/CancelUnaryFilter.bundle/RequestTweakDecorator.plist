@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedQueueTint</key>
+	<string>independentWorkflowInset</string>
+	<key>boxOrParameter</key>
+	<string>mainLayerLocation</string>
+	<key>compositionChainFormat</key>
+	<string>statefulBlocBottom</string>
+	<key>gramFormTail</key>
+	<string>catalystPhaseMargin</string>
+	<key>handlerIncludeAdapter</key>
+	<string>unaryAlongPhase</string>
+	<key>hierarchicalDelegateBottom</key>
+	<string>robustTimerPadding</string>
+	<key>interactiveUnaryForce</key>
+	<string>activeTernaryAppearance</string>
+	<key>retainedGetxSpacing</key>
+	<string>gridExceptObserver</string>
+	<key>routeShapeBehavior</key>
+	<string>routerBridgeEdge</string>
+</dict>
+</plist>

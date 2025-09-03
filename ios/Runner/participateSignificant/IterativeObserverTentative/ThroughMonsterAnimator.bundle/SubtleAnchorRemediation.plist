@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionObserverDensity</key>
+	<string>groupFormMargin</string>
+	<key>navigatorStyleOrigin</key>
+	<string>segueAsSystem</string>
+	<key>profileByMethod</key>
+	<string>taskOutsideComposite</string>
+	<key>rowBufferEdge</key>
+	<string>exponentAgainstVar</string>
+	<key>transitionInFacade</key>
+	<string>streamLikeSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutLayerTop</key>
+	<string>riverpodMediatorTail</string>
+	<key>lossVersusStructure</key>
+	<string>expandedPatternCenter</string>
+	<key>movementStyleDistance</key>
+	<string>radiusTierEdge</string>
+	<key>providerBridgeInteraction</key>
+	<string>anchorVersusLayer</string>
+	<key>reducerAboutNumber</key>
+	<string>profilePhaseFeedback</string>
+</dict>
+</plist>

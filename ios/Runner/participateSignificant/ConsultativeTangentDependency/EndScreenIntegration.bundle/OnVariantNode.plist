@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicStateInteraction</key>
+	<string>intuitiveBoxValidation</string>
+	<key>canvasFacadeSkewy</key>
+	<string>smallAlignmentInset</string>
+	<key>directlyAspectIndex</key>
+	<string>offsetWithoutLayer</string>
+	<key>dropdownbuttonValueTail</key>
+	<string>drawerOutsideFunction</string>
+	<key>entropyViaCommand</key>
+	<string>criticalBuilderLocation</string>
+	<key>eventAwayOperation</key>
+	<string>activatedRowPadding</string>
+	<key>liteActionTop</key>
+	<string>textParameterSkewy</string>
+	<key>offsetEnvironmentAlignment</key>
+	<string>utilByVariable</string>
+	<key>skinBufferCount</key>
+	<string>symbolPerPattern</string>
+</dict>
+</plist>

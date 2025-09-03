@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderCommandCenter</key>
+	<string>consultativeIndicatorAppearance</string>
+	<key>desktopGrayscaleSpacing</key>
+	<string>tableStageShape</string>
+	<key>greatNavigatorInterval</key>
+	<string>reducerActionBrightness</string>
+	<key>injectionWithoutVisitor</key>
+	<string>resourcePerParam</string>
+	<key>progressbarTempleRotation</key>
+	<string>cursorDuringWork</string>
+	<key>textContextDistance</key>
+	<string>customizedTaskFrequency</string>
+	<key>transitionProcessDepth</key>
+	<string>reactiveOverlayBorder</string>
+</dict>
+</plist>

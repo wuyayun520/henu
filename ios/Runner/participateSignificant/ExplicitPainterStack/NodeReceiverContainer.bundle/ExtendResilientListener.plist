@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionInNumber</key>
+	<string>curveOutsideLevel</string>
+	<key>inactiveLayoutTransparency</key>
+	<string>controllerAlongCommand</string>
+	<key>layerModeOpacity</key>
+	<string>standaloneAlignmentVelocity</string>
+	<key>liteOverlayMode</key>
+	<string>callbackProxyBottom</string>
+	<key>playbackBeyondOperation</key>
+	<string>euclideanAsyncShade</string>
+</dict>
+</plist>

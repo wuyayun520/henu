@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCurveTop</key>
+	<string>usedOperationTint</string>
+	<key>diffableResultVelocity</key>
+	<string>geometricTextfieldAcceleration</string>
+	<key>dropdownbuttonPhaseDuration</key>
+	<string>stateVarOrigin</string>
+	<key>errorViaSingleton</key>
+	<string>cellStrategyFormat</string>
+	<key>imageOutsideInterpreter</key>
+	<string>primaryMarginOrientation</string>
+	<key>labelByPrototype</key>
+	<string>equalizationThroughMediator</string>
+	<key>reductionCompositeInset</key>
+	<string>mainGrayscaleMode</string>
+	<key>sequentialActivityDensity</key>
+	<string>collectionPrototypeHead</string>
+	<key>textStyleFeedback</key>
+	<string>listenerPatternFormat</string>
+</dict>
+</plist>

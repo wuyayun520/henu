@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAdapterDelay</key>
+	<string>logCycleTop</string>
+	<key>blocSinceMethod</key>
+	<string>canvasFrameworkInteraction</string>
+	<key>chapterObserverOffset</key>
+	<string>cacheCycleTheme</string>
+	<key>compositionalHandlerCenter</key>
+	<string>cycleExceptMode</string>
+	<key>consultativeRouterBottom</key>
+	<string>cupertinoEqualizationEdge</string>
+	<key>inkwellChainScale</key>
+	<string>agileMediaqueryBorder</string>
+	<key>primaryTaskDirection</key>
+	<string>symmetricToolSkewx</string>
+	<key>seamlessObserverStatus</key>
+	<string>coordinatorStageFeedback</string>
+</dict>
+</plist>

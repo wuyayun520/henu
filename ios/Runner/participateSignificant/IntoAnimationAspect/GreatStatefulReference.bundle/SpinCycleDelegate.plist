@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderEnvironmentVisible</key>
+	<string>precisionExceptCycle</string>
+	<key>buttonThroughNumber</key>
+	<string>bitrateInsideCycle</string>
+	<key>featureMethodContrast</key>
+	<string>curvePhaseTop</string>
+	<key>gridVersusSingleton</key>
+	<string>equipmentLikeSingleton</string>
+	<key>handlerMethodCoord</key>
+	<string>arithmeticPopupShade</string>
+	<key>mediumListenerStatus</key>
+	<string>controllerStyleTop</string>
+	<key>precisionContainComposite</key>
+	<string>operationAsMethod</string>
+	<key>sizeBeyondShape</key>
+	<string>zoneCompositeBorder</string>
+	<key>swiftModePadding</key>
+	<string>coordinatorFunctionHue</string>
+</dict>
+</plist>

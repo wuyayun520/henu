@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPerCycle</key>
+	<string>difficultFutureDensity</string>
+	<key>containerWithDecorator</key>
+	<string>spriteInCycle</string>
+	<key>finalTextIndex</key>
+	<string>compositionalCommandTransparency</string>
+	<key>logarithmProxySpacing</key>
+	<string>discardedFutureVisible</string>
+	<key>memberLikePrototype</key>
+	<string>boxshadowAmongCommand</string>
+	<key>normalTouchVisible</key>
+	<string>layoutStructureColor</string>
+	<key>topicAgainstVar</key>
+	<string>storyboardAroundFramework</string>
+</dict>
+</plist>

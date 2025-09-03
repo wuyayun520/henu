@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCapsuleOrigin</key>
+	<string>adaptiveGestureValidation</string>
+	<key>backwardGrayscaleCenter</key>
+	<string>indicatorLevelSkewy</string>
+	<key>cellAlongProxy</key>
+	<string>priorCurvePosition</string>
+	<key>decorationPrototypeColor</key>
+	<string>easyThemeOpacity</string>
+	<key>dynamicParticleCenter</key>
+	<string>opaquePositionRate</string>
+	<key>independentNormSpeed</key>
+	<string>robustAnimationStatus</string>
+	<key>intermediateOffsetDistance</key>
+	<string>parallelHeapType</string>
+	<key>positionByType</key>
+	<string>equalizationInterpreterSpeed</string>
+	<key>prismaticEqualizationFormat</key>
+	<string>apertureSinceEnvironment</string>
+	<key>shaderParamStatus</key>
+	<string>animationAndMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerInCycle</key>
+	<string>hierarchicalNavigatorFrequency</string>
+	<key>intensityWithStructure</key>
+	<string>flexAsComposite</string>
+	<key>priorityShapeDirection</key>
+	<string>cardAmongDecorator</string>
+	<key>synchronousUtilTint</key>
+	<string>previewForActivity</string>
+	<key>transformerAgainstFlyweight</key>
+	<string>inactiveMonsterOrigin</string>
+</dict>
+</plist>

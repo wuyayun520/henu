@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveMovementInteraction</key>
+	<string>modalProcessPosition</string>
+	<key>descriptorVariableVelocity</key>
+	<string>gesturedetectorVersusAdapter</string>
+	<key>getxAdapterStyle</key>
+	<string>currentAnimationTheme</string>
+	<key>histogramCycleIndex</key>
+	<string>textContainMode</string>
+	<key>invisibleSingletonValidation</key>
+	<string>lastPageviewPadding</string>
+	<key>menuUntilMemento</key>
+	<string>managerTypeTop</string>
+	<key>mobxMementoState</key>
+	<string>opaqueCupertinoTop</string>
+	<key>permanentGetxAlignment</key>
+	<string>appbarFunctionLeft</string>
+	<key>similarChannelSkewy</key>
+	<string>durationCycleIndex</string>
+	<key>specifierAndVar</key>
+	<string>statefulThroughComposite</string>
+</dict>
+</plist>

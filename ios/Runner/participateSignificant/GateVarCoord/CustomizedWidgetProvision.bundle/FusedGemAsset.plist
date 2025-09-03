@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCosineStyle</key>
+	<string>injectionWithoutPhase</string>
+	<key>blocAsVisitor</key>
+	<string>sceneSingletonFlags</string>
+	<key>crudeDecorationPosition</key>
+	<string>smartChallengeName</string>
+	<key>discardedAnimatedcontainerVisibility</key>
+	<string>labelMethodKind</string>
+	<key>localizationFormFlags</key>
+	<string>responsiveMarginDelay</string>
+	<key>observerValueTag</key>
+	<string>discardedLayoutRight</string>
+	<key>previewEnvironmentTop</key>
+	<string>labelTierLeft</string>
+	<key>resourceContainPlatform</key>
+	<string>activatedEqualizationForce</string>
+	<key>riverpodParamRight</key>
+	<string>chartParamColor</string>
+</dict>
+</plist>

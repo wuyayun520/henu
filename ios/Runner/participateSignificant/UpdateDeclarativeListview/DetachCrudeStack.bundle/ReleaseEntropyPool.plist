@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorShapeSkewy</key>
+	<string>listviewCompositeDistance</string>
+	<key>completerAndProxy</key>
+	<string>queueLevelShape</string>
+	<key>durationNearKind</key>
+	<string>adaptiveSpriteInteraction</string>
+	<key>grainByFacade</key>
+	<string>boxshadowAboutContext</string>
+	<key>radiusStructureVelocity</key>
+	<string>routeInterpreterPosition</string>
+	<key>taskBufferType</key>
+	<string>extensionAmongWork</string>
+	<key>taskExceptWork</key>
+	<string>difficultUsageValidation</string>
+</dict>
+</plist>

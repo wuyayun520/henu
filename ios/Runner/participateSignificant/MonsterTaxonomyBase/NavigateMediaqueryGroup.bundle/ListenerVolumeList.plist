@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellPrototypeForce</key>
+	<string>basicStateFlags</string>
+	<key>controllerIncludeComposite</key>
+	<string>nodeFacadeHue</string>
+	<key>heapDecoratorFrequency</key>
+	<string>baselineScopeAlignment</string>
+	<key>intensitySystemTag</key>
+	<string>missedFutureTransparency</string>
+	<key>logOrNumber</key>
+	<string>alignmentAtPattern</string>
+	<key>particleCycleShade</key>
+	<string>pivotalIndicatorRate</string>
+	<key>resolverBeyondParam</key>
+	<string>decorationCycleContrast</string>
+	<key>sceneSinceEnvironment</key>
+	<string>coordinatorAroundVisitor</string>
+</dict>
+</plist>

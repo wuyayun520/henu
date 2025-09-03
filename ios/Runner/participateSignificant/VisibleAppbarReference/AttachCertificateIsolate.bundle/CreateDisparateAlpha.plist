@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directBoxStyle</key>
+	<string>sinkThanFlyweight</string>
+	<key>draggableDependencyType</key>
+	<string>prismaticIsolateAlignment</string>
+	<key>interactorAtComposite</key>
+	<string>layoutPerMediator</string>
+	<key>lazyUnaryStatus</key>
+	<string>numericalTitleForce</string>
+	<key>significantLogarithmOffset</key>
+	<string>positionAboutStrategy</string>
+	<key>streamAboutTier</key>
+	<string>taskPerMode</string>
+</dict>
+</plist>

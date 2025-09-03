@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterSkewx</key>
+	<string>capsulePhaseFlags</string>
+	<key>disparatePageviewLocation</key>
+	<string>descriptorAndMediator</string>
+	<key>ignoredVariantOrigin</key>
+	<string>navigatorCycleTail</string>
+	<key>lossAgainstProcess</key>
+	<string>variantJobDistance</string>
+	<key>protectedProviderOpacity</key>
+	<string>mutableAllocatorCoord</string>
+	<key>requestAboutSingleton</key>
+	<string>contractionInsideState</string>
+	<key>requiredHeroSpacing</key>
+	<string>actionFlyweightDistance</string>
+	<key>significantLoopResponse</key>
+	<string>rectWithPlatform</string>
+</dict>
+</plist>

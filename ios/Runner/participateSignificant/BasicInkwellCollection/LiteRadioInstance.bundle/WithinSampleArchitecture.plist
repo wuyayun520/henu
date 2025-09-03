@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateBeyondMethod</key>
+	<string>dynamicStreamPadding</string>
+	<key>finalTernaryKind</key>
+	<string>explicitPlaybackDistance</string>
+	<key>loopWithVar</key>
+	<string>mapOutsideCommand</string>
+	<key>navigatorJobPadding</key>
+	<string>callbackBeyondShape</string>
+	<key>semanticsInsideVisitor</key>
+	<string>routerObserverSize</string>
+	<key>stateForComposite</key>
+	<string>diffableBaseVisible</string>
+	<key>streamModeForce</key>
+	<string>allocatorCommandPosition</string>
+	<key>subscriptionAmongPattern</key>
+	<string>consultativeInstructionOpacity</string>
+	<key>symmetricColumnRight</key>
+	<string>autoPopupMode</string>
+</dict>
+</plist>

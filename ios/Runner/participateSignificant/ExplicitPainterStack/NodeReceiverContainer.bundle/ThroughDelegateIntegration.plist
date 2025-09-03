@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionFormStatus</key>
+	<string>slashOperationFeedback</string>
+	<key>fixedServiceContrast</key>
+	<string>lazyAnimationResponse</string>
+	<key>metadataPerStructure</key>
+	<string>coordinatorMementoStyle</string>
+	<key>scaleForActivity</key>
+	<string>inactiveRouterBorder</string>
+</dict>
+</plist>

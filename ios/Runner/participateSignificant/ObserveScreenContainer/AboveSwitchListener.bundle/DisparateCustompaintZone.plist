@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInChain</key>
+	<string>reducerLayerOrigin</string>
+	<key>beginnerCoordinatorSkewy</key>
+	<string>deferredSizedboxSpeed</string>
+	<key>extensionFunctionLeft</key>
+	<string>observerContextAcceleration</string>
+	<key>mobxTypeForce</key>
+	<string>constraintCyclePadding</string>
+	<key>queueInterpreterOpacity</key>
+	<string>widgetNearParameter</string>
+	<key>roleDuringValue</key>
+	<string>statelessContainerDistance</string>
+	<key>sliderInsideValue</key>
+	<string>integerInsideState</string>
+	<key>storageDespiteOperation</key>
+	<string>lastInstructionInset</string>
+	<key>tableInsideEnvironment</key>
+	<string>nodeAmongProcess</string>
+</dict>
+</plist>

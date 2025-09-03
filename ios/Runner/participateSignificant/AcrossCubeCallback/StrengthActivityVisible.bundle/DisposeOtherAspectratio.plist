@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureNumberTransparency</key>
+	<string>mainViewHue</string>
+	<key>arithmeticQueueSaturation</key>
+	<string>independentBitrateSpacing</string>
+	<key>associatedCertificateVisible</key>
+	<string>durationAndMode</string>
+	<key>chapterSingletonInset</key>
+	<string>gestureMethodDepth</string>
+	<key>commandStrategyVisible</key>
+	<string>descriptionSystemSpeed</string>
+	<key>entityVarStyle</key>
+	<string>transitionJobCount</string>
+	<key>transformerPatternKind</key>
+	<string>arithmeticRowDepth</string>
+</dict>
+</plist>

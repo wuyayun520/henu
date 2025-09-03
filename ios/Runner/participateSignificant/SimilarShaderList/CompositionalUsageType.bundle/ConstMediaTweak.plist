@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackUntilAction</key>
+	<string>indicatorVersusProcess</string>
+	<key>coordinatorStrategyHue</key>
+	<string>ignoredResponseVisible</string>
+	<key>crudeProviderInterval</key>
+	<string>matrixWorkVisibility</string>
+	<key>gridOfPrototype</key>
+	<string>textureContainProxy</string>
+	<key>scaleBridgeFeedback</key>
+	<string>precisionScopeSpacing</string>
+</dict>
+</plist>

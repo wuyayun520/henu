@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionIncludeParam</key>
+	<string>decorationFlyweightLocation</string>
+	<key>activatedSceneOrigin</key>
+	<string>mainBlocSaturation</string>
+	<key>binaryContextShape</key>
+	<string>easyPlaybackResponse</string>
+	<key>cellTypeLeft</key>
+	<string>extensionStrategyTop</string>
+	<key>interactorValueContrast</key>
+	<string>mainTransformerColor</string>
+	<key>resultDecoratorDuration</key>
+	<string>localAwaitStyle</string>
+	<key>sharedStoryboardRight</key>
+	<string>displayableServiceDepth</string>
+</dict>
+</plist>

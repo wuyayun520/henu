@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCustompaintDepth</key>
+	<string>intensityCommandLeft</string>
+	<key>discardedStatefulState</key>
+	<string>dynamicViewFlags</string>
+	<key>semanticsStrategyHead</key>
+	<string>inkwellStyleTop</string>
+	<key>typicalZoneSpacing</key>
+	<string>robustNavigatorSpeed</string>
+	<key>unactivatedEffectShape</key>
+	<string>stackJobDistance</string>
+	<key>viewActionStyle</key>
+	<string>accessibleHashFormat</string>
+</dict>
+</plist>

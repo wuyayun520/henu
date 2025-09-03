@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAsChain</key>
+	<string>spriteWithoutShape</string>
+	<key>builderDespitePattern</key>
+	<string>flexLayerContrast</string>
+	<key>directOperationScale</key>
+	<string>interpolationTypeRotation</string>
+	<key>observerParamHead</key>
+	<string>synchronousExtensionHead</string>
+	<key>resultStageVelocity</key>
+	<string>keyGroupAppearance</string>
+	<key>toolTierAcceleration</key>
+	<string>frameLevelFlags</string>
+</dict>
+</plist>

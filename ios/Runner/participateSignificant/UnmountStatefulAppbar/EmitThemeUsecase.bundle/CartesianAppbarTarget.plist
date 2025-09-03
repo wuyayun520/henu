@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProjectTheme</key>
+	<string>expandedAsCycle</string>
+	<key>firstTopicDirection</key>
+	<string>progressbarWithPattern</string>
+	<key>injectionStylePressure</key>
+	<string>accordionColumnOrientation</string>
+	<key>managerExceptPattern</key>
+	<string>actionCommandOffset</string>
+	<key>sharedCurveInterval</key>
+	<string>interpolationAtMemento</string>
+	<key>statefulByLayer</key>
+	<string>tabviewSystemDelay</string>
+</dict>
+</plist>

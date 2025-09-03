@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCompositeAppearance</key>
+	<string>iterativeTitleShape</string>
+	<key>catalystInParameter</key>
+	<string>independentSessionShape</string>
+	<key>requestNearPlatform</key>
+	<string>queryTierDensity</string>
+	<key>sophisticatedFactoryHue</key>
+	<string>curveChainSpeed</string>
+</dict>
+</plist>

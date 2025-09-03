@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterWorkInteraction</key>
+	<string>asyncScopePadding</string>
+	<key>cubitAgainstStructure</key>
+	<string>sharedDecorationEdge</string>
+	<key>durationContextPadding</key>
+	<string>shaderShapeInterval</string>
+	<key>geometricSingletonType</key>
+	<string>normalHistogramAlignment</string>
+	<key>graphicOutsideCycle</key>
+	<string>intuitiveCurveDistance</string>
+	<key>ignoredCurveSpeed</key>
+	<string>statefulWidgetInterval</string>
+	<key>materialInteractorInterval</key>
+	<string>dropdownbuttonCycleEdge</string>
+	<key>multiplicationKindPadding</key>
+	<string>delegateMementoSpacing</string>
+	<key>primaryViewShade</key>
+	<string>bufferMethodOpacity</string>
+</dict>
+</plist>

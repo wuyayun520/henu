@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchForFlyweight</key>
+	<string>currentRouteStyle</string>
+	<key>collectionContainPhase</key>
+	<string>currentCaptionMode</string>
+	<key>intuitiveRepositoryOffset</key>
+	<string>currentBufferContrast</string>
+	<key>missionInterpreterInset</key>
+	<string>labelFacadeOpacity</string>
+	<key>navigatorJobType</key>
+	<string>queryVariableType</string>
+	<key>observerStyleDepth</key>
+	<string>multiplicationAgainstMode</string>
+	<key>resolverJobBottom</key>
+	<string>significantViewVisibility</string>
+	<key>specifyRiverpodKind</key>
+	<string>offsetAtFacade</string>
+	<key>stackFromBuffer</key>
+	<string>unsortedZoneSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPhaseSpeed</key>
+	<string>functionalEffectDuration</string>
+	<key>effectVariableTag</key>
+	<string>intermediateCacheFeedback</string>
+	<key>exceptionPlatformTag</key>
+	<string>navigatorPlatformRate</string>
+	<key>gramVariableVelocity</key>
+	<string>stateEnvironmentSkewy</string>
+	<key>keyStepMomentum</key>
+	<string>featureAsVar</string>
+	<key>permissiveAxisOrientation</key>
+	<string>repositoryModeMode</string>
+	<key>tableCommandSkewx</key>
+	<string>injectionAgainstMemento</string>
+</dict>
+</plist>

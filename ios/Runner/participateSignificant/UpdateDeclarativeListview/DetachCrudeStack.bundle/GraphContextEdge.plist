@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionParameterScale</key>
+	<string>gradientAndTier</string>
+	<key>alphaBufferFormat</key>
+	<string>commandNearComposite</string>
+	<key>descriptionStateShade</key>
+	<string>exceptionAtAction</string>
+	<key>retainedFutureRate</key>
+	<string>firstDependencySaturation</string>
+	<key>titleKindAppearance</key>
+	<string>listenerPerMode</string>
+	<key>unsortedRequestBound</key>
+	<string>enabledAssetLocation</string>
+	<key>webRemainderTail</key>
+	<string>spotOfForm</string>
+</dict>
+</plist>

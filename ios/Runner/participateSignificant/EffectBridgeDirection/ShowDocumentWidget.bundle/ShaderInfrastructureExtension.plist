@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEventSize</key>
+	<string>spriteBridgeInteraction</string>
+	<key>cursorBeyondFunction</key>
+	<string>frameShapeSize</string>
+	<key>dynamicCellAppearance</key>
+	<string>geometricProviderVelocity</string>
+	<key>fixedErrorStatus</key>
+	<string>largeResolverResponse</string>
+	<key>prevSliderTop</key>
+	<string>providerThroughParam</string>
+	<key>subpixelUntilPattern</key>
+	<string>streamDecoratorPosition</string>
+</dict>
+</plist>

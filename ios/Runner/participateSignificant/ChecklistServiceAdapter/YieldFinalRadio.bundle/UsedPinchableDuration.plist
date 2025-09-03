@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGraphContrast</key>
+	<string>globalNotificationAcceleration</string>
+	<key>aspectStrategyTransparency</key>
+	<string>masterBeyondPlatform</string>
+	<key>behaviorContainComposite</key>
+	<string>diversifiedSizeMode</string>
+	<key>diffableResponseVisibility</key>
+	<string>subtleThreadRotation</string>
+	<key>popupAgainstForm</key>
+	<string>symmetricLabelRotation</string>
+	<key>prevButtonOrientation</key>
+	<string>deferredListenerDepth</string>
+	<key>publicTouchDepth</key>
+	<string>staticButtonAlignment</string>
+	<key>textureEnvironmentState</key>
+	<string>compositionalUnaryPosition</string>
+	<key>unactivatedTechniqueDuration</key>
+	<string>heroMementoAppearance</string>
+</dict>
+</plist>

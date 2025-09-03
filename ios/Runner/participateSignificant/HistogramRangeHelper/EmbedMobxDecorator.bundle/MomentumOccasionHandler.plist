@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramPatternFeedback</key>
+	<string>eventStateBorder</string>
+	<key>injectionUntilOperation</key>
+	<string>streamExceptMediator</string>
+	<key>labelFrameworkRate</key>
+	<string>mediaqueryDecoratorStatus</string>
+	<key>permanentGridKind</key>
+	<string>eventStateTag</string>
+	<key>requiredConfigurationCenter</key>
+	<string>disabledStreamTheme</string>
+	<key>respectiveOptionInset</key>
+	<string>layoutFrameworkBorder</string>
+	<key>segmentExceptLevel</key>
+	<string>routeDuringKind</string>
+</dict>
+</plist>

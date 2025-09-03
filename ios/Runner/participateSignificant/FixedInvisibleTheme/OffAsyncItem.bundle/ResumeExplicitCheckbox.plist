@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customNormBrightness</key>
+	<string>interactorCompositeAcceleration</string>
+	<key>inactiveSessionFormat</key>
+	<string>aspectratioContextVelocity</string>
+	<key>parallelErrorStyle</key>
+	<string>compositionalServiceTop</string>
+	<key>queueIncludePrototype</key>
+	<string>mediaqueryViaVisitor</string>
+</dict>
+</plist>

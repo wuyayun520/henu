@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheBeyondAdapter</key>
+	<string>decorationFlyweightSkewx</string>
+	<key>deferredRouteRotation</key>
+	<string>mediaqueryObserverFormat</string>
+	<key>modelMethodVisibility</key>
+	<string>asyncCanvasDensity</string>
+	<key>referenceExceptPrototype</key>
+	<string>oldRectCount</string>
+	<key>routerStructureSpeed</key>
+	<string>ignoredColumnInteraction</string>
+	<key>stateUntilCommand</key>
+	<string>symmetricDescriptorKind</string>
+</dict>
+</plist>

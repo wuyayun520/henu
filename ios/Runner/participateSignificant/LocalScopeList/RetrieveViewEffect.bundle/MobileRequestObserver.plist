@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionIncludeSystem</key>
+	<string>exceptionFormHead</string>
+	<key>custompaintWorkRotation</key>
+	<string>reusableBufferVelocity</string>
+	<key>durationFromProxy</key>
+	<string>staticTabbarSpacing</string>
+	<key>ephemeralPainterLeft</key>
+	<string>dedicatedNotifierSkewy</string>
+	<key>resultOperationBottom</key>
+	<string>gramStateTheme</string>
+	<key>skinCycleFeedback</key>
+	<string>immediateTransitionSpacing</string>
+	<key>tappableAlignmentCoord</key>
+	<string>repositoryByFramework</string>
+	<key>tappableCompletionDirection</key>
+	<string>gesturedetectorFormDensity</string>
+</dict>
+</plist>

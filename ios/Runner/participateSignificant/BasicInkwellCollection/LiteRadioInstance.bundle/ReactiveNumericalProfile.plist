@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAgainstComposite</key>
+	<string>sharedCellTheme</string>
+	<key>cubeSinceTask</key>
+	<string>geometricProgressbarMargin</string>
+	<key>cycleWithSystem</key>
+	<string>cupertinoTierAppearance</string>
+	<key>decorationPatternName</key>
+	<string>capacitiesBesideParam</string>
+	<key>sortedFeatureDirection</key>
+	<string>logarithmVariableCenter</string>
+</dict>
+</plist>

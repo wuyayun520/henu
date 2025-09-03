@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerTransitionPosition</key>
+	<string>multiTitleCenter</string>
+	<key>ephemeralTabviewIndex</key>
+	<string>persistentBorderDelay</string>
+	<key>independentSceneOpacity</key>
+	<string>interactorScopeSkewx</string>
+	<key>keyLayoutSpacing</key>
+	<string>protocolLayerVisibility</string>
+	<key>nibNearSingleton</key>
+	<string>listenerPhaseTint</string>
+	<key>publicBehaviorVelocity</key>
+	<string>uniformWidgetDelay</string>
+	<key>textureAlongFunction</key>
+	<string>dependencyTypeFeedback</string>
+	<key>unactivatedListenerIndex</key>
+	<string>draggablePaddingShape</string>
+</dict>
+</plist>

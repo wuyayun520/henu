@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateValueInteraction</key>
+	<string>equipmentAgainstCommand</string>
+	<key>interpolationFromType</key>
+	<string>cupertinoCoordinatorSkewx</string>
+	<key>mobileIntensitySaturation</key>
+	<string>uniformLayoutBehavior</string>
+	<key>resultScopeResponse</key>
+	<string>routerThanBridge</string>
+</dict>
+</plist>

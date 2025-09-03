@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDecoratorTint</key>
+	<string>offsetFrameworkInset</string>
+	<key>dropdownbuttonLevelOrigin</key>
+	<string>boxTypeOffset</string>
+	<key>heapFromNumber</key>
+	<string>reactiveOverlayCenter</string>
+	<key>ignoredStateEdge</key>
+	<string>labelWorkShade</string>
+	<key>missedLocalizationEdge</key>
+	<string>providerOperationSkewy</string>
+	<key>missionAdapterDelay</key>
+	<string>convolutionAroundShape</string>
+	<key>promisePatternMargin</key>
+	<string>usecaseEnvironmentSkewy</string>
+	<key>retainedTaskBound</key>
+	<string>disabledBehaviorFrequency</string>
+	<key>toolVarContrast</key>
+	<string>streamInterpreterMargin</string>
+</dict>
+</plist>

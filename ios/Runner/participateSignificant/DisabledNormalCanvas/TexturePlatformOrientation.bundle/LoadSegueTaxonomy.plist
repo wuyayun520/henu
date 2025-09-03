@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBeyondOperation</key>
+	<string>staticDependencyTint</string>
+	<key>cycleExceptCommand</key>
+	<string>heroFlyweightValidation</string>
+	<key>draggableChartSpacing</key>
+	<string>fixedRoleDepth</string>
+	<key>effectBesideTask</key>
+	<string>opaqueAllocatorName</string>
+	<key>ignoredPositionVisibility</key>
+	<string>taskAroundLevel</string>
+	<key>plateLikePhase</key>
+	<string>subtleModelPosition</string>
+	<key>singleScrollOrigin</key>
+	<string>interfaceStateTail</string>
+	<key>temporaryProjectionCenter</key>
+	<string>interfacePerScope</string>
+	<key>transitionAroundVisitor</key>
+	<string>graphicAgainstCommand</string>
+</dict>
+</plist>

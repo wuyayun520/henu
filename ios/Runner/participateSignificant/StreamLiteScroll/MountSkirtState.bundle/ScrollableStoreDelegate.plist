@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBridgeTheme</key>
+	<string>flexTypeSpacing</string>
+	<key>containerIncludeLevel</key>
+	<string>layerIncludeComposite</string>
+	<key>transitionParamVisibility</key>
+	<string>interactorWithoutAdapter</string>
+	<key>unactivatedRectShade</key>
+	<string>delicateHashCenter</string>
+</dict>
+</plist>

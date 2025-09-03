@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncErrorBrightness</key>
+	<string>accessoryDespiteForm</string>
+	<key>declarativeTabviewMode</key>
+	<string>gestureExceptFramework</string>
+	<key>explicitEventScale</key>
+	<string>textAndVisitor</string>
+	<key>intermediateGroupOpacity</key>
+	<string>providerContextTheme</string>
+	<key>layoutStructureVelocity</key>
+	<string>equalizationStructureKind</string>
+	<key>stepAtMode</key>
+	<string>durationInPattern</string>
+	<key>toolAroundStyle</key>
+	<string>baselineCycleMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPrototypeIndex</key>
+	<string>lossViaStrategy</string>
+	<key>canvasUntilPlatform</key>
+	<string>parallelSegmentVisibility</string>
+	<key>cubitStyleDensity</key>
+	<string>unaryCommandBrightness</string>
+	<key>customizedMediaqueryAppearance</key>
+	<string>activeDecorationValidation</string>
+	<key>iterativeResourceIndex</key>
+	<string>inkwellProcessDensity</string>
+	<key>lossPrototypePosition</key>
+	<string>resourceFunctionMargin</string>
+	<key>multiCoordinatorCoord</key>
+	<string>liteControllerBottom</string>
+	<key>primaryGroupPadding</key>
+	<string>lazyDocumentScale</string>
+	<key>primaryPrecisionLocation</key>
+	<string>documentCycleCount</string>
+	<key>storeOperationOrigin</key>
+	<string>nodePhaseEdge</string>
+</dict>
+</plist>

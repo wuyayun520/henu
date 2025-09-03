@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureDecoratorDepth</key>
+	<string>textViaOperation</string>
+	<key>interactiveLayoutInterval</key>
+	<string>diffablePlaybackInterval</string>
+	<key>nextFutureOrientation</key>
+	<string>providerInWork</string>
+	<key>popupNearBuffer</key>
+	<string>gestureAroundEnvironment</string>
+	<key>scalePlatformResponse</key>
+	<string>significantCupertinoOrigin</string>
+	<key>synchronousHandlerOrigin</key>
+	<string>interfaceMethodInteraction</string>
+	<key>usagePerWork</key>
+	<string>durationAlongLevel</string>
+</dict>
+</plist>

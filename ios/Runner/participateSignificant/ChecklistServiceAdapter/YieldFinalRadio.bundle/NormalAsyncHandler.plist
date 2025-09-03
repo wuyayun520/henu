@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFormTheme</key>
+	<string>allocatorActivityInteraction</string>
+	<key>constApertureInteraction</key>
+	<string>disparateResultRate</string>
+	<key>logBufferMode</key>
+	<string>customizedEventLeft</string>
+	<key>rectAmongShape</key>
+	<string>bulletSinceCycle</string>
+</dict>
+</plist>

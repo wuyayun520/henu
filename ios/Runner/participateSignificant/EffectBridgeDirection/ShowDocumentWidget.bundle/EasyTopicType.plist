@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedAwaitOrientation</key>
+	<string>persistentMultiplicationSkewx</string>
+	<key>projectFrameworkFrequency</key>
+	<string>directSpotFrequency</string>
+	<key>seamlessContainerTheme</key>
+	<string>actionOrState</string>
+	<key>sliderFromAdapter</key>
+	<string>storyboardThanShape</string>
+	<key>smallMobileBottom</key>
+	<string>multiReductionValidation</string>
+	<key>themePrototypeTail</key>
+	<string>commandLevelAcceleration</string>
+</dict>
+</plist>

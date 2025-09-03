@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisDecoratorSaturation</key>
+	<string>statefulChannelDensity</string>
+	<key>baselineBeyondState</key>
+	<string>exceptionFrameworkDuration</string>
+	<key>dependencyFormOrigin</key>
+	<string>layoutScopeKind</string>
+	<key>durationMethodIndex</key>
+	<string>animationLikeBridge</string>
+	<key>permissiveConstraintSaturation</key>
+	<string>seamlessBlocInterval</string>
+	<key>scrollOrMemento</key>
+	<string>configurationFrameworkSaturation</string>
+	<key>sophisticatedAlertFrequency</key>
+	<string>sequentialBuilderCenter</string>
+	<key>temporaryPreviewStyle</key>
+	<string>taskAdapterTension</string>
+</dict>
+</plist>

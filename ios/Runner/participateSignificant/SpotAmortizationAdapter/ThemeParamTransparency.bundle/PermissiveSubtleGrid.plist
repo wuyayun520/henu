@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCommandHead</key>
+	<string>capsuleSinceLevel</string>
+	<key>awaitShapeKind</key>
+	<string>frameInterpreterSpeed</string>
+	<key>cursorCommandCoord</key>
+	<string>requiredGesturedetectorDensity</string>
+	<key>histogramLevelSkewy</key>
+	<string>mobileAnimationPadding</string>
+	<key>keyModelInterval</key>
+	<string>pinchableCertificatePosition</string>
+	<key>mainDimensionMomentum</key>
+	<string>bufferOrCommand</string>
+	<key>parallelBuilderCenter</key>
+	<string>overlayModeShade</string>
+	<key>reducerActivityVelocity</key>
+	<string>disparateRouterForce</string>
+</dict>
+</plist>

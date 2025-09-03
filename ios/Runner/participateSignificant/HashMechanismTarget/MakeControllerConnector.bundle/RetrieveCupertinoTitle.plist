@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePrototypeTag</key>
+	<string>lossLevelTag</string>
+	<key>materialExceptSingleton</key>
+	<string>rectTempleRight</string>
+	<key>subscriptionTaskAcceleration</key>
+	<string>observerPrototypeBehavior</string>
+	<key>tabbarChainSaturation</key>
+	<string>queueVersusAction</string>
+	<key>textureScopeFlags</key>
+	<string>titleFacadeIndex</string>
+</dict>
+</plist>

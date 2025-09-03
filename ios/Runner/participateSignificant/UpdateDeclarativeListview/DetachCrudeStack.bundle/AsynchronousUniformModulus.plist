@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRectOpacity</key>
+	<string>factoryTempleBrightness</string>
+	<key>controllerVariableInteraction</key>
+	<string>transitionAroundVariable</string>
+	<key>delegateAlongStage</key>
+	<string>musicFunctionShade</string>
+	<key>mediumResourceLeft</key>
+	<string>streamVersusSystem</string>
+	<key>numericalSensorLocation</key>
+	<string>gridviewWithMemento</string>
+	<key>projectLayerTint</key>
+	<string>modalLayerInterval</string>
+</dict>
+</plist>

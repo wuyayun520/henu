@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanConfigurationBehavior</key>
+	<string>callbackAroundParam</string>
+	<key>featureFunctionDensity</key>
+	<string>gesturedetectorIncludeTask</string>
+	<key>immutableProfileOrigin</key>
+	<string>labelModeBottom</string>
+	<key>mutableStoreCoord</key>
+	<string>menuStatePressure</string>
+	<key>notifierBridgeSpacing</key>
+	<string>challengeInterpreterShape</string>
+	<key>reductionPlatformAppearance</key>
+	<string>parallelRouteInterval</string>
+	<key>specifierFunctionBrightness</key>
+	<string>resourceBridgeBound</string>
+	<key>usedSignatureTint</key>
+	<string>graphStructureFrequency</string>
+</dict>
+</plist>

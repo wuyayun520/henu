@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVersusMode</key>
+	<string>effectThroughState</string>
+	<key>cacheThroughAdapter</key>
+	<string>positionFlyweightBrightness</string>
+	<key>logarithmFormPadding</key>
+	<string>modelKindVisibility</string>
+	<key>resourceFacadeBrightness</key>
+	<string>sampleTypeDistance</string>
+	<key>titleLayerTransparency</key>
+	<string>independentModelBrightness</string>
+	<key>tweenFromMemento</key>
+	<string>configurationWithoutPlatform</string>
+</dict>
+</plist>

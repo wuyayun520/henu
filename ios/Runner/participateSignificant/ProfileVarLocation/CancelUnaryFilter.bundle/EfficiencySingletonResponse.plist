@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteAlignmentFeedback</key>
+	<string>pointCommandPressure</string>
+	<key>crucialInkwellKind</key>
+	<string>graphicAsFlyweight</string>
+	<key>materialTabbarAppearance</key>
+	<string>parallelCharacterCount</string>
+	<key>painterAboutInterpreter</key>
+	<string>cupertinoErrorRate</string>
+	<key>usecaseVersusEnvironment</key>
+	<string>behaviorFunctionTint</string>
+</dict>
+</plist>

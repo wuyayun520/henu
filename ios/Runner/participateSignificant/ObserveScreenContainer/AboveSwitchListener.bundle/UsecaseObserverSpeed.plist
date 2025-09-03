@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTangentOrigin</key>
+	<string>batchStyleRate</string>
+	<key>descriptionAgainstType</key>
+	<string>channelAwayFunction</string>
+	<key>equalizationBesideFunction</key>
+	<string>priorityPhaseType</string>
+	<key>monsterLikeProxy</key>
+	<string>otherGridOffset</string>
+	<key>popupSingletonFrequency</key>
+	<string>enabledSliderSpeed</string>
+	<key>sceneActionKind</key>
+	<string>slashAsFlyweight</string>
+	<key>slashThanFramework</key>
+	<string>textBesideBuffer</string>
+</dict>
+</plist>

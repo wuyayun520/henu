@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeModeSkewx</key>
+	<string>cycleOperationTint</string>
+	<key>monsterAmongCommand</key>
+	<string>sceneActivityPadding</string>
+	<key>otherMediaTheme</key>
+	<string>requestDespiteCycle</string>
+	<key>sampleCommandSkewy</key>
+	<string>currentCoordinatorTransparency</string>
+	<key>serviceDespiteStrategy</key>
+	<string>ephemeralRectDistance</string>
+</dict>
+</plist>

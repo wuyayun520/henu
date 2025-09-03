@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedDespiteComposite</key>
+	<string>widgetWithoutVar</string>
+	<key>progressbarNearOperation</key>
+	<string>frameStageVisible</string>
+	<key>requiredCommandBound</key>
+	<string>presenterInterpreterStatus</string>
+	<key>seamlessCompleterContrast</key>
+	<string>matrixMediatorType</string>
+	<key>widgetAboutCommand</key>
+	<string>containerAboutChain</string>
+</dict>
+</plist>

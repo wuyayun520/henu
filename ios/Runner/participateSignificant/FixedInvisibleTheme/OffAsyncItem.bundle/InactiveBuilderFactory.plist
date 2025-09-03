@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorAsInterpreter</key>
+	<string>usedProtocolBrightness</string>
+	<key>discardedEquipmentShade</key>
+	<string>parallelSingletonTransparency</string>
+	<key>firstMultiplicationDirection</key>
+	<string>layerStrategySpeed</string>
+	<key>frameLevelInteraction</key>
+	<string>asyncChallengeContrast</string>
+	<key>interfaceFromLayer</key>
+	<string>difficultRouterName</string>
+	<key>offsetSystemAppearance</key>
+	<string>decorationForState</string>
+	<key>reusableIconForce</key>
+	<string>presenterSystemDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeThroughCycle</key>
+	<string>resourceInKind</string>
+	<key>curveParamPadding</key>
+	<string>lastAlignmentOrigin</string>
+	<key>gesturedetectorInObserver</key>
+	<string>cosineMethodFeedback</string>
+	<key>protectedTouchMomentum</key>
+	<string>adaptiveAccessorySpacing</string>
+	<key>secondStatelessBehavior</key>
+	<string>requiredMemberDirection</string>
+</dict>
+</plist>

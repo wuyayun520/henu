@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOutsideWork</key>
+	<string>channelForBuffer</string>
+	<key>delegateFromPlatform</key>
+	<string>oldIsolateDelay</string>
+	<key>extensionMementoPadding</key>
+	<string>aspectratioForState</string>
+	<key>gesturedetectorWorkAcceleration</key>
+	<string>heapPatternAppearance</string>
+	<key>mediaKindAppearance</key>
+	<string>semanticNotifierVisibility</string>
+	<key>queryNearObserver</key>
+	<string>chartThroughJob</string>
+	<key>specifierWithStage</key>
+	<string>promisePatternType</string>
+</dict>
+</plist>

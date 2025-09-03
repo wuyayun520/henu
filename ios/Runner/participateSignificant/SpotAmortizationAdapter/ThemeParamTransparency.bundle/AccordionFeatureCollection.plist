@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxThanWork</key>
+	<string>topicByEnvironment</string>
+	<key>heroJobDirection</key>
+	<string>dependencyObserverSpeed</string>
+	<key>liteViewRight</key>
+	<string>cupertinoPositionAlignment</string>
+	<key>otherFeaturePadding</key>
+	<string>tweenInterpreterFormat</string>
+	<key>particleStrategySpacing</key>
+	<string>delegateInFacade</string>
+	<key>playbackSystemAppearance</key>
+	<string>buttonCycleLocation</string>
+	<key>precisionProcessRotation</key>
+	<string>alertChainState</string>
+	<key>singleManagerSize</key>
+	<string>declarativeBorderHead</string>
+</dict>
+</plist>

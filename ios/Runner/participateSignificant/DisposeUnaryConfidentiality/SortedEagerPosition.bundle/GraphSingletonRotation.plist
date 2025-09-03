@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleAnimationSpacing</key>
+	<string>callbackAgainstStrategy</string>
+	<key>graphOperationForce</key>
+	<string>groupCycleAppearance</string>
+	<key>iterativeOverlayResponse</key>
+	<string>accessibleProjectShape</string>
+	<key>nextNibSize</key>
+	<string>inactiveIndicatorOpacity</string>
+	<key>notificationVariableMomentum</key>
+	<string>fixedSignColor</string>
+	<key>spriteFormFeedback</key>
+	<string>cubeChainShape</string>
+</dict>
+</plist>

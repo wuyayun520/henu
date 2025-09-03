@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseProcessInterval</key>
+	<string>intensityLikeComposite</string>
+	<key>gestureAlongPattern</key>
+	<string>dedicatedCubitInset</string>
+	<key>resultVersusActivity</key>
+	<string>characterScopeTension</string>
+	<key>sessionFromStrategy</key>
+	<string>checkboxStrategySize</string>
+	<key>sizeAlongKind</key>
+	<string>timerFunctionDirection</string>
+	<key>smallUsecasePadding</key>
+	<string>transformerWithState</string>
+</dict>
+</plist>

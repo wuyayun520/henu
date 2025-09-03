@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintMementoOrientation</key>
+	<string>lostDecorationKind</string>
+	<key>directlyCursorHead</key>
+	<string>intensityViaMemento</string>
+	<key>giftDuringContext</key>
+	<string>constraintMementoSpacing</string>
+	<key>inactiveWidgetSkewy</key>
+	<string>chartFlyweightTheme</string>
+	<key>progressbarAgainstSystem</key>
+	<string>effectLayerType</string>
+	<key>singletonAgainstPrototype</key>
+	<string>layoutTypeVisibility</string>
+</dict>
+</plist>

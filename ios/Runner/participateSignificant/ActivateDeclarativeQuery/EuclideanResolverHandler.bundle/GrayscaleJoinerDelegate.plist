@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionInsideEnvironment</key>
+	<string>taskIncludeLevel</string>
+	<key>gridBesidePrototype</key>
+	<string>graphicBesideShape</string>
+	<key>localStreamStatus</key>
+	<string>parallelLayoutTag</string>
+	<key>resilientCompositionBehavior</key>
+	<string>delegatePrototypeDistance</string>
+	<key>segueIncludeForm</key>
+	<string>animationObserverOffset</string>
+	<key>sortedDecorationVelocity</key>
+	<string>graphicDuringOperation</string>
+	<key>stepAdapterTransparency</key>
+	<string>transitionLevelAppearance</string>
+	<key>tweenNumberSkewx</key>
+	<string>numericalStackHead</string>
+</dict>
+</plist>

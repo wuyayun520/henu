@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalGroupTransparency</key>
+	<string>cacheContainContext</string>
+	<key>intensityPlatformCoord</key>
+	<string>gridPerProxy</string>
+	<key>nextRequestName</key>
+	<string>documentNumberLeft</string>
+	<key>opaqueBufferAlignment</key>
+	<string>deferredLoopMargin</string>
+	<key>webMaterialEdge</key>
+	<string>interpolationInStructure</string>
+</dict>
+</plist>

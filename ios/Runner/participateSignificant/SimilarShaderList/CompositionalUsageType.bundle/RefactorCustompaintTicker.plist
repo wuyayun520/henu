@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelMethodState</key>
+	<string>errorParameterAppearance</string>
+	<key>marginByPattern</key>
+	<string>streamPerFunction</string>
+	<key>riverpodModeMargin</key>
+	<string>displayableSingletonRotation</string>
+	<key>toolMediatorLocation</key>
+	<string>dropdownbuttonStageDirection</string>
+	<key>vectorObserverBottom</key>
+	<string>modalStageBottom</string>
+</dict>
+</plist>

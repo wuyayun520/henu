@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSizeSpacing</key>
+	<string>responseTierFrequency</string>
+	<key>allocatorBufferBorder</key>
+	<string>actionBesidePrototype</string>
+	<key>blocOrFlyweight</key>
+	<string>directlyTransformerShape</string>
+	<key>graphicPatternOrientation</key>
+	<string>queueAmongState</string>
+	<key>mobileSessionBottom</key>
+	<string>criticalFrameBrightness</string>
+	<key>resilientSizeStatus</key>
+	<string>usedNavigatorPosition</string>
+	<key>textureProxyResponse</key>
+	<string>asyncUntilStage</string>
+	<key>timerActivityAlignment</key>
+	<string>gridviewAwayPrototype</string>
+	<key>vectorAboutFunction</key>
+	<string>errorPerVar</string>
+	<key>viewOperationBottom</key>
+	<string>rectScopeAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeUsecaseFlags</key>
+	<string>displayableSineFeedback</string>
+	<key>alignmentInsideType</key>
+	<string>textActionValidation</string>
+	<key>crudeRowHue</key>
+	<string>normOperationDensity</string>
+	<key>cubitFrameworkRight</key>
+	<string>directlySwiftVisibility</string>
+	<key>inkwellFacadeLeft</key>
+	<string>localGraphOffset</string>
+	<key>pageviewProxyLocation</key>
+	<string>transitionForPattern</string>
+</dict>
+</plist>

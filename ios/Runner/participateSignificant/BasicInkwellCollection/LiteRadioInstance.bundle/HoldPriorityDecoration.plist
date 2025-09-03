@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaSingletonBound</key>
+	<string>prevStackVelocity</string>
+	<key>containerParamShade</key>
+	<string>tappableDrawerCoord</string>
+	<key>graphicSingletonInset</key>
+	<string>scrollAtShape</string>
+	<key>modulusByFlyweight</key>
+	<string>themeThroughFacade</string>
+	<key>spineNearTask</key>
+	<string>symbolFacadeOrientation</string>
+</dict>
+</plist>

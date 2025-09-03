@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultGrainBehavior</key>
+	<string>actionParameterBrightness</string>
+	<key>effectContextVisible</key>
+	<string>criticalEffectTension</string>
+	<key>ignoredDelegateBottom</key>
+	<string>sequentialButtonInteraction</string>
+	<key>methodCycleDirection</key>
+	<string>dependencyLayerName</string>
+	<key>positionedActionTint</key>
+	<string>offsetSinceState</string>
+	<key>significantCoordinatorPressure</key>
+	<string>instructionVariableMode</string>
+	<key>storeContextState</key>
+	<string>themeAtPlatform</string>
+</dict>
+</plist>

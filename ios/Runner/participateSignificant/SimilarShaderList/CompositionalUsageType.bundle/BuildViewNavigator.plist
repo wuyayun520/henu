@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerDuringBridge</key>
+	<string>persistentSymbolTheme</string>
+	<key>containerSinceMethod</key>
+	<string>invisibleStorageTheme</string>
+	<key>controllerStageTransparency</key>
+	<string>subtleContractionDepth</string>
+	<key>fragmentAtWork</key>
+	<string>futureByAction</string>
+	<key>nextTimerShape</key>
+	<string>concurrentMethodMode</string>
+	<key>repositoryDespiteComposite</key>
+	<string>tabbarAgainstProcess</string>
+	<key>scrollProxyDuration</key>
+	<string>tweenViaActivity</string>
+	<key>sharedTextureEdge</key>
+	<string>delegateAsStage</string>
+	<key>sustainableTransitionTag</key>
+	<string>roleNearCommand</string>
+</dict>
+</plist>

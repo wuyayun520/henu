@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerModeCoord</key>
+	<string>flexiblePointTop</string>
+	<key>providerScopeLocation</key>
+	<string>hierarchicalResultTheme</string>
+	<key>resizableTabbarVisible</key>
+	<string>cursorOutsideKind</string>
+	<key>storeStateOffset</key>
+	<string>responseAsContext</string>
+</dict>
+</plist>

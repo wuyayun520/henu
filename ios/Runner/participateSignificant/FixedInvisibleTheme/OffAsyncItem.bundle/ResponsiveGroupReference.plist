@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAgainstTask</key>
+	<string>commonMomentumMargin</string>
+	<key>builderCycleDistance</key>
+	<string>textfieldFrameworkValidation</string>
+	<key>containerNearMemento</key>
+	<string>constraintThroughBuffer</string>
+	<key>dialogsThroughObserver</key>
+	<string>pinchableMobileState</string>
+	<key>mapSingletonOpacity</key>
+	<string>layoutStrategyDelay</string>
+	<key>pageviewWithoutShape</key>
+	<string>smallBitrateOrientation</string>
+	<key>secondThemeHue</key>
+	<string>publicExtensionTint</string>
+	<key>sinkProcessShade</key>
+	<string>temporaryEntropyIndex</string>
+	<key>sustainableActionFlags</key>
+	<string>giftDespiteStyle</string>
+</dict>
+</plist>

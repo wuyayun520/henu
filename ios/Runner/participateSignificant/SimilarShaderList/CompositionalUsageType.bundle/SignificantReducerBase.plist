@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customProgressbarShade</key>
+	<string>animationOrFacade</string>
+	<key>descriptionCompositePadding</key>
+	<string>sliderFlyweightAlignment</string>
+	<key>intuitiveCanvasAlignment</key>
+	<string>ignoredInkwellShape</string>
+	<key>mobileValueDensity</key>
+	<string>gramActivityTag</string>
+	<key>otherInteractorTint</key>
+	<string>optimizerStrategyResponse</string>
+	<key>sliderLikeStyle</key>
+	<string>concreteAnimationIndex</string>
+</dict>
+</plist>

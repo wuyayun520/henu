@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAndEnvironment</key>
+	<string>animationCompositePressure</string>
+	<key>gesturedetectorVersusActivity</key>
+	<string>roleCycleKind</string>
+	<key>intuitiveNavigationVelocity</key>
+	<string>spotModeOrientation</string>
+	<key>isolateAroundVariable</key>
+	<string>equipmentCompositeVisibility</string>
+	<key>layoutBufferRate</key>
+	<string>alignmentWorkSpeed</string>
+	<key>previewProcessHead</key>
+	<string>viewContextBehavior</string>
+	<key>routerPrototypeResponse</key>
+	<string>configurationWithTask</string>
+	<key>sampleParamInset</key>
+	<string>animatedcontainerLayerCenter</string>
+	<key>singleTitleSpeed</key>
+	<string>sustainableSlashContrast</string>
+</dict>
+</plist>

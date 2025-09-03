@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureWorkShade</key>
+	<string>convolutionWithoutFunction</string>
+	<key>completionExceptShape</key>
+	<string>modelWithAdapter</string>
+	<key>cycleParameterOpacity</key>
+	<string>previewJobVisible</string>
+	<key>painterInAdapter</key>
+	<string>previewFacadeSkewy</string>
+	<key>primaryCoordinatorResponse</key>
+	<string>typicalDescriptionCenter</string>
+	<key>similarSubscriptionSpacing</key>
+	<string>positionModeDensity</string>
+</dict>
+</plist>

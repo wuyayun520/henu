@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTransitionType</key>
+	<string>titleChainVisibility</string>
+	<key>aspectFromBridge</key>
+	<string>sizedboxWithAction</string>
+	<key>buttonInterpreterFlags</key>
+	<string>futureOrSingleton</string>
+	<key>constSpriteBorder</key>
+	<string>resolverPerTemple</string>
+	<key>gridStructureCoord</key>
+	<string>positionParameterBrightness</string>
+	<key>localizationPhaseRight</key>
+	<string>touchValueSpeed</string>
+	<key>rectAgainstAdapter</key>
+	<string>resolverMementoOpacity</string>
+	<key>tweenTypeTint</key>
+	<string>isolateKindPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSinceKind</key>
+	<string>tablePerAdapter</string>
+	<key>crudeDecorationMargin</key>
+	<string>diversifiedCoordinatorTag</string>
+	<key>deferredMediaqueryMode</key>
+	<string>gridviewDecoratorFrequency</string>
+	<key>hardScaffoldValidation</key>
+	<string>rowAtPlatform</string>
+	<key>interfaceActionBehavior</key>
+	<string>singletonFlyweightBound</string>
+	<key>marginCompositeTag</key>
+	<string>roleContainMediator</string>
+	<key>queueStyleHue</key>
+	<string>navigationVersusFunction</string>
+	<key>radioLikeAdapter</key>
+	<string>alphaTempleFeedback</string>
+	<key>textBesideCycle</key>
+	<string>iconVariableBrightness</string>
+	<key>themeStructureSpeed</key>
+	<string>greatSpriteSaturation</string>
+</dict>
+</plist>

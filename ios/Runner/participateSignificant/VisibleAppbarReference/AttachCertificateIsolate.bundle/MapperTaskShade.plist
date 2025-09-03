@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFactoryMode</key>
+	<string>drawerAlongContext</string>
+	<key>dynamicAlphaOrientation</key>
+	<string>localizationFlyweightRight</string>
+	<key>firstEventCount</key>
+	<string>statefulBlocSkewy</string>
+	<key>resultLikeValue</key>
+	<string>largeCaptionDelay</string>
+	<key>sensorShapeTag</key>
+	<string>crudeTaskVelocity</string>
+	<key>viewJobVelocity</key>
+	<string>methodAtContext</string>
+</dict>
+</plist>

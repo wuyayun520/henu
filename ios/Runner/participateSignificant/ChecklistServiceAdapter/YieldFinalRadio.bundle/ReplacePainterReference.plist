@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBridgeFormat</key>
+	<string>aspectMediatorDensity</string>
+	<key>chartThroughStrategy</key>
+	<string>symbolAwayParam</string>
+	<key>durationAroundCycle</key>
+	<string>grainWorkSize</string>
+	<key>popupModeRate</key>
+	<string>globalGateRate</string>
+	<key>smallScreenBehavior</key>
+	<string>staticTextEdge</string>
+	<key>viewContainScope</key>
+	<string>firstModulusOrigin</string>
+</dict>
+</plist>

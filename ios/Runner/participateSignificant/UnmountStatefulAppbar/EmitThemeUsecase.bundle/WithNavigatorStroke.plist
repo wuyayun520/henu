@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseGrayscaleTheme</key>
+	<string>utilChainEdge</string>
+	<key>effectBufferRotation</key>
+	<string>accordionRoleVisibility</string>
+	<key>eventMediatorCount</key>
+	<string>queueWithoutProxy</string>
+	<key>fusedBinaryVelocity</key>
+	<string>pinchableAnchorDepth</string>
+	<key>greatSignatureTheme</key>
+	<string>collectionPhaseRight</string>
+	<key>otherLayerEdge</key>
+	<string>staticOffsetTag</string>
+	<key>petStageAlignment</key>
+	<string>delegateAndBuffer</string>
+	<key>tensorAnimationLocation</key>
+	<string>taskViaCycle</string>
+	<key>topicIncludeVariable</key>
+	<string>hashLayerShade</string>
+</dict>
+</plist>

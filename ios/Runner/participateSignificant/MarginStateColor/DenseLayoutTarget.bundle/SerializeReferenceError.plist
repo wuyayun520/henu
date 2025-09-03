@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCallbackFeedback</key>
+	<string>hardCustompaintSpeed</string>
+	<key>discardedMaterialOffset</key>
+	<string>standaloneRadiusFlags</string>
+	<key>explicitFactoryOpacity</key>
+	<string>intensityOrMemento</string>
+	<key>overlayPatternFrequency</key>
+	<string>appbarOutsideType</string>
+	<key>serviceAndStrategy</key>
+	<string>scrollMediatorDelay</string>
+	<key>visibleRouterCoord</key>
+	<string>draggableScrollLocation</string>
+</dict>
+</plist>

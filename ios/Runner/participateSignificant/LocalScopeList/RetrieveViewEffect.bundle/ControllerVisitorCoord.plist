@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPriorityKind</key>
+	<string>interactiveSingletonBrightness</string>
+	<key>assetUntilWork</key>
+	<string>uniformResponseEdge</string>
+	<key>permanentInkwellOrigin</key>
+	<string>isolateFrameworkBrightness</string>
+	<key>progressbarDespiteNumber</key>
+	<string>gemFlyweightOrientation</string>
+	<key>stackBridgeRight</key>
+	<string>similarInteractorPadding</string>
+</dict>
+</plist>

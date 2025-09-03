@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPhasePadding</key>
+	<string>modelValueScale</string>
+	<key>completionWithoutStage</key>
+	<string>storyboardVersusScope</string>
+	<key>cubitAboutTask</key>
+	<string>accordionPreviewBottom</string>
+	<key>entityTaskColor</key>
+	<string>tabbarKindBottom</string>
+	<key>storeBridgeFeedback</key>
+	<string>configurationOrParam</string>
+</dict>
+</plist>

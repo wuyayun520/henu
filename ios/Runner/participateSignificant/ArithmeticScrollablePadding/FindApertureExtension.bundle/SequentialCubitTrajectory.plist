@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAroundMode</key>
+	<string>cosineAtParameter</string>
+	<key>directlyNormSkewy</key>
+	<string>themeParamFrequency</string>
+	<key>missedRadioRight</key>
+	<string>granularResourceInteraction</string>
+	<key>navigatorFlyweightDelay</key>
+	<string>usedListenerDuration</string>
+	<key>requestShapeVisibility</key>
+	<string>disabledAnimationVisible</string>
+	<key>robustSizedboxEdge</key>
+	<string>asyncSinceValue</string>
+	<key>stackBridgeScale</key>
+	<string>requestNearForm</string>
+	<key>storeCommandDistance</key>
+	<string>inkwellDuringBuffer</string>
+	<key>taskSingletonStyle</key>
+	<string>cyclePlatformOpacity</string>
+</dict>
+</plist>

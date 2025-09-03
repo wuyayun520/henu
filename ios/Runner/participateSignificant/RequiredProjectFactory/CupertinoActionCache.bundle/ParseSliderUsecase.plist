@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameModeType</key>
+	<string>viewFromComposite</string>
+	<key>grayscaleOfType</key>
+	<string>primaryInstructionDuration</string>
+	<key>gridviewDespiteKind</key>
+	<string>mediaqueryShapeContrast</string>
+	<key>immutableBlocShade</key>
+	<string>stateSinceType</string>
+	<key>singleDelegateVisible</key>
+	<string>resilientDialogsVisible</string>
+	<key>subpixelThroughScope</key>
+	<string>elasticAssetFeedback</string>
+</dict>
+</plist>

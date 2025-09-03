@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectSystemAlignment</key>
+	<string>rowFromMethod</string>
+	<key>autoCubeDirection</key>
+	<string>cartesianChannelsFeedback</string>
+	<key>batchVisitorFlags</key>
+	<string>curveActivityFeedback</string>
+	<key>capacitiesInterpreterCenter</key>
+	<string>intuitiveTaskAcceleration</string>
+	<key>dedicatedInkwellShape</key>
+	<string>localizationVariableDirection</string>
+	<key>granularStreamFeedback</key>
+	<string>threadIncludeStrategy</string>
+	<key>originalSignatureBound</key>
+	<string>listviewInBridge</string>
+	<key>utilVarVisibility</key>
+	<string>contractionModeDepth</string>
+</dict>
+</plist>

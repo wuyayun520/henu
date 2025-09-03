@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitVersusAdapter</key>
+	<string>commandFacadeFrequency</string>
+	<key>declarativeLossOpacity</key>
+	<string>synchronousSizeDistance</string>
+	<key>directStatelessVisible</key>
+	<string>fixedModalSpacing</string>
+	<key>futureAgainstShape</key>
+	<string>widgetFacadeColor</string>
+	<key>groupVariableTint</key>
+	<string>offsetScopeFeedback</string>
+	<key>materialDelegateIndex</key>
+	<string>missedPresenterFlags</string>
+	<key>methodAroundTask</key>
+	<string>slashDuringPlatform</string>
+	<key>progressbarMementoKind</key>
+	<string>marginNearBuffer</string>
+	<key>symbolSystemVelocity</key>
+	<string>vectorFromStyle</string>
+	<key>zoneAdapterOrientation</key>
+	<string>signatureByPlatform</string>
+</dict>
+</plist>

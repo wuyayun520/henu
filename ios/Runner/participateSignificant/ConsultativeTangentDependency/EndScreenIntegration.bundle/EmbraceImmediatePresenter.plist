@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderMediatorSize</key>
+	<string>geometricManagerEdge</string>
+	<key>consumerActionBound</key>
+	<string>cupertinoWorkPressure</string>
+	<key>queueModeVelocity</key>
+	<string>resolverModeInteraction</string>
+	<key>scrollableInkwellStatus</key>
+	<string>optionBridgeVisibility</string>
+	<key>swiftContainBuffer</key>
+	<string>positionedStyleState</string>
+	<key>tangentAmongParam</key>
+	<string>priorityAmongForm</string>
+	<key>themeDuringPattern</key>
+	<string>denseSkinForce</string>
+</dict>
+</plist>

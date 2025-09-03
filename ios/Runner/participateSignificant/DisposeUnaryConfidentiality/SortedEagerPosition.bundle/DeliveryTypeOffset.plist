@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchActionVisible</key>
+	<string>ephemeralChapterInterval</string>
+	<key>buttonExceptPattern</key>
+	<string>topicThroughVariable</string>
+	<key>draggableHashHue</key>
+	<string>viewShapeSkewx</string>
+	<key>interpolationCyclePressure</key>
+	<string>interactiveConstraintStyle</string>
+	<key>protocolPerForm</key>
+	<string>textfieldVersusShape</string>
+</dict>
+</plist>

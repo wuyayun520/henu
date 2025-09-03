@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderOrNumber</key>
+	<string>factorySystemBrightness</string>
+	<key>constManagerFlags</key>
+	<string>spriteStageHead</string>
+	<key>customProfileSpeed</key>
+	<string>singletonStyleSaturation</string>
+	<key>heroParameterSize</key>
+	<string>navigatorByComposite</string>
+	<key>ignoredNibCenter</key>
+	<string>relationalResourceTransparency</string>
+	<key>immediatePriorityTint</key>
+	<string>actionLikeState</string>
+	<key>reductionFrameworkSkewx</key>
+	<string>tabbarScopeHue</string>
+	<key>sizePlatformFeedback</key>
+	<string>heapByValue</string>
+	<key>textWithFramework</key>
+	<string>resizableNodeFrequency</string>
+</dict>
+</plist>

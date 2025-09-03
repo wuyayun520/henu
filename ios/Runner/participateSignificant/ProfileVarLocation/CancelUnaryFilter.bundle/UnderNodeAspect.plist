@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBeyondComposite</key>
+	<string>sizeFrameworkBottom</string>
+	<key>basicFrameRotation</key>
+	<string>nextLoopDirection</string>
+	<key>commandActivityFormat</key>
+	<string>imageDuringPlatform</string>
+	<key>coordinatorForLayer</key>
+	<string>dedicatedFutureVisible</string>
+	<key>giftMediatorMargin</key>
+	<string>exceptionUntilDecorator</string>
+	<key>routeProcessLeft</key>
+	<string>accessibleDependencyRotation</string>
+</dict>
+</plist>

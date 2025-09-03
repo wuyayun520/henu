@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAsJob</key>
+	<string>activityBridgeFeedback</string>
+	<key>columnFormCenter</key>
+	<string>asyncSingletonIndex</string>
+	<key>configurationAtSingleton</key>
+	<string>currentFactoryRight</string>
+	<key>durationPatternContrast</key>
+	<string>protocolCommandKind</string>
+	<key>euclideanVariantDistance</key>
+	<string>respectiveAlignmentStatus</string>
+	<key>inactiveConvolutionRotation</key>
+	<string>multiMetadataSkewx</string>
+	<key>typicalBuilderPressure</key>
+	<string>reducerBufferDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxNearLevel</key>
+	<string>asynchronousCurveRate</string>
+	<key>cosineActivityBrightness</key>
+	<string>streamAtProxy</string>
+	<key>durationAndStyle</key>
+	<string>synchronousBaseRate</string>
+	<key>equalizationLikeAction</key>
+	<string>subpixelStateContrast</string>
+	<key>mediocreQueueOrigin</key>
+	<string>integerBufferSpeed</string>
+	<key>persistentRemainderOrientation</key>
+	<string>ephemeralAnimationFrequency</string>
+	<key>routeDuringJob</key>
+	<string>singletonCycleTop</string>
+	<key>statefulSinceCycle</key>
+	<string>independentPositionedInterval</string>
+	<key>widgetPerMethod</key>
+	<string>dynamicConsumerShade</string>
+</dict>
+</plist>

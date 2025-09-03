@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMobxEdge</key>
+	<string>rowValueBorder</string>
+	<key>delegateThroughCommand</key>
+	<string>presenterCycleDelay</string>
+	<key>mediumAlignmentShade</key>
+	<string>mediocreUsecaseVisibility</string>
+	<key>scaffoldWithoutOperation</key>
+	<string>prismaticAlignmentVisibility</string>
+	<key>sensorInsideComposite</key>
+	<string>radioStageOrientation</string>
+	<key>storageAtComposite</key>
+	<string>futureVersusFunction</string>
+</dict>
+</plist>

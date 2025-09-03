@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTaskScale</key>
+	<string>interactorPhaseRate</string>
+	<key>boxshadowStyleInteraction</key>
+	<string>gradientParamSpeed</string>
+	<key>cacheOrScope</key>
+	<string>catalystDecoratorCoord</string>
+	<key>dialogsSingletonOffset</key>
+	<string>resizableNavigatorRate</string>
+	<key>directDurationState</key>
+	<string>prevButtonMargin</string>
+	<key>immediateSymbolMargin</key>
+	<string>mutableManagerState</string>
+	<key>requestAlongMemento</key>
+	<string>referenceLevelTop</string>
+	<key>signContainFunction</key>
+	<string>sliderByScope</string>
+</dict>
+</plist>

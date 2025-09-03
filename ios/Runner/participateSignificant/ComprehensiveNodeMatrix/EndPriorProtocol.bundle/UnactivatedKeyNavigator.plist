@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisWithoutWork</key>
+	<string>basicHashVelocity</string>
+	<key>bufferViaInterpreter</key>
+	<string>channelSingletonFeedback</string>
+	<key>discardedChannelStyle</key>
+	<string>oldThemeTransparency</string>
+	<key>effectFrameworkSkewy</key>
+	<string>usecaseWithoutScope</string>
+	<key>functionalPriorityScale</key>
+	<string>precisionProxyFlags</string>
+	<key>relationalPaddingFeedback</key>
+	<string>logExceptPlatform</string>
+	<key>stackBufferFlags</key>
+	<string>functionalNodeCount</string>
+	<key>subscriptionAdapterAcceleration</key>
+	<string>layoutAndActivity</string>
+	<key>ternaryProcessLocation</key>
+	<string>disparateClipperMomentum</string>
+</dict>
+</plist>

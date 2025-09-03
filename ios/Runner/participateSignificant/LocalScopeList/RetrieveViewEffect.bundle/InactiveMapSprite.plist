@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAroundPattern</key>
+	<string>dynamicBaselineVisible</string>
+	<key>positionVisitorShape</key>
+	<string>taskPhaseSkewx</string>
+	<key>routerKindAppearance</key>
+	<string>publicPainterMargin</string>
+	<key>similarListenerPadding</key>
+	<string>capacitiesTypeAcceleration</string>
+	<key>taskVarShape</key>
+	<string>normalEqualizationOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionOperationBehavior</key>
+	<string>nibAgainstCycle</string>
+	<key>durationOutsideStyle</key>
+	<string>commandNumberRotation</string>
+	<key>featureUntilContext</key>
+	<string>chartWithFacade</string>
+	<key>greatTimerForce</key>
+	<string>storyboardCompositeValidation</string>
+	<key>layoutMethodDistance</key>
+	<string>sineVersusMode</string>
+	<key>permissiveViewOffset</key>
+	<string>firstDelegateSkewy</string>
+	<key>semanticWidgetCoord</key>
+	<string>injectionBeyondLayer</string>
+	<key>storeExceptParameter</key>
+	<string>statelessIntensityForce</string>
+	<key>taskNearSystem</key>
+	<string>interactiveFragmentTail</string>
+	<key>taskViaMode</key>
+	<string>resourceEnvironmentDirection</string>
+</dict>
+</plist>

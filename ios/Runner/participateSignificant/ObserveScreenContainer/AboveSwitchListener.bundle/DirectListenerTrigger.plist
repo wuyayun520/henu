@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectVarHue</key>
+	<string>equalizationAlongTier</string>
+	<key>disabledRiverpodSkewy</key>
+	<string>stackIncludeChain</string>
+	<key>layoutAroundDecorator</key>
+	<string>lossSingletonFeedback</string>
+	<key>reusableEffectCoord</key>
+	<string>discardedTangentCenter</string>
+	<key>routerVersusParameter</key>
+	<string>transitionAwayKind</string>
+</dict>
+</plist>

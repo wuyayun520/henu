@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromBuffer</key>
+	<string>rectModeInterval</string>
+	<key>enabledDialogsVelocity</key>
+	<string>ephemeralContainerAlignment</string>
+	<key>interactorAdapterValidation</key>
+	<string>staticEffectSaturation</string>
+	<key>mobileInsidePhase</key>
+	<string>textBridgePadding</string>
+	<key>streamFunctionRate</key>
+	<string>denseMediaMode</string>
+	<key>timerAroundAction</key>
+	<string>profileActionPadding</string>
+	<key>unaryParamTag</key>
+	<string>specifierAlongProcess</string>
+</dict>
+</plist>

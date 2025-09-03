@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAndContext</key>
+	<string>texturePatternSpacing</string>
+	<key>cubitFlyweightVisible</key>
+	<string>progressbarFromActivity</string>
+	<key>imageCyclePadding</key>
+	<string>mutableColumnSkewx</string>
+	<key>petLayerInterval</key>
+	<string>chartSystemDuration</string>
+	<key>screenInterpreterHead</key>
+	<string>titleTypeContrast</string>
+	<key>stateEnvironmentState</key>
+	<string>tabviewDespiteTier</string>
+	<key>tensorDecorationSkewx</key>
+	<string>alphaDespiteProxy</string>
+</dict>
+</plist>

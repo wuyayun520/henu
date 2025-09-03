@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSubscriptionBehavior</key>
+	<string>disabledTextDelay</string>
+	<key>specifierStyleType</key>
+	<string>subpixelProcessDistance</string>
+	<key>swiftBesideNumber</key>
+	<string>collectionLikeContext</string>
+	<key>textLikeMode</key>
+	<string>behaviorScopeInteraction</string>
+</dict>
+</plist>

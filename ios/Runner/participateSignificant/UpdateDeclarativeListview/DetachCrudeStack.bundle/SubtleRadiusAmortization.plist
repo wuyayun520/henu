@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentAmongPrototype</key>
+	<string>errorStyleOffset</string>
+	<key>localChecklistSpacing</key>
+	<string>cartesianTransformerSkewy</string>
+	<key>skinVisitorTail</key>
+	<string>groupLayerInteraction</string>
+	<key>usageJobMode</key>
+	<string>resourceInVar</string>
+	<key>widgetNearStyle</key>
+	<string>completionSingletonLocation</string>
+</dict>
+</plist>

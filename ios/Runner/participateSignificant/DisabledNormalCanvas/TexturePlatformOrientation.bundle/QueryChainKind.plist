@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStateFeedback</key>
+	<string>alertPerVar</string>
+	<key>completerAndFramework</key>
+	<string>ephemeralCacheDuration</string>
+	<key>constraintBeyondParam</key>
+	<string>particleBeyondVar</string>
+	<key>mediocreUsageShade</key>
+	<string>menuAmongValue</string>
+	<key>methodLevelKind</key>
+	<string>stateShapeDensity</string>
+	<key>persistentWidgetDuration</key>
+	<string>subsequentUsageShade</string>
+	<key>resourceTempleName</key>
+	<string>modulusAtMemento</string>
+	<key>rowInProxy</key>
+	<string>assetThanOperation</string>
+	<key>sequentialDelegateEdge</key>
+	<string>subsequentViewAppearance</string>
+	<key>sortedMapType</key>
+	<string>crucialRouteValidation</string>
+</dict>
+</plist>

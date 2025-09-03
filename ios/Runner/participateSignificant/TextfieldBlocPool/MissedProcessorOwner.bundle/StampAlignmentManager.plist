@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAtMode</key>
+	<string>protocolWorkStyle</string>
+	<key>completionObserverStatus</key>
+	<string>commonHistogramInterval</string>
+	<key>cubeAlongNumber</key>
+	<string>basicLabelInteraction</string>
+	<key>hashScopeOpacity</key>
+	<string>handlerScopeValidation</string>
+	<key>immediateScreenPadding</key>
+	<string>nextAllocatorAcceleration</string>
+	<key>mobxAsLayer</key>
+	<string>injectionThroughStyle</string>
+	<key>musicBridgeVelocity</key>
+	<string>singletonVarColor</string>
+	<key>scrollableLocalizationDepth</key>
+	<string>loopValueTheme</string>
+	<key>slashVarScale</key>
+	<string>cubitTierRate</string>
+	<key>utilContainVar</key>
+	<string>textAndMode</string>
+</dict>
+</plist>

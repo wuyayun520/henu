@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredCellSpeed</key>
+	<string>fusedCupertinoRate</string>
+	<key>discardedAnimationBrightness</key>
+	<string>finalContainerFrequency</string>
+	<key>granularStatefulDistance</key>
+	<string>iconFlyweightBehavior</string>
+	<key>smartThreadHead</key>
+	<string>crudeTabviewState</string>
+	<key>specifyConstraintIndex</key>
+	<string>statefulEffectFrequency</string>
+	<key>statefulOrStructure</key>
+	<string>screenCompositeRight</string>
+</dict>
+</plist>

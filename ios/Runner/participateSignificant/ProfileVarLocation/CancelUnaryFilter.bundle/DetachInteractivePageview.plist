@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopBufferFormat</key>
+	<string>grainSinceOperation</string>
+	<key>disparateFragmentFeedback</key>
+	<string>operationSinceNumber</string>
+	<key>equalizationValueRotation</key>
+	<string>localAssetDepth</string>
+	<key>localizationAgainstTemple</key>
+	<string>numericalMissionRate</string>
+	<key>marginPhaseOrigin</key>
+	<string>drawerScopeDuration</string>
+	<key>seamlessLayerPadding</key>
+	<string>histogramCompositePadding</string>
+</dict>
+</plist>

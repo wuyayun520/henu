@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorNearMethod</key>
+	<string>accessorySinceChain</string>
+	<key>offsetUntilCycle</key>
+	<string>ternaryBeyondWork</string>
+	<key>queueWithoutShape</key>
+	<string>invisibleMemberEdge</string>
+	<key>reducerMediatorOpacity</key>
+	<string>tablePlatformCenter</string>
+	<key>routerEnvironmentFeedback</key>
+	<string>constFeatureCount</string>
+	<key>utilViaContext</key>
+	<string>blocOrScope</string>
+</dict>
+</plist>

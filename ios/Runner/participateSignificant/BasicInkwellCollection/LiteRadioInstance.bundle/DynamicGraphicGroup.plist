@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForContext</key>
+	<string>permissiveSpineSpeed</string>
+	<key>appbarLikeVar</key>
+	<string>lostNotifierOrientation</string>
+	<key>discardedIntensityRotation</key>
+	<string>adaptiveUtilState</string>
+	<key>eagerDurationMomentum</key>
+	<string>enabledTickerAcceleration</string>
+	<key>easyDependencyCenter</key>
+	<string>previewForLayer</string>
+	<key>factoryPatternScale</key>
+	<string>zoneObserverType</string>
+	<key>newestAspectCoord</key>
+	<string>dependencyAtOperation</string>
+	<key>parallelControllerCount</key>
+	<string>touchModeOrigin</string>
+	<key>sizeCommandSkewx</key>
+	<string>buttonByActivity</string>
+	<key>skinStateScale</key>
+	<string>inactivePositionedAppearance</string>
+</dict>
+</plist>

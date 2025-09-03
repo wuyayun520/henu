@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasIncludeState</key>
+	<string>previewForParameter</string>
+	<key>cubitAwayMethod</key>
+	<string>spriteMementoOrigin</string>
+	<key>expandedOutsideContext</key>
+	<string>effectOutsideStage</string>
+	<key>imperativeConsumerPressure</key>
+	<string>animatedcontainerPerMethod</string>
+	<key>interactorEnvironmentRight</key>
+	<string>animatedcontainerInsideParameter</string>
+	<key>localCoordinatorPressure</key>
+	<string>directlyFutureDistance</string>
+	<key>mediaqueryMethodTint</key>
+	<string>sessionIncludeProxy</string>
+	<key>mediumCaptionMargin</key>
+	<string>robustReferenceStyle</string>
+	<key>tableSinceBridge</key>
+	<string>switchDespiteProxy</string>
+</dict>
+</plist>

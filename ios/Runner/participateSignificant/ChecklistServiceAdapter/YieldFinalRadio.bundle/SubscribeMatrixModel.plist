@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerEnvironmentName</key>
+	<string>viewNumberLeft</string>
+	<key>primaryTextureRight</key>
+	<string>temporaryChapterMode</string>
+	<key>segmentWithoutAdapter</key>
+	<string>presenterVersusFlyweight</string>
+	<key>semanticRadiusBrightness</key>
+	<string>sceneAndCycle</string>
+</dict>
+</plist>

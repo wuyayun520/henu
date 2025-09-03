@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOutsideActivity</key>
+	<string>directlyBinaryAlignment</string>
+	<key>batchSinceStyle</key>
+	<string>primaryResolverBound</string>
+	<key>curveAsType</key>
+	<string>factoryWithMethod</string>
+	<key>entityActionScale</key>
+	<string>globalAsyncCount</string>
+	<key>finalIntensityType</key>
+	<string>statefulAmongWork</string>
+	<key>nextInterpolationDistance</key>
+	<string>respectiveObserverLeft</string>
+	<key>queueAsVariable</key>
+	<string>draggableBatchOffset</string>
+	<key>queueKindDelay</key>
+	<string>sensorThanDecorator</string>
+</dict>
+</plist>

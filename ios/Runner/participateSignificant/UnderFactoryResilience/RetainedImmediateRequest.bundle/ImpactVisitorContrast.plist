@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedUsecaseSkewy</key>
+	<string>semanticStoreInset</string>
+	<key>awaitShapeMode</key>
+	<string>displayableChannelDistance</string>
+	<key>blocSingletonEdge</key>
+	<string>subtleTernaryState</string>
+	<key>blocVariableInset</key>
+	<string>widgetValueSpacing</string>
+	<key>entropyStateSpeed</key>
+	<string>rapidRoleInteraction</string>
+	<key>stepStyleRight</key>
+	<string>catalystNearContext</string>
+	<key>transitionPhaseOpacity</key>
+	<string>marginChainColor</string>
+</dict>
+</plist>

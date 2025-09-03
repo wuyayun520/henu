@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerOrAction</key>
+	<string>consumerTierHue</string>
+	<key>aspectratioShapeColor</key>
+	<string>tensorIndicatorDensity</string>
+	<key>controllerStageFeedback</key>
+	<string>functionalProjectTint</string>
+	<key>managerWithBuffer</key>
+	<string>interfaceFacadeSize</string>
+	<key>observerBesideFacade</key>
+	<string>touchParameterVisibility</string>
+	<key>prevResponseEdge</key>
+	<string>documentCompositeSpeed</string>
+	<key>segueOutsideBuffer</key>
+	<string>reducerPhaseFlags</string>
+	<key>sharedCatalystOffset</key>
+	<string>resourceStageAcceleration</string>
+	<key>streamDuringMediator</key>
+	<string>modalPatternDuration</string>
+</dict>
+</plist>

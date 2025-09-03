@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedIsolateForce</key>
+	<string>transformerByMethod</string>
+	<key>chartActionDirection</key>
+	<string>singletonMediatorInset</string>
+	<key>compositionFlyweightSkewy</key>
+	<string>delegateAgainstCycle</string>
+	<key>entityPhaseOrigin</key>
+	<string>gridAgainstPhase</string>
+	<key>finalHeroMomentum</key>
+	<string>swiftNearTier</string>
+	<key>grayscaleObserverOpacity</key>
+	<string>actionObserverFormat</string>
+	<key>hashAdapterMargin</key>
+	<string>touchCompositeOffset</string>
+	<key>ignoredResultDelay</key>
+	<string>resolverFacadeScale</string>
+	<key>streamWorkSaturation</key>
+	<string>titleVersusOperation</string>
+	<key>techniquePhaseCoord</key>
+	<string>shaderOrProcess</string>
+</dict>
+</plist>

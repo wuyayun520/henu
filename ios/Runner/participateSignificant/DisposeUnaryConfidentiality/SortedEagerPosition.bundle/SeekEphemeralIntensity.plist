@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFactoryLocation</key>
+	<string>builderWithoutContext</string>
+	<key>crucialCompletionBehavior</key>
+	<string>layerPhaseDirection</string>
+	<key>durationContainMode</key>
+	<string>activatedResponseDuration</string>
+	<key>groupLikeFlyweight</key>
+	<string>mobileStatefulSaturation</string>
+	<key>iterativeLogAlignment</key>
+	<string>multiMobxBehavior</string>
+	<key>localizationTaskEdge</key>
+	<string>imageViaFlyweight</string>
+	<key>resolverFromProxy</key>
+	<string>histogramAtTier</string>
+	<key>segueOfSystem</key>
+	<string>smartSpecifierInteraction</string>
+	<key>webBlocRotation</key>
+	<string>singleCheckboxAppearance</string>
+</dict>
+</plist>

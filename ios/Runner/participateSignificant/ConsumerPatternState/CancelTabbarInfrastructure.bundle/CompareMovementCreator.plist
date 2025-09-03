@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderCompositeValidation</key>
+	<string>tappableViewAppearance</string>
+	<key>cursorDespiteComposite</key>
+	<string>viewTierResponse</string>
+	<key>ephemeralRoleCenter</key>
+	<string>denseTransitionBottom</string>
+	<key>factoryFlyweightState</key>
+	<string>originalTechniqueOrientation</string>
+	<key>gesturedetectorShapePosition</key>
+	<string>timerInContext</string>
+	<key>mapAndNumber</key>
+	<string>checkboxUntilProcess</string>
+	<key>providerChainBottom</key>
+	<string>serviceScopeVelocity</string>
+	<key>responsiveGateAcceleration</key>
+	<string>resolverTaskVisible</string>
+	<key>usedStampBound</key>
+	<string>advancedInterpolationMargin</string>
+</dict>
+</plist>

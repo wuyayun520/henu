@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSignTransparency</key>
+	<string>reusableSymbolEdge</string>
+	<key>cubitContextCoord</key>
+	<string>materialGridEdge</string>
+	<key>currentReferenceKind</key>
+	<string>consultativeResultDirection</string>
+	<key>curveBufferContrast</key>
+	<string>requiredMetadataHue</string>
+	<key>entropyObserverCenter</key>
+	<string>smallNotificationEdge</string>
+	<key>secondMethodIndex</key>
+	<string>toolWithoutParam</string>
+	<key>signatureOrTier</key>
+	<string>modelByOperation</string>
+	<key>timerAboutShape</key>
+	<string>displayableTextureIndex</string>
+	<key>transitionVarVelocity</key>
+	<string>fixedQueueCount</string>
+</dict>
+</plist>

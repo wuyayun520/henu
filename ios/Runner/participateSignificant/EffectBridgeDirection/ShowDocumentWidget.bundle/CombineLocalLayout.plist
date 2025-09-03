@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStreamOrientation</key>
+	<string>prevListenerTransparency</string>
+	<key>effectAsAction</key>
+	<string>cubitOrCycle</string>
+	<key>oldCursorBound</key>
+	<string>significantSemanticsBehavior</string>
+	<key>requestDuringProxy</key>
+	<string>tweenParameterCenter</string>
+</dict>
+</plist>

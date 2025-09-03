@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFunctionBorder</key>
+	<string>discardedAlignmentAppearance</string>
+	<key>animatedcontainerOfStage</key>
+	<string>routeStageState</string>
+	<key>containerFlyweightVisibility</key>
+	<string>sequentialAnchorOpacity</string>
+	<key>contractionContainPhase</key>
+	<string>dedicatedBatchMargin</string>
+	<key>enabledCupertinoSize</key>
+	<string>storyboardEnvironmentAppearance</string>
+	<key>lossLayerAcceleration</key>
+	<string>largeResourceDensity</string>
+	<key>nextGrayscaleName</key>
+	<string>resilientTopicForce</string>
+	<key>sessionStyleValidation</key>
+	<string>gramSingletonCount</string>
+	<key>singleControllerLeft</key>
+	<string>borderObserverType</string>
+</dict>
+</plist>

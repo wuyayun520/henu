@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>radioAgainstFunction</key>
+	<string>accessibleDependencyRotation</string>
+	<key>rectStageState</key>
+	<string>fusedViewInset</string>
+	<key>robustCustompaintSize</key>
+	<string>specifyMenuVelocity</string>
+	<key>transitionOperationFlags</key>
+	<string>responsiveLocalizationStatus</string>
+</dict>
+</plist>

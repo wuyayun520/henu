@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultResultFrequency</key>
+	<string>arithmeticSkinTheme</string>
+	<key>eventByDecorator</key>
+	<string>hierarchicalContainerVisible</string>
+	<key>rapidArithmeticContrast</key>
+	<string>modulusWithoutMethod</string>
+	<key>resultTypeCoord</key>
+	<string>cursorJobDistance</string>
+	<key>skirtStrategyDirection</key>
+	<string>listenerBeyondPhase</string>
+</dict>
+</plist>

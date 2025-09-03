@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGesturedetectorFlags</key>
+	<string>activeMetadataState</string>
+	<key>fusedColumnFlags</key>
+	<string>layerAtOperation</string>
+	<key>futureSystemTop</key>
+	<string>lossWithoutBuffer</string>
+	<key>hashCommandInterval</key>
+	<string>boxshadowVersusSingleton</string>
+	<key>localBuilderPadding</key>
+	<string>storyboardThroughFlyweight</string>
+	<key>popupAdapterState</key>
+	<string>fragmentShapeDensity</string>
+	<key>protectedTickerPosition</key>
+	<string>pinchableStreamResponse</string>
+	<key>symbolAtCommand</key>
+	<string>dynamicAxisContrast</string>
+	<key>titleBufferScale</key>
+	<string>boxshadowByJob</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineDuringFlyweight</key>
+	<string>crucialAnimationResponse</string>
+	<key>dependencyActionFeedback</key>
+	<string>opaqueGateInteraction</string>
+	<key>discardedScrollAlignment</key>
+	<string>radiusObserverState</string>
+	<key>permanentTitleTag</key>
+	<string>grayscaleByCommand</string>
+	<key>relationalMatrixSkewy</key>
+	<string>currentTouchColor</string>
+	<key>semanticNavigatorTint</key>
+	<string>callbackAlongComposite</string>
+	<key>topicAgainstStyle</key>
+	<string>similarInjectionScale</string>
+</dict>
+</plist>

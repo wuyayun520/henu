@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSpotDistance</key>
+	<string>transitionContextBottom</string>
+	<key>batchKindTag</key>
+	<string>sizeAgainstBuffer</string>
+	<key>checkboxStrategyInterval</key>
+	<string>directContainerContrast</string>
+	<key>crucialLayerFrequency</key>
+	<string>draggableContainerState</string>
+	<key>declarativeMovementSpeed</key>
+	<string>graphParameterType</string>
+	<key>futureOperationDensity</key>
+	<string>dialogsWithoutMemento</string>
+	<key>gramFacadeTransparency</key>
+	<string>normalFlexState</string>
+	<key>ignoredCallbackName</key>
+	<string>dependencyContextRate</string>
+	<key>smartInteractorRate</key>
+	<string>largeQueryLeft</string>
+</dict>
+</plist>

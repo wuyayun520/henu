@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAndVariable</key>
+	<string>exceptionFacadeHue</string>
+	<key>completerCommandTransparency</key>
+	<string>skirtByFlyweight</string>
+	<key>geometricResourceBehavior</key>
+	<string>interactorStrategyBrightness</string>
+	<key>momentumValueShape</key>
+	<string>keySignDelay</string>
+	<key>radioCompositeDistance</key>
+	<string>sliderFacadeShape</string>
+	<key>repositoryWithChain</key>
+	<string>tickerInsideMemento</string>
+	<key>retainedProviderStyle</key>
+	<string>transitionInterpreterAppearance</string>
+	<key>secondAllocatorSkewx</key>
+	<string>diversifiedConstraintDistance</string>
+</dict>
+</plist>

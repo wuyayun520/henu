@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAboutActivity</key>
+	<string>custompaintPhaseShape</string>
+	<key>requiredLayoutEdge</key>
+	<string>mobxCycleTheme</string>
+	<key>reusableFrameType</key>
+	<string>providerLayerSpacing</string>
+	<key>tickerLevelTop</key>
+	<string>precisionThanEnvironment</string>
+</dict>
+</plist>

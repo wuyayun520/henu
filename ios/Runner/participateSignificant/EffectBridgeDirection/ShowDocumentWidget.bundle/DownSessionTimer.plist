@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePopupBehavior</key>
+	<string>synchronousUtilForce</string>
+	<key>currentFeatureTransparency</key>
+	<string>dynamicBrushColor</string>
+	<key>keyInteractorVelocity</key>
+	<string>routeAmongTask</string>
+	<key>mediocreCheckboxDepth</key>
+	<string>characterTypeInterval</string>
+	<key>particleOrTask</key>
+	<string>pinchableBoxValidation</string>
+	<key>usecaseLikeState</key>
+	<string>cardExceptParam</string>
+</dict>
+</plist>

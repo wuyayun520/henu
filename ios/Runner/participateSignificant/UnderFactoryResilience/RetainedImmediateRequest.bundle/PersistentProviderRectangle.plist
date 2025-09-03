@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonCommandBottom</key>
+	<string>bufferBridgeStatus</string>
+	<key>particleOrJob</key>
+	<string>iterativeSampleIndex</string>
+	<key>queryLayerLocation</key>
+	<string>getxThroughActivity</string>
+	<key>resourceAndInterpreter</key>
+	<string>timerFrameworkStyle</string>
+	<key>stateMethodCount</key>
+	<string>localDelegateResponse</string>
+	<key>subsequentConstraintIndex</key>
+	<string>mediaqueryNearChain</string>
+	<key>subtleRowFrequency</key>
+	<string>cartesianOperationOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionButtonKind</key>
+	<string>eagerBatchSpeed</string>
+	<key>buttonTempleDuration</key>
+	<string>chapterPatternForce</string>
+	<key>difficultResponseRight</key>
+	<string>controllerAdapterDelay</string>
+	<key>indicatorTaskInteraction</key>
+	<string>signWithPlatform</string>
+	<key>layoutAsDecorator</key>
+	<string>compositionVariableResponse</string>
+	<key>sceneDecoratorScale</key>
+	<string>apertureUntilVisitor</string>
+	<key>sliderBesideScope</key>
+	<string>eagerBaselineContrast</string>
+</dict>
+</plist>

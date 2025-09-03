@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialIndicatorVisible</key>
+	<string>heapFormAcceleration</string>
+	<key>flexibleGrainTop</key>
+	<string>particleInsideFlyweight</string>
+	<key>layoutAmongInterpreter</key>
+	<string>cupertinoAnimationCoord</string>
+	<key>modelAsPhase</key>
+	<string>deferredGridTransparency</string>
+	<key>navigatorBufferSize</key>
+	<string>eagerFactoryAppearance</string>
+	<key>nodeDuringSingleton</key>
+	<string>localizationVariableScale</string>
+	<key>oldApertureSpeed</key>
+	<string>localChecklistVisibility</string>
+	<key>publicSpotFrequency</key>
+	<string>characterStyleFrequency</string>
+	<key>timerViaValue</key>
+	<string>imageWithContext</string>
+	<key>utilInStructure</key>
+	<string>materialChannelName</string>
+</dict>
+</plist>

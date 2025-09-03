@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonForContext</key>
+	<string>spritePlatformBound</string>
+	<key>capacitiesContextOrigin</key>
+	<string>movementLevelIndex</string>
+	<key>denseSceneForce</key>
+	<string>subsequentRoleIndex</string>
+	<key>lossVisitorContrast</key>
+	<string>taskInsideFlyweight</string>
+	<key>profileContainJob</key>
+	<string>draggableLayerDuration</string>
+	<key>requestOfStyle</key>
+	<string>intermediateParticleVisibility</string>
+	<key>sequentialRadiusBound</key>
+	<string>switchNearJob</string>
+	<key>sizeFrameworkBound</key>
+	<string>arithmeticAtMode</string>
+	<key>tensorQueryScale</key>
+	<string>difficultModulusHead</string>
+</dict>
+</plist>

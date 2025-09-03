@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryPerNumber</key>
+	<string>dedicatedTextBottom</string>
+	<key>permissivePainterTheme</key>
+	<string>tabviewPlatformBrightness</string>
+	<key>queuePrototypeRotation</key>
+	<string>transitionActionName</string>
+	<key>subscriptionFacadeDistance</key>
+	<string>displayableRequestRight</string>
+	<key>tickerForTier</key>
+	<string>providerOperationStatus</string>
+	<key>typicalScreenCount</key>
+	<string>alignmentMediatorOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCoordinatorKind</key>
+	<string>displayableTableDirection</string>
+	<key>gradientDespiteValue</key>
+	<string>borderSinceVisitor</string>
+	<key>mediaCycleMode</key>
+	<string>symmetricLogPosition</string>
+	<key>queryPerContext</key>
+	<string>commonSwiftTint</string>
+	<key>threadAdapterTint</key>
+	<string>contractionLikeTask</string>
+	<key>usedSingletonAppearance</key>
+	<string>animationShapeHue</string>
+</dict>
+</plist>

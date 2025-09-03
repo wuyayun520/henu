@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasThanEnvironment</key>
+	<string>effectAsFacade</string>
+	<key>fragmentDuringLayer</key>
+	<string>previewKindInterval</string>
+	<key>ignoredChannelsCenter</key>
+	<string>imperativeSpriteTransparency</string>
+	<key>observerEnvironmentSpeed</key>
+	<string>signAtInterpreter</string>
+	<key>rowOrFlyweight</key>
+	<string>otherBuilderDistance</string>
+	<key>sequentialStoreTint</key>
+	<string>errorFlyweightOrientation</string>
+	<key>topicStateFeedback</key>
+	<string>utilCompositeTint</string>
+	<key>viewFrameworkSpacing</key>
+	<string>transitionProxyTint</string>
+</dict>
+</plist>

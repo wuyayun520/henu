@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAppbarLocation</key>
+	<string>secondCupertinoValidation</string>
+	<key>captionStrategyTheme</key>
+	<string>durationStyleState</string>
+	<key>comprehensivePositionedBrightness</key>
+	<string>webSingletonForce</string>
+	<key>disabledDialogsTop</key>
+	<string>largeLayerTransparency</string>
+	<key>grainStructureDensity</key>
+	<string>normalCompleterBottom</string>
+	<key>grayscaleStatePosition</key>
+	<string>builderInStrategy</string>
+	<key>nativeTernaryLocation</key>
+	<string>signatureThanLevel</string>
+	<key>typicalGramRotation</key>
+	<string>intermediatePriorityVelocity</string>
+</dict>
+</plist>

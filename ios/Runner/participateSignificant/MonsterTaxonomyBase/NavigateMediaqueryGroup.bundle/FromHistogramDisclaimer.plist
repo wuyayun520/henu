@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveKernelTheme</key>
+	<string>inheritedControllerVisibility</string>
+	<key>autoAnimationShape</key>
+	<string>techniqueAdapterEdge</string>
+	<key>commonUnaryStyle</key>
+	<string>equalizationValueSkewy</string>
+	<key>consumerOfBridge</key>
+	<string>statefulAlongProxy</string>
+	<key>handlerMethodPosition</key>
+	<string>activityOfParameter</string>
+</dict>
+</plist>

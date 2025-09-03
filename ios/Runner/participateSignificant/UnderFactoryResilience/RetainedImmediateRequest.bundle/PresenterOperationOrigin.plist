@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainParamTail</key>
+	<string>completionAlongVisitor</string>
+	<key>immutableViewTail</key>
+	<string>transitionValueMargin</string>
+	<key>scaleActivityDepth</key>
+	<string>intuitiveCompleterMode</string>
+	<key>segmentModeFrequency</key>
+	<string>optionContainMode</string>
+	<key>usecaseFromValue</key>
+	<string>builderPhaseKind</string>
+</dict>
+</plist>

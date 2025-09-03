@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalBrushRight</key>
+	<string>globalRadioDirection</string>
+	<key>effectInsideParam</key>
+	<string>spotVariableLocation</string>
+	<key>effectNearCommand</key>
+	<string>protectedTangentName</string>
+	<key>independentSkirtContrast</key>
+	<string>stepKindInterval</string>
+	<key>parallelGrayscaleDepth</key>
+	<string>cursorStructureOrigin</string>
+	<key>particleProcessContrast</key>
+	<string>eventProxyMode</string>
+	<key>petForNumber</key>
+	<string>subsequentDependencySpeed</string>
+	<key>publicCacheDistance</key>
+	<string>roleLikeLevel</string>
+	<key>semanticCanvasShape</key>
+	<string>marginOrComposite</string>
+	<key>sizedboxParameterDistance</key>
+	<string>numericalNibMargin</string>
+</dict>
+</plist>

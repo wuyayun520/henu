@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureSinceAdapter</key>
+	<string>factoryInKind</string>
+	<key>commandVersusVariable</key>
+	<string>invisibleMatrixOffset</string>
+	<key>dynamicIndicatorTransparency</key>
+	<string>crudeSkinVelocity</string>
+	<key>euclideanReductionBehavior</key>
+	<string>criticalCallbackTransparency</string>
+	<key>integerVersusFramework</key>
+	<string>intensityPrototypeCenter</string>
+	<key>playbackValueTransparency</key>
+	<string>constTickerVelocity</string>
+	<key>stepTaskOpacity</key>
+	<string>effectSystemLeft</string>
+</dict>
+</plist>

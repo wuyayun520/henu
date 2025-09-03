@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTabviewStatus</key>
+	<string>projectionNearParam</string>
+	<key>dropdownbuttonSingletonKind</key>
+	<string>declarativeScreenTint</string>
+	<key>liteSliderSize</key>
+	<string>taskFacadeBehavior</string>
+	<key>ternaryAroundNumber</key>
+	<string>vectorVersusMediator</string>
+</dict>
+</plist>

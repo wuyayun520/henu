@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAndCommand</key>
+	<string>precisionAgainstProxy</string>
+	<key>layerPhaseAppearance</key>
+	<string>storageAgainstMemento</string>
+	<key>materialZoneSpacing</key>
+	<string>deferredWidgetSkewy</string>
+	<key>painterSinceLayer</key>
+	<string>batchFunctionDuration</string>
+	<key>singletonActivityStatus</key>
+	<string>concreteResourceVisibility</string>
+	<key>timerThroughActivity</key>
+	<string>reusableCommandVelocity</string>
+	<key>unactivatedAsyncPosition</key>
+	<string>projectPatternOpacity</string>
+</dict>
+</plist>

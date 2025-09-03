@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicReferenceAlignment</key>
+	<string>metadataSingletonValidation</string>
+	<key>delegateOperationSkewx</key>
+	<string>timerActionSpeed</string>
+	<key>popupAboutLevel</key>
+	<string>easyCycleEdge</string>
+	<key>requiredGateOpacity</key>
+	<string>menuVarFeedback</string>
+	<key>storeLayerPadding</key>
+	<string>navigatorFromOperation</string>
+	<key>widgetCompositeTag</key>
+	<string>operationOutsideAdapter</string>
+</dict>
+</plist>

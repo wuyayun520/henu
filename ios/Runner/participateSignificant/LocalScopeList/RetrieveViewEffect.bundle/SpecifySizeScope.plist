@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionContractionType</key>
+	<string>delicateSizeVisibility</string>
+	<key>completionStructureValidation</key>
+	<string>methodCompositeDensity</string>
+	<key>concurrentCellTransparency</key>
+	<string>themeAroundComposite</string>
+	<key>controllerUntilContext</key>
+	<string>declarativeSliderCount</string>
+	<key>resourceWithoutBridge</key>
+	<string>imperativeLabelCenter</string>
+	<key>tableMediatorInset</key>
+	<string>tweenCommandStyle</string>
+</dict>
+</plist>

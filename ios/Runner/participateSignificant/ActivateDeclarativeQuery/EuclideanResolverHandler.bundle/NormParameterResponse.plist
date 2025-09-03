@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRouteSkewx</key>
+	<string>flexTaskFrequency</string>
+	<key>awaitValueAppearance</key>
+	<string>titleAgainstCycle</string>
+	<key>bitrateModeBehavior</key>
+	<string>consumerFormFormat</string>
+	<key>inheritedInterpolationTag</key>
+	<string>easyErrorSkewx</string>
+	<key>richtextPerPattern</key>
+	<string>mediaqueryFrameworkFormat</string>
+	<key>signatureEnvironmentPadding</key>
+	<string>effectContainTier</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerThroughPrototype</key>
+	<string>draggableZoneType</string>
+	<key>exceptionAroundDecorator</key>
+	<string>accessibleCompleterSaturation</string>
+	<key>gesturePlatformPosition</key>
+	<string>activeTabviewShade</string>
+	<key>injectionTaskPadding</key>
+	<string>batchOperationHead</string>
+	<key>progressbarTaskHue</key>
+	<string>layoutCycleCoord</string>
+	<key>publicTopicDistance</key>
+	<string>permissiveSizeRotation</string>
+	<key>slashForAdapter</key>
+	<string>usecaseLikeShape</string>
+</dict>
+</plist>

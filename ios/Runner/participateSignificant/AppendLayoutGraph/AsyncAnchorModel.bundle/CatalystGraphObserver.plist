@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDurationFeedback</key>
+	<string>usedUsecaseStyle</string>
+	<key>anchorScopeValidation</key>
+	<string>composableListenerVisibility</string>
+	<key>brushContextDirection</key>
+	<string>accessoryVariableInset</string>
+	<key>finalDependencyFlags</key>
+	<string>taskSystemTail</string>
+	<key>menuSinceState</key>
+	<string>missedBrushState</string>
+	<key>oldNotifierSaturation</key>
+	<string>usagePerSystem</string>
+	<key>plateThroughContext</key>
+	<string>layoutThanVariable</string>
+	<key>themeDecoratorBehavior</key>
+	<string>primaryInkwellState</string>
+</dict>
+</plist>

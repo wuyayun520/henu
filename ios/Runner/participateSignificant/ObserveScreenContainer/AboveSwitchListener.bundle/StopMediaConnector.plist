@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredGridEdge</key>
+	<string>draggableCompletionShape</string>
+	<key>equipmentStateVisible</key>
+	<string>profileVariableSkewx</string>
+	<key>grayscaleByType</key>
+	<string>anchorOutsidePlatform</string>
+	<key>materialPerPlatform</key>
+	<string>workflowInterpreterRight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateOrOperation</key>
+	<string>mediaWithoutFunction</string>
+	<key>eagerMovementSize</key>
+	<string>previewAmongJob</string>
+	<key>gridviewFlyweightFrequency</key>
+	<string>handlerAlongAdapter</string>
+	<key>independentSceneOrientation</key>
+	<string>reductionThroughObserver</string>
+	<key>permissiveEffectShade</key>
+	<string>localQueueContrast</string>
+	<key>sessionParamContrast</key>
+	<string>logStructureMargin</string>
+	<key>textObserverTail</key>
+	<string>exceptionExceptPattern</string>
+</dict>
+</plist>

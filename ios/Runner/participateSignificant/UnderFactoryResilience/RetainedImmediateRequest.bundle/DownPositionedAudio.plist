@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedExtensionFlags</key>
+	<string>themeContextOffset</string>
+	<key>animatedRectShade</key>
+	<string>notifierViaFlyweight</string>
+	<key>cachePlatformBorder</key>
+	<string>relationalStampBound</string>
+	<key>convolutionParamVelocity</key>
+	<string>sineCommandBrightness</string>
+	<key>matrixAdapterShape</key>
+	<string>exceptionTypePosition</string>
+	<key>rowPhaseOrigin</key>
+	<string>providerExceptSingleton</string>
+	<key>sceneEnvironmentPosition</key>
+	<string>relationalSliderTop</string>
+	<key>segmentDespitePlatform</key>
+	<string>delicateAppbarSpacing</string>
+	<key>sizeKindName</key>
+	<string>drawerInterpreterVisibility</string>
+	<key>vectorDuringTask</key>
+	<string>adaptiveProtocolOffset</string>
+</dict>
+</plist>

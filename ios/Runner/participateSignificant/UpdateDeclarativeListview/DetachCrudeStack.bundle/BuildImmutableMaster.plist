@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAgainstSystem</key>
+	<string>stateOrProcess</string>
+	<key>compositionalBlocKind</key>
+	<string>grainWithoutPhase</string>
+	<key>decorationModeDelay</key>
+	<string>grainDuringFlyweight</string>
+	<key>delicateVariantMargin</key>
+	<string>usageAgainstTemple</string>
+	<key>iterativeCurveDepth</key>
+	<string>reactiveDurationIndex</string>
+	<key>previewExceptNumber</key>
+	<string>mediumFeatureStatus</string>
+	<key>queueDecoratorOpacity</key>
+	<string>directModulusKind</string>
+	<key>statefulThemeAlignment</key>
+	<string>textOfPhase</string>
+</dict>
+</plist>

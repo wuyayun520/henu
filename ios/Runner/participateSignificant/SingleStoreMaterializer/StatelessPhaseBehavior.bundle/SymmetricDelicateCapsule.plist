@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRequestLocation</key>
+	<string>spriteInterpreterIndex</string>
+	<key>composableViewValidation</key>
+	<string>graphUntilPattern</string>
+	<key>controllerThroughTier</key>
+	<string>compositionIncludeMethod</string>
+	<key>extensionChainCount</key>
+	<string>entityOutsideComposite</string>
+	<key>hardErrorAlignment</key>
+	<string>dropdownbuttonStagePressure</string>
+	<key>localGraphAppearance</key>
+	<string>textureOrChain</string>
+	<key>localProtocolTail</key>
+	<string>globalRouterBehavior</string>
+	<key>observerTaskDistance</key>
+	<string>remainderChainHue</string>
+	<key>scaffoldParamResponse</key>
+	<string>tabviewStyleIndex</string>
+	<key>secondNavigatorEdge</key>
+	<string>isolateMethodDensity</string>
+</dict>
+</plist>

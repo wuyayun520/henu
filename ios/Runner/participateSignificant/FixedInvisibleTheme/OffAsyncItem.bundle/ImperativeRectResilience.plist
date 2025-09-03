@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAtTask</key>
+	<string>themeTaskEdge</string>
+	<key>dependencyFunctionStyle</key>
+	<string>signWithoutBuffer</string>
+	<key>groupAmongBuffer</key>
+	<string>isolateThanFlyweight</string>
+	<key>layerContextTransparency</key>
+	<string>serviceFromFlyweight</string>
+	<key>rectCommandKind</key>
+	<string>fixedMatrixAcceleration</string>
+	<key>resizableAppbarValidation</key>
+	<string>effectAwayBridge</string>
+	<key>serviceOrMediator</key>
+	<string>commandPerBridge</string>
+	<key>shaderAgainstMemento</key>
+	<string>diversifiedAlignmentLocation</string>
+	<key>stateFromCommand</key>
+	<string>localizationOfSystem</string>
+</dict>
+</plist>

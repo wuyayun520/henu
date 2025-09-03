@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAlongMethod</key>
+	<string>bitrateAdapterSpacing</string>
+	<key>buttonFormSize</key>
+	<string>vectorOrStage</string>
+	<key>deferredMobileBehavior</key>
+	<string>tickerIncludeStrategy</string>
+	<key>firstCycleFlags</key>
+	<string>stampMediatorTag</string>
+	<key>metadataTierFormat</key>
+	<string>frameFormTransparency</string>
+	<key>pinchableServiceDepth</key>
+	<string>textfieldAsEnvironment</string>
+	<key>respectiveBrushBound</key>
+	<string>lostBufferMargin</string>
+	<key>subtleCurveRight</key>
+	<string>awaitUntilObserver</string>
+	<key>typicalTweenBrightness</key>
+	<string>routerFlyweightRight</string>
+	<key>webInkwellValidation</key>
+	<string>shaderKindStyle</string>
+</dict>
+</plist>

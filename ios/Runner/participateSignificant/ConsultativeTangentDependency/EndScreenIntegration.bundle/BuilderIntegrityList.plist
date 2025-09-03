@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsSystemVisibility</key>
+	<string>resolverThroughStyle</string>
+	<key>isolateTypeAcceleration</key>
+	<string>intuitiveGridAcceleration</string>
+	<key>keyReductionBottom</key>
+	<string>uniqueNavigatorState</string>
+	<key>mobileEffectTail</key>
+	<string>radiusFromChain</string>
+	<key>petMethodOpacity</key>
+	<string>substantialResultHue</string>
+	<key>spriteLayerVisibility</key>
+	<string>widgetWithoutProcess</string>
+	<key>staticProjectOrientation</key>
+	<string>commonNavigatorTag</string>
+	<key>tweenLevelOpacity</key>
+	<string>mobxFromPrototype</string>
+</dict>
+</plist>

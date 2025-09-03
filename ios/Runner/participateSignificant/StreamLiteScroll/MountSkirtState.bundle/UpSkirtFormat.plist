@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFunctionDepth</key>
+	<string>certificateVersusBridge</string>
+	<key>commandSinceVar</key>
+	<string>firstDecorationTheme</string>
+	<key>dedicatedTouchBehavior</key>
+	<string>denseIsolateVisible</string>
+	<key>segueFormMargin</key>
+	<string>blocPerJob</string>
+</dict>
+</plist>

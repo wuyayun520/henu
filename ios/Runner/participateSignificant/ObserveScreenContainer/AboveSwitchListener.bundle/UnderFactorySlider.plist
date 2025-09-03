@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentParamType</key>
+	<string>baselineBridgeMode</string>
+	<key>characterPatternAlignment</key>
+	<string>resilientQueryMode</string>
+	<key>sophisticatedInjectionAlignment</key>
+	<string>workflowOrBridge</string>
+</dict>
+</plist>

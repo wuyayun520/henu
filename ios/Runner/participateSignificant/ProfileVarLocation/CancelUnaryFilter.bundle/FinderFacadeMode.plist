@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionStyleFormat</key>
+	<string>textShapeAlignment</string>
+	<key>methodActivityBehavior</key>
+	<string>mobilePlatformResponse</string>
+	<key>primaryButtonVelocity</key>
+	<string>presenterPatternFrequency</string>
+	<key>relationalFramePosition</key>
+	<string>localizationAwayStrategy</string>
+	<key>routeDespiteDecorator</key>
+	<string>channelTempleFormat</string>
+	<key>sinkAtActivity</key>
+	<string>resolverCommandScale</string>
+	<key>spineBridgeColor</key>
+	<string>pinchableTextShade</string>
+	<key>spriteBufferDirection</key>
+	<string>descriptorSincePrototype</string>
+	<key>taskContainTier</key>
+	<string>statelessGemCount</string>
+	<key>textureActionAppearance</key>
+	<string>singleGridBound</string>
+</dict>
+</plist>

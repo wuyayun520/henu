@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRouterBehavior</key>
+	<string>viewNearContext</string>
+	<key>customizedAllocatorOffset</key>
+	<string>aspectFacadeLeft</string>
+	<key>displayableNibShape</key>
+	<string>layerPhaseDelay</string>
+	<key>particleAgainstPhase</key>
+	<string>interactorAtTier</string>
+	<key>responseFlyweightRight</key>
+	<string>riverpodTaskMomentum</string>
+	<key>skirtInsideOperation</key>
+	<string>resolverAwaySingleton</string>
+	<key>tickerStateStatus</key>
+	<string>lazySkinDirection</string>
+</dict>
+</plist>

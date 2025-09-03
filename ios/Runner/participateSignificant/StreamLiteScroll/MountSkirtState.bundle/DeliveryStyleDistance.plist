@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAsTask</key>
+	<string>aspectLikeObserver</string>
+	<key>inheritedSliderVelocity</key>
+	<string>unsortedGesturedetectorShade</string>
+	<key>lostConstraintOpacity</key>
+	<string>cartesianScrollFormat</string>
+	<key>roleStageOffset</key>
+	<string>lazySineLocation</string>
+	<key>tickerObserverDuration</key>
+	<string>curveAwayInterpreter</string>
+	<key>transitionCompositeRight</key>
+	<string>aspectratioDuringMethod</string>
+	<key>unsortedEquipmentScale</key>
+	<string>adaptiveResponseRate</string>
+</dict>
+</plist>

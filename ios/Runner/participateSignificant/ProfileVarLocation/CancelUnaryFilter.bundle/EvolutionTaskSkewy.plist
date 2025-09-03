@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMenuDuration</key>
+	<string>lastRemainderTop</string>
+	<key>certificateProcessRotation</key>
+	<string>precisionWithForm</string>
+	<key>normDecoratorAppearance</key>
+	<string>retainedBaseTransparency</string>
+	<key>parallelCaptionAlignment</key>
+	<string>clipperVariableRate</string>
+	<key>rowSystemEdge</key>
+	<string>sortedScrollFrequency</string>
+	<key>timerContextTail</key>
+	<string>transformerActivityRate</string>
+	<key>unaryLikeState</key>
+	<string>activeGemSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperDecoratorInterval</key>
+	<string>oldAwaitHue</string>
+	<key>layoutVersusCommand</key>
+	<string>durationVersusLevel</string>
+	<key>sharedPlateScale</key>
+	<string>agileIconFormat</string>
+	<key>temporaryTextureVelocity</key>
+	<string>activityDuringBuffer</string>
+	<key>uniqueTextureTint</key>
+	<string>dependencyVisitorRight</string>
+</dict>
+</plist>

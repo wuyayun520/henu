@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesOutsideSingleton</key>
+	<string>skinParamTop</string>
+	<key>completionBesideProcess</key>
+	<string>petStrategyTail</string>
+	<key>decorationStateHue</key>
+	<string>metadataAlongTask</string>
+	<key>interactorCycleStyle</key>
+	<string>disparateChecklistRight</string>
+	<key>modalOperationLocation</key>
+	<string>opaqueAnchorSaturation</string>
+	<key>progressbarBesideValue</key>
+	<string>themeFacadeShade</string>
+</dict>
+</plist>

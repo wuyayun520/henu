@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitSystemDirection</key>
+	<string>discardedAlignmentPressure</string>
+	<key>eventModeOffset</key>
+	<string>significantCurveContrast</string>
+	<key>largeNodeCount</key>
+	<string>transformerAndPlatform</string>
+	<key>lossWithNumber</key>
+	<string>featureAlongCycle</string>
+	<key>multiplicationFrameworkInterval</key>
+	<string>primaryContainerForce</string>
+	<key>publicSwitchFrequency</key>
+	<string>integerOperationMargin</string>
+	<key>specifyRequestSkewy</key>
+	<string>responseFunctionFormat</string>
+	<key>symbolNearMode</key>
+	<string>concurrentTickerVelocity</string>
+	<key>taskOutsidePlatform</key>
+	<string>checkboxFunctionTag</string>
+</dict>
+</plist>

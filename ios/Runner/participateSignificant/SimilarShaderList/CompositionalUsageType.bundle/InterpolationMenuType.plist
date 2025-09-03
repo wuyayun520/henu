@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionVarRotation</key>
+	<string>viewPatternMomentum</string>
+	<key>fixedScaffoldFeedback</key>
+	<string>navigatorAndState</string>
+	<key>navigatorBufferSpacing</key>
+	<string>managerTypeDistance</string>
+	<key>radiusAgainstNumber</key>
+	<string>euclideanNavigatorContrast</string>
+	<key>sessionAtAdapter</key>
+	<string>unsortedTransformerSkewy</string>
+	<key>subscriptionKindSize</key>
+	<string>smartServicePadding</string>
+	<key>transitionStrategyInset</key>
+	<string>uniqueScaffoldMargin</string>
+</dict>
+</plist>

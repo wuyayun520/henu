@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioNumberFormat</key>
+	<string>spriteContextInset</string>
+	<key>invisibleLayoutBehavior</key>
+	<string>interfaceUntilFacade</string>
+	<key>observerAndProcess</key>
+	<string>rectShapeTheme</string>
+	<key>sliderScopeVisibility</key>
+	<string>chartProxyLeft</string>
+	<key>stackAroundValue</key>
+	<string>descriptionSingletonHead</string>
+	<key>subscriptionObserverPosition</key>
+	<string>stateContainJob</string>
+</dict>
+</plist>

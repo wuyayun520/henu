@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAgainstProcess</key>
+	<string>batchOrPhase</string>
+	<key>fragmentBesideMode</key>
+	<string>cubeThroughScope</string>
+	<key>metadataBeyondFacade</key>
+	<string>mobileFromMode</string>
+	<key>originalAlertPadding</key>
+	<string>cartesianQueryVisible</string>
+	<key>pinchableProviderStyle</key>
+	<string>constStreamDuration</string>
+	<key>threadAsFramework</key>
+	<string>iconPerPlatform</string>
+</dict>
+</plist>

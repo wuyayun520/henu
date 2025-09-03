@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeServiceFeedback</key>
+	<string>agileStreamDirection</string>
+	<key>independentReferenceFlags</key>
+	<string>hardMovementDistance</string>
+	<key>requestBufferValidation</key>
+	<string>advancedRouteInteraction</string>
+	<key>requiredHandlerDirection</key>
+	<string>sineAroundVisitor</string>
+	<key>requiredListviewContrast</key>
+	<string>containerAwayTask</string>
+	<key>semanticIconShape</key>
+	<string>fusedGateTheme</string>
+</dict>
+</plist>

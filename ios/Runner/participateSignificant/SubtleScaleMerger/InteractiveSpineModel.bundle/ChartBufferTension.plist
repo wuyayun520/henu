@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFormTheme</key>
+	<string>intermediateOverlayFeedback</string>
+	<key>boxshadowScopeBorder</key>
+	<string>animationScopeBottom</string>
+	<key>delegateVariableOrigin</key>
+	<string>interactiveMovementOrigin</string>
+	<key>drawerEnvironmentKind</key>
+	<string>callbackTypeTop</string>
+	<key>errorEnvironmentFeedback</key>
+	<string>delicateFutureEdge</string>
+	<key>eventFromVar</key>
+	<string>callbackAdapterOrientation</string>
+	<key>listenerKindBorder</key>
+	<string>statelessGesturedetectorShade</string>
+	<key>primaryDurationDensity</key>
+	<string>metadataAroundWork</string>
+</dict>
+</plist>

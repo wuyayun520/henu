@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveContainerPressure</key>
+	<string>cardBeyondMode</string>
+	<key>asyncCommandOrientation</key>
+	<string>statefulTitlePressure</string>
+	<key>beginnerProviderResponse</key>
+	<string>temporaryBufferSpacing</string>
+	<key>containerOperationTint</key>
+	<string>sceneLikeSingleton</string>
+	<key>dedicatedSubscriptionSpeed</key>
+	<string>matrixVisitorResponse</string>
+	<key>materialReducerEdge</key>
+	<string>grainWithoutMethod</string>
+	<key>nativeContainerForce</key>
+	<string>materialExceptLevel</string>
+	<key>sharedRouteBorder</key>
+	<string>tickerInFlyweight</string>
+	<key>spotExceptParameter</key>
+	<string>cubitAwayJob</string>
+</dict>
+</plist>

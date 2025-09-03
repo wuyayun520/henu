@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCardTransparency</key>
+	<string>repositoryByStrategy</string>
+	<key>elasticViewDistance</key>
+	<string>unaryContainOperation</string>
+	<key>interfaceWorkScale</key>
+	<string>basicEffectEdge</string>
+	<key>nibTierMode</key>
+	<string>accordionResourceOpacity</string>
+	<key>pageviewFormInterval</key>
+	<string>descriptionBeyondCycle</string>
+	<key>pinchableIntensityBehavior</key>
+	<string>reducerLikeAction</string>
+	<key>textureShapePosition</key>
+	<string>characterThanParam</string>
+</dict>
+</plist>

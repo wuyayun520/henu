@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePatternBehavior</key>
+	<string>plateAwayStyle</string>
+	<key>constChecklistInterval</key>
+	<string>missionForWork</string>
+	<key>operationOrStructure</key>
+	<string>taskIncludeActivity</string>
+	<key>progressbarNumberContrast</key>
+	<string>ignoredLabelSkewy</string>
+	<key>resolverFormType</key>
+	<string>errorLayerEdge</string>
+	<key>rowWorkSize</key>
+	<string>keyAwaitMargin</string>
+	<key>signatureAwayMemento</key>
+	<string>queryBeyondFlyweight</string>
+	<key>uniformFutureTail</key>
+	<string>sineContainFunction</string>
+</dict>
+</plist>

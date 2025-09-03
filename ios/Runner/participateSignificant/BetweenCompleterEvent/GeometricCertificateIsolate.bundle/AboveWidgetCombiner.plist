@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBuilderForce</key>
+	<string>cupertinoNearStyle</string>
+	<key>beginnerEffectDensity</key>
+	<string>transitionOutsideVariable</string>
+	<key>displayableGateFormat</key>
+	<string>mediaLevelRotation</string>
+	<key>graphViaPhase</key>
+	<string>secondTitleVisible</string>
+	<key>nodeAroundPlatform</key>
+	<string>repositoryTaskPadding</string>
+	<key>sortedViewDistance</key>
+	<string>usedSignatureDelay</string>
+	<key>titleExceptSingleton</key>
+	<string>zoneVisitorShape</string>
+	<key>workflowVisitorVisible</key>
+	<string>utilAlongTier</string>
+</dict>
+</plist>

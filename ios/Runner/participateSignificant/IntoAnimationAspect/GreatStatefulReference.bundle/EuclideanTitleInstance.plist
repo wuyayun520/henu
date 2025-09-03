@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisBesideValue</key>
+	<string>futureVisitorStatus</string>
+	<key>criticalAssetDelay</key>
+	<string>batchWithMemento</string>
+	<key>layoutBridgeTail</key>
+	<string>menuInContext</string>
+	<key>mutableCubitTail</key>
+	<string>factoryInFunction</string>
+	<key>promisePatternFormat</key>
+	<string>tabviewEnvironmentDepth</string>
+</dict>
+</plist>

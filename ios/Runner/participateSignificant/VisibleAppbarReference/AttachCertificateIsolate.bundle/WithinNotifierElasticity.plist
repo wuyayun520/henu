@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionStyleAlignment</key>
+	<string>scrollWithoutParam</string>
+	<key>handlerExceptProcess</key>
+	<string>liteStateMode</string>
+	<key>localizationPatternOrientation</key>
+	<string>transitionOfLevel</string>
+	<key>originalOptionType</key>
+	<string>custompaintVisitorCoord</string>
+	<key>publicResponseDirection</key>
+	<string>errorAndChain</string>
+	<key>resizableStepDistance</key>
+	<string>constraintThroughEnvironment</string>
+</dict>
+</plist>

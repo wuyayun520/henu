@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBeyondCycle</key>
+	<string>visibleDropdownbuttonBottom</string>
+	<key>axisStyleLocation</key>
+	<string>controllerStageFlags</string>
+	<key>persistentGetxTension</key>
+	<string>localNavigationVisibility</string>
+	<key>sharedTextTint</key>
+	<string>delegateTaskVisibility</string>
+	<key>sliderCycleOpacity</key>
+	<string>taskAdapterScale</string>
+</dict>
+</plist>

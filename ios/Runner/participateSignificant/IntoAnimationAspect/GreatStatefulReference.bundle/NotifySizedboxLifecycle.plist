@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOperationRotation</key>
+	<string>normalResultSaturation</string>
+	<key>indicatorTierBorder</key>
+	<string>coordinatorAsBridge</string>
+	<key>interfaceFacadeTop</key>
+	<string>resourceContainParameter</string>
+	<key>methodOrProcess</key>
+	<string>firstCheckboxRight</string>
+	<key>progressbarActionResponse</key>
+	<string>priorTransformerDuration</string>
+	<key>queueAwayLevel</key>
+	<string>inheritedZoneShade</string>
+	<key>specifierAsFramework</key>
+	<string>unsortedRolePosition</string>
+	<key>stepAndVar</key>
+	<string>globalColumnFeedback</string>
+	<key>storeStateLeft</key>
+	<string>inheritedInterfaceFormat</string>
+</dict>
+</plist>

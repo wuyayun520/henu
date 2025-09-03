@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPriorityDistance</key>
+	<string>eventUntilSingleton</string>
+	<key>builderSystemBehavior</key>
+	<string>custompaintTierVisibility</string>
+	<key>flexibleSizeRate</key>
+	<string>characterPerLayer</string>
+	<key>gestureDecoratorSaturation</key>
+	<string>criticalIconMode</string>
+	<key>indicatorDespiteAction</key>
+	<string>animationPhaseTension</string>
+	<key>lossActivityCenter</key>
+	<string>chartAlongJob</string>
+	<key>stampMementoSkewy</key>
+	<string>otherRouteOffset</string>
+	<key>uniformReferenceDistance</key>
+	<string>scaffoldOfMemento</string>
+	<key>usecaseThroughPrototype</key>
+	<string>projectionBeyondLayer</string>
+</dict>
+</plist>

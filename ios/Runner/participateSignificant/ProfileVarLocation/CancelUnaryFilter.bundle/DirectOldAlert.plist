@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCardSize</key>
+	<string>unaryFormValidation</string>
+	<key>resultByCommand</key>
+	<string>staticBinarySpeed</string>
+	<key>variantOperationRate</key>
+	<string>commonCommandRotation</string>
+</dict>
+</plist>

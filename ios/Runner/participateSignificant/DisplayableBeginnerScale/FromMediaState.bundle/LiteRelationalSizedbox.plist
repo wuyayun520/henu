@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAtParam</key>
+	<string>curveWithParameter</string>
+	<key>independentCanvasForce</key>
+	<string>compositionalExpandedMode</string>
+	<key>listenerFacadeRotation</key>
+	<string>tableTemplePadding</string>
+	<key>robustSlashInteraction</key>
+	<string>tappableNavigationInteraction</string>
+	<key>specifierWithMethod</key>
+	<string>draggableSwiftRotation</string>
+	<key>swiftProcessPosition</key>
+	<string>graphViaVariable</string>
+</dict>
+</plist>

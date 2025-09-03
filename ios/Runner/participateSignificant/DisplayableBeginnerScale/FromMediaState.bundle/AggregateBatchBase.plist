@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityLevelTint</key>
+	<string>pointFromLevel</string>
+	<key>curveInChain</key>
+	<string>scrollableUsageSize</string>
+	<key>instructionThanActivity</key>
+	<string>sinkStateVisibility</string>
+	<key>kernelIncludeState</key>
+	<string>desktopSceneTension</string>
+	<key>priorityMementoMode</key>
+	<string>previewTierDistance</string>
+	<key>providerPhaseFeedback</key>
+	<string>accordionRouteDuration</string>
+	<key>resourceBesideSingleton</key>
+	<string>riverpodFrameworkResponse</string>
+	<key>stateOfFacade</key>
+	<string>interactiveServiceTint</string>
+</dict>
+</plist>

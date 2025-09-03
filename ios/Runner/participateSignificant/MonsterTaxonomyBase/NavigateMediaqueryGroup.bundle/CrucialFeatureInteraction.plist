@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFlexState</key>
+	<string>mediaAwayType</string>
+	<key>agileGestureSkewx</key>
+	<string>newestLocalizationSize</string>
+	<key>anchorMediatorScale</key>
+	<string>movementValueAcceleration</string>
+	<key>composableFutureInterval</key>
+	<string>alignmentAsKind</string>
+	<key>mediaqueryOutsideProxy</key>
+	<string>spotFunctionVisibility</string>
+	<key>navigationProxyAcceleration</key>
+	<string>aspectJobSize</string>
+	<key>repositoryThroughDecorator</key>
+	<string>layoutAsParameter</string>
+	<key>resourceViaStrategy</key>
+	<string>providerMediatorBehavior</string>
+	<key>subpixelLevelPressure</key>
+	<string>greatTextfieldPadding</string>
+</dict>
+</plist>

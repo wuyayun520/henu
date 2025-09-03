@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxVarSize</key>
+	<string>transformerFromVariable</string>
+	<key>coordinatorFromAction</key>
+	<string>timerIncludeInterpreter</string>
+	<key>ignoredLoopTint</key>
+	<string>rowScopeName</string>
+	<key>listviewAsSingleton</key>
+	<string>resilientCoordinatorValidation</string>
+	<key>widgetObserverDistance</key>
+	<string>gesturedetectorParameterFlags</string>
+</dict>
+</plist>

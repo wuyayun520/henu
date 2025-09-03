@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCompositeBehavior</key>
+	<string>sampleFormCenter</string>
+	<key>cubitVariableOrientation</key>
+	<string>effectAndContext</string>
+	<key>eventScopeHue</key>
+	<string>firstTextMargin</string>
+	<key>secondOptionVisible</key>
+	<string>matrixAlongPlatform</string>
+	<key>shaderThanSystem</key>
+	<string>responseExceptMode</string>
+	<key>sortedSinkResponse</key>
+	<string>nativeChannelRotation</string>
+	<key>statelessRequestAcceleration</key>
+	<string>exceptionByTask</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCommandLocation</key>
+	<string>pivotalWidgetSaturation</string>
+	<key>drawerTaskSkewx</key>
+	<string>navigatorDecoratorTop</string>
+	<key>histogramAboutAction</key>
+	<string>buttonExceptFlyweight</string>
+	<key>localizationIncludeMode</key>
+	<string>mutableSkinTail</string>
+	<key>lostModalForce</key>
+	<string>transitionByStrategy</string>
+	<key>projectByFunction</key>
+	<string>resultFormDistance</string>
+	<key>techniqueValueDistance</key>
+	<string>futureWithActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringVisitor</key>
+	<string>presenterViaVariable</string>
+	<key>buttonJobTransparency</key>
+	<string>factoryThroughPattern</string>
+	<key>contractionActionAlignment</key>
+	<string>parallelRadioOrientation</string>
+	<key>contractionContainForm</key>
+	<string>gridviewVersusInterpreter</string>
+	<key>descriptionFlyweightBrightness</key>
+	<string>subtleRichtextFlags</string>
+	<key>hyperbolicHistogramScale</key>
+	<string>menuMethodAlignment</string>
+	<key>layoutShapeInterval</key>
+	<string>taskWithPhase</string>
+	<key>localizationInNumber</key>
+	<string>navigationInTask</string>
+</dict>
+</plist>

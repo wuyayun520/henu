@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScopeAppearance</key>
+	<string>oldGroupColor</string>
+	<key>heapViaStructure</key>
+	<string>associatedGrayscaleFormat</string>
+	<key>hyperbolicStateColor</key>
+	<string>originalRiverpodStyle</string>
+	<key>menuScopeHead</key>
+	<string>overlayParamKind</string>
+	<key>operationStateRotation</key>
+	<string>sliderParamOffset</string>
+	<key>spriteParameterLeft</key>
+	<string>completerContextVisible</string>
+	<key>stateUntilChain</key>
+	<string>columnBeyondTask</string>
+</dict>
+</plist>

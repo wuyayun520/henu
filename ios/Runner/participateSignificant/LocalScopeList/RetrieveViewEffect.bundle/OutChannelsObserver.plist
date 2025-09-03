@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOutsideJob</key>
+	<string>imageForProxy</string>
+	<key>gestureViaVar</key>
+	<string>semanticsPatternCount</string>
+	<key>modelVariableSkewy</key>
+	<string>denseRouteDuration</string>
+	<key>popupExceptPattern</key>
+	<string>uniqueTransformerFrequency</string>
+	<key>robustMultiplicationSaturation</key>
+	<string>cellSinceCommand</string>
+	<key>signatureBufferPosition</key>
+	<string>activeEntityScale</string>
+	<key>statelessFromVisitor</key>
+	<string>pinchableSingletonState</string>
+	<key>storeThroughOperation</key>
+	<string>heroViaCommand</string>
+	<key>vectorFacadePressure</key>
+	<string>animatedTransitionScale</string>
+</dict>
+</plist>

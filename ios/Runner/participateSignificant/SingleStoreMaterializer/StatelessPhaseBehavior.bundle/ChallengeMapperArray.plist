@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseImageEdge</key>
+	<string>directlyShaderBehavior</string>
+	<key>functionalBatchAcceleration</key>
+	<string>particleByCommand</string>
+	<key>indicatorWithFacade</key>
+	<string>clipperOrTier</string>
+	<key>injectionScopeTail</key>
+	<string>immutableListviewHue</string>
+	<key>interactiveLabelDirection</key>
+	<string>storyboardMethodSpacing</string>
+	<key>resilientBlocSpacing</key>
+	<string>intuitiveOptimizerSpeed</string>
+	<key>semanticsParamIndex</key>
+	<string>reducerLevelValidation</string>
+	<key>subsequentRepositoryInteraction</key>
+	<string>smartModelTop</string>
+	<key>uniqueProgressbarScale</key>
+	<string>canvasSingletonResponse</string>
+</dict>
+</plist>

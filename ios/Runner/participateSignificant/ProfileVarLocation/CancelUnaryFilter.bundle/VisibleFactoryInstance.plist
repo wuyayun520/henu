@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBeyondBridge</key>
+	<string>relationalCardBorder</string>
+	<key>basicModelFormat</key>
+	<string>basicQueryPressure</string>
+	<key>completerViaStyle</key>
+	<string>capsuleStrategyBehavior</string>
+	<key>prismaticViewOpacity</key>
+	<string>dimensionFromFlyweight</string>
+	<key>scrollableRouteTop</key>
+	<string>variantMementoTail</string>
+	<key>usageAndFlyweight</key>
+	<string>publicCoordinatorDirection</string>
+</dict>
+</plist>

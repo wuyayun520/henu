@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationActionShade</key>
+	<string>criticalLabelCount</string>
+	<key>gemInSingleton</key>
+	<string>rowInterpreterRotation</string>
+	<key>ignoredButtonLeft</key>
+	<string>viewFacadeAppearance</string>
+	<key>ignoredCompleterInterval</key>
+	<string>controllerMementoBrightness</string>
+	<key>specifyCallbackDirection</key>
+	<string>cursorInsideFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByPhase</key>
+	<string>imageNearParam</string>
+	<key>coordinatorOutsideStage</key>
+	<string>advancedSignatureTop</string>
+	<key>cubitAndPlatform</key>
+	<string>staticTaskType</string>
+	<key>customChecklistDirection</key>
+	<string>alphaAroundValue</string>
+	<key>nibTaskValidation</key>
+	<string>euclideanGesturedetectorStatus</string>
+	<key>oldAppbarCenter</key>
+	<string>textureAlongVar</string>
+	<key>semanticServiceInset</key>
+	<string>mapOrMediator</string>
+	<key>semanticSpriteBottom</key>
+	<string>modelAlongAdapter</string>
+	<key>stampWorkStatus</key>
+	<string>fusedNotificationBound</string>
+</dict>
+</plist>

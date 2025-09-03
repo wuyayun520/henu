@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPerPhase</key>
+	<string>taskPhaseShade</string>
+	<key>batchDuringMethod</key>
+	<string>sensorStyleSkewx</string>
+	<key>currentCellShape</key>
+	<string>gesturedetectorObserverMode</string>
+	<key>indicatorVersusMemento</key>
+	<string>projectionMementoBound</string>
+	<key>resourceFunctionStatus</key>
+	<string>futureChainCenter</string>
+	<key>semanticVectorTransparency</key>
+	<string>channelModeFrequency</string>
+</dict>
+</plist>

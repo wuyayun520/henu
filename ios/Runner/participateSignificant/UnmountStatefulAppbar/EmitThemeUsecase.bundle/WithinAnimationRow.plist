@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAsPrototype</key>
+	<string>notificationVarOrientation</string>
+	<key>eventStyleInset</key>
+	<string>unactivatedDescriptorBehavior</string>
+	<key>intensityProcessFlags</key>
+	<string>skinPerState</string>
+	<key>marginAtComposite</key>
+	<string>radiusOfOperation</string>
+	<key>navigatorCommandSize</key>
+	<string>switchTempleInset</string>
+	<key>prismaticSwitchDirection</key>
+	<string>missionPatternOrientation</string>
+	<key>titleOrBridge</key>
+	<string>resolverShapeResponse</string>
+	<key>toolChainTail</key>
+	<string>textWithStrategy</string>
+</dict>
+</plist>

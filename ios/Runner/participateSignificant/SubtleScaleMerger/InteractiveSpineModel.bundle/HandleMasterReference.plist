@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionContainPlatform</key>
+	<string>managerFromEnvironment</string>
+	<key>dependencyThroughStyle</key>
+	<string>associatedTitleResponse</string>
+	<key>dimensionVersusMode</key>
+	<string>desktopGridState</string>
+	<key>featureLikeAction</key>
+	<string>channelProcessRate</string>
+	<key>frameAlongJob</key>
+	<string>arithmeticResolverStyle</string>
+	<key>rowAgainstVariable</key>
+	<string>smallIconBrightness</string>
+	<key>singletonWorkInterval</key>
+	<string>blocExceptObserver</string>
+</dict>
+</plist>

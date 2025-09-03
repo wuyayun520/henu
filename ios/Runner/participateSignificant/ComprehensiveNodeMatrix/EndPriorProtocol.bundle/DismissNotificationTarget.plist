@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAdapterFormat</key>
+	<string>customizedIsolateVelocity</string>
+	<key>arithmeticOutsideVar</key>
+	<string>listenerAdapterScale</string>
+	<key>bufferMethodIndex</key>
+	<string>coordinatorForComposite</string>
+	<key>controllerValueBound</key>
+	<string>relationalAllocatorFormat</string>
+	<key>coordinatorBeyondChain</key>
+	<string>optimizerVariableCoord</string>
+	<key>inactiveTextSpeed</key>
+	<string>requiredBoxshadowDirection</string>
+	<key>queueInsideAdapter</key>
+	<string>singletonTypeRight</string>
+	<key>reusableIntensityDelay</key>
+	<string>protectedProfilePadding</string>
+	<key>subscriptionActionPadding</key>
+	<string>adaptiveStepStyle</string>
+	<key>textBeyondNumber</key>
+	<string>notificationDespitePattern</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTaskStyle</key>
+	<string>signProcessVisible</string>
+	<key>independentSegmentMode</key>
+	<string>lazyCallbackShade</string>
+	<key>notifierPerObserver</key>
+	<string>batchKindInterval</string>
+	<key>opaqueBlocAcceleration</key>
+	<string>arithmeticActionDirection</string>
+	<key>otherFactoryResponse</key>
+	<string>cubeLayerLocation</string>
+	<key>pivotalLabelAlignment</key>
+	<string>cubeInsideVariable</string>
+	<key>timerTaskContrast</key>
+	<string>newestQueueSaturation</string>
+</dict>
+</plist>

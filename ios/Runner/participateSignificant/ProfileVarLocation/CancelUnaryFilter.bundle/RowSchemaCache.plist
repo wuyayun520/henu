@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorNumberOrientation</key>
+	<string>cardProxyVisibility</string>
+	<key>cubitCycleLeft</key>
+	<string>projectWorkCount</string>
+	<key>queueBufferKind</key>
+	<string>promisePerShape</string>
+	<key>spriteContainLayer</key>
+	<string>assetThanFlyweight</string>
+	<key>timerAsVar</key>
+	<string>sustainableApertureLocation</string>
+</dict>
+</plist>

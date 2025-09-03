@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeLocalizationValidation</key>
+	<string>statefulInPlatform</string>
+	<key>lastProtocolLocation</key>
+	<string>seamlessGrainLocation</string>
+	<key>requiredGrayscaleDepth</key>
+	<string>bitrateWithFlyweight</string>
+	<key>routeAlongChain</key>
+	<string>semanticsWorkSaturation</string>
+	<key>segueBesideStrategy</key>
+	<string>flexNearCycle</string>
+	<key>singletonAlongKind</key>
+	<string>missedUtilBound</string>
+	<key>transitionAsShape</key>
+	<string>modelCompositeVelocity</string>
+</dict>
+</plist>

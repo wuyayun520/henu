@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorBridgeAlignment</key>
+	<string>missionVersusPhase</string>
+	<key>durationAlongParameter</key>
+	<string>equalizationTaskRate</string>
+	<key>geometricAllocatorAcceleration</key>
+	<string>requiredMenuFeedback</string>
+	<key>mobxInterpreterState</key>
+	<string>protocolForAction</string>
+</dict>
+</plist>

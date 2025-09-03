@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAgainstStructure</key>
+	<string>vectorTaskFeedback</string>
+	<key>gateShapeBehavior</key>
+	<string>modalInsideLevel</string>
+	<key>handlerWithoutDecorator</key>
+	<string>persistentLabelRight</string>
+	<key>multiInkwellOffset</key>
+	<string>granularRowOrientation</string>
+</dict>
+</plist>

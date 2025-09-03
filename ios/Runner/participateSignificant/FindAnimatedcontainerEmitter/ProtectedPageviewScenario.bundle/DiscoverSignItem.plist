@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBlocFrequency</key>
+	<string>normalDescriptionTheme</string>
+	<key>fusedMediaVelocity</key>
+	<string>shaderAtAction</string>
+	<key>isolateStateVisibility</key>
+	<string>actionWorkContrast</string>
+	<key>symmetricStepPressure</key>
+	<string>appbarByAdapter</string>
+</dict>
+</plist>

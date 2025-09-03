@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringJob</key>
+	<string>animationExceptShape</string>
+	<key>iterativeLoopOrientation</key>
+	<string>captionScopeHue</string>
+	<key>sceneBufferBottom</key>
+	<string>singleTransformerOpacity</string>
+	<key>tangentBesideBuffer</key>
+	<string>segueActionRate</string>
+	<key>unsortedConvolutionTop</key>
+	<string>priorityPlatformDirection</string>
+</dict>
+</plist>

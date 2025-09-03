@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerChannelsInterval</key>
+	<string>imageAlongType</string>
+	<key>disabledLayerState</key>
+	<string>explicitMetadataFormat</string>
+	<key>labelEnvironmentCoord</key>
+	<string>directStatefulShade</string>
+	<key>permissiveEffectEdge</key>
+	<string>resizableMasterVisibility</string>
+	<key>threadValueAlignment</key>
+	<string>concreteGraphMode</string>
+</dict>
+</plist>

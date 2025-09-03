@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVariableDelay</key>
+	<string>adaptiveTickerDuration</string>
+	<key>constKernelType</key>
+	<string>constraintTaskOrientation</string>
+	<key>contractionActionOrigin</key>
+	<string>binaryInsideComposite</string>
+	<key>eventForStyle</key>
+	<string>modelIncludeEnvironment</string>
+	<key>parallelSceneState</key>
+	<string>lazyLocalizationSaturation</string>
+	<key>respectiveConstraintDirection</key>
+	<string>spinePlatformState</string>
+	<key>responsiveFutureKind</key>
+	<string>durationAlongParameter</string>
+	<key>skirtLevelAppearance</key>
+	<string>flexFunctionBound</string>
+	<key>stateIncludeChain</key>
+	<string>easyCapacitiesOpacity</string>
+</dict>
+</plist>

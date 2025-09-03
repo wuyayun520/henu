@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLocalizationBrightness</key>
+	<string>convolutionStrategySkewx</string>
+	<key>functionalLayoutSkewx</key>
+	<string>cubitShapeTheme</string>
+	<key>projectProxyBottom</key>
+	<string>routeUntilFacade</string>
+	<key>resolverLevelCount</key>
+	<string>lastRadiusCoord</string>
+	<key>singleResultDelay</key>
+	<string>subpixelInsidePlatform</string>
+</dict>
+</plist>

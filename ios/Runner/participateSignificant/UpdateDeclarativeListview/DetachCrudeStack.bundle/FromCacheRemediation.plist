@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeCoordinatorFlags</key>
+	<string>reducerByPhase</string>
+	<key>marginObserverMomentum</key>
+	<string>sceneTaskTop</string>
+	<key>mutablePlaybackTransparency</key>
+	<string>resizableRouteType</string>
+	<key>sceneFromActivity</key>
+	<string>protectedCompletionAcceleration</string>
+	<key>toolAmongComposite</key>
+	<string>symmetricStoryboardTail</string>
+</dict>
+</plist>

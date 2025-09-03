@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryProcessFormat</key>
+	<string>interactorPlatformPressure</string>
+	<key>chapterLevelSize</key>
+	<string>pinchableFutureForce</string>
+	<key>constraintBufferOpacity</key>
+	<string>transitionCommandInterval</string>
+	<key>dynamicQueryRight</key>
+	<string>controllerInValue</string>
+	<key>musicCycleInset</key>
+	<string>iterativeChannelStyle</string>
+	<key>sequentialFeatureTail</key>
+	<string>displayableIntensityOpacity</string>
+	<key>statelessStepBehavior</key>
+	<string>extensionAtProxy</string>
+	<key>temporaryChecklistVisibility</key>
+	<string>publicSliderStyle</string>
+	<key>unaryJobDistance</key>
+	<string>sinkTierSaturation</string>
+</dict>
+</plist>

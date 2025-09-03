@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNibStatus</key>
+	<string>publicTimerValidation</string>
+	<key>basePlatformSkewy</key>
+	<string>intuitiveAssetSkewy</string>
+	<key>commonDescriptionPadding</key>
+	<string>statefulOffsetLeft</string>
+	<key>monsterCycleDuration</key>
+	<string>interfaceIncludeStructure</string>
+	<key>playbackForBridge</key>
+	<string>animatedcontainerVersusMode</string>
+	<key>textureBeyondFacade</key>
+	<string>anchorEnvironmentPadding</string>
+</dict>
+</plist>

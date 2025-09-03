@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSpriteMargin</key>
+	<string>explicitInterfaceInteraction</string>
+	<key>buttonCommandFlags</key>
+	<string>containerWithSystem</string>
+	<key>delegateExceptMediator</key>
+	<string>scrollVariableColor</string>
+	<key>hyperbolicCallbackOrigin</key>
+	<string>containerIncludeAction</string>
+	<key>normalSineTransparency</key>
+	<string>nibForMode</string>
+	<key>progressbarAmongLayer</key>
+	<string>resourceVisitorTop</string>
+	<key>textChainForce</key>
+	<string>grainSingletonVelocity</string>
+	<key>usageObserverResponse</key>
+	<string>isolateFormSkewx</string>
+</dict>
+</plist>

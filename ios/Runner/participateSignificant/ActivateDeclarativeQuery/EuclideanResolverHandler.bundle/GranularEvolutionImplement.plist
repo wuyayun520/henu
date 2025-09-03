@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderActionPressure</key>
+	<string>singleSpriteRate</string>
+	<key>fragmentViaSystem</key>
+	<string>comprehensiveSizedboxSpacing</string>
+	<key>parallelCoordinatorHead</key>
+	<string>sizedboxSingletonBound</string>
+	<key>precisionAtVariable</key>
+	<string>variantShapeScale</string>
+	<key>responsiveAnimationRate</key>
+	<string>topicPhaseTransparency</string>
+	<key>seamlessCellBehavior</key>
+	<string>priorityAndMode</string>
+	<key>widgetWithFlyweight</key>
+	<string>methodAsTier</string>
+</dict>
+</plist>

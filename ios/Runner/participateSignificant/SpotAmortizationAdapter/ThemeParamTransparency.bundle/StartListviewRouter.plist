@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPresenterForce</key>
+	<string>futureLayerRight</string>
+	<key>immutablePopupEdge</key>
+	<string>robustEntropySaturation</string>
+	<key>lastSampleSpacing</key>
+	<string>lazyBorderFeedback</string>
+	<key>loopOfWork</key>
+	<string>callbackByStyle</string>
+	<key>projectVariableAppearance</key>
+	<string>tensorMapRotation</string>
+	<key>segueMethodVisibility</key>
+	<string>retainedCoordinatorInteraction</string>
+	<key>sequentialUnaryAppearance</key>
+	<string>zoneViaFramework</string>
+	<key>singletonNearPlatform</key>
+	<string>inactiveRowScale</string>
+</dict>
+</plist>

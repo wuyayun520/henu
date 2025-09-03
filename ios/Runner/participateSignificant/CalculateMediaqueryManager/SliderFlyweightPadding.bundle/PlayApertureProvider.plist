@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBatchSpacing</key>
+	<string>queryContainDecorator</string>
+	<key>basicCallbackFormat</key>
+	<string>reactiveCursorName</string>
+	<key>enabledCommandInterval</key>
+	<string>cardAboutOperation</string>
+	<key>gesturedetectorProcessTag</key>
+	<string>publicLossBound</string>
+	<key>prismaticMaterialValidation</key>
+	<string>granularPositionTheme</string>
+	<key>providerPhasePressure</key>
+	<string>responsiveMetadataPosition</string>
+	<key>serviceBeyondActivity</key>
+	<string>newestNavigatorLocation</string>
+	<key>textOfStage</key>
+	<string>uniformLayoutDirection</string>
+	<key>zoneExceptEnvironment</key>
+	<string>normalRoleShade</string>
+</dict>
+</plist>

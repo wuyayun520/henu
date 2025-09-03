@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCoordinatorStyle</key>
+	<string>methodInTier</string>
+	<key>firstInterpolationFeedback</key>
+	<string>sliderOrDecorator</string>
+	<key>gridObserverShape</key>
+	<string>navigatorThanSystem</string>
+	<key>nextPresenterSize</key>
+	<string>builderEnvironmentMode</string>
+	<key>pivotalAspectratioIndex</key>
+	<string>singletonStyleContrast</string>
+	<key>touchFacadeSkewx</key>
+	<string>lastMaterialFeedback</string>
+	<key>unactivatedNodeTheme</key>
+	<string>activatedStatelessTheme</string>
+</dict>
+</plist>

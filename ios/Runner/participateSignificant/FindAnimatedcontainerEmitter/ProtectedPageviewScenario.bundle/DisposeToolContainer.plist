@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerIncludePrototype</key>
+	<string>delegateStrategyType</string>
+	<key>dialogsThroughFacade</key>
+	<string>challengeOperationCount</string>
+	<key>draggableModalSpacing</key>
+	<string>asyncCustompaintScale</string>
+	<key>marginOutsideStyle</key>
+	<string>asyncCoordinatorInterval</string>
+	<key>newestTickerName</key>
+	<string>concurrentWidgetDepth</string>
+	<key>operationMediatorAppearance</key>
+	<string>cubitKindSpeed</string>
+	<key>optimizerViaChain</key>
+	<string>immutableChallengeTension</string>
+	<key>positionProcessTint</key>
+	<string>projectActionState</string>
+	<key>singletonPhaseCoord</key>
+	<string>largeMovementBrightness</string>
+	<key>vectorAsStrategy</key>
+	<string>missionFormHue</string>
+</dict>
+</plist>

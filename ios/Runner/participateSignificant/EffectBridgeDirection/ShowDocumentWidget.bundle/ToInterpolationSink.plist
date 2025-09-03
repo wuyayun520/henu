@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheIncludeMethod</key>
+	<string>agileStampVisibility</string>
+	<key>metadataPerChain</key>
+	<string>axisAmongLevel</string>
+	<key>missedFactoryInterval</key>
+	<string>signFromEnvironment</string>
+	<key>routeEnvironmentSpeed</key>
+	<string>sharedTickerCoord</string>
+	<key>shaderFrameworkSaturation</key>
+	<string>axisByContext</string>
+	<key>webBaselineMomentum</key>
+	<string>constraintJobBottom</string>
+</dict>
+</plist>

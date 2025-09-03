@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBeyondInterpreter</key>
+	<string>cellIncludeContext</string>
+	<key>histogramBridgeSpacing</key>
+	<string>managerChainSize</string>
+	<key>imperativeLogMode</key>
+	<string>directlyLayerAlignment</string>
+	<key>materialGraphBound</key>
+	<string>petFormMargin</string>
+	<key>particleBesideContext</key>
+	<string>backwardInterfaceShape</string>
+	<key>segmentStyleInteraction</key>
+	<string>inactiveWidgetSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeByShape</key>
+	<string>managerAsSingleton</string>
+	<key>deferredChecklistBorder</key>
+	<string>animationByBridge</string>
+	<key>dynamicDurationContrast</key>
+	<string>layerStrategyInset</string>
+	<key>grayscaleViaBridge</key>
+	<string>mediaqueryExceptEnvironment</string>
+	<key>hardCatalystSpeed</key>
+	<string>criticalControllerVelocity</string>
+	<key>hardTitleHue</key>
+	<string>notificationVarAlignment</string>
+	<key>mediocreStatelessTransparency</key>
+	<string>buttonSinceMemento</string>
+	<key>resultTierInterval</key>
+	<string>statefulBufferDelay</string>
+</dict>
+</plist>

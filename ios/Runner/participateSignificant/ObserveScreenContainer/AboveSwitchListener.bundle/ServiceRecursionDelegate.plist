@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionProxyAlignment</key>
+	<string>fixedAspectratioBound</string>
+	<key>requestLayerRotation</key>
+	<string>slashDuringMode</string>
+	<key>screenTempleBehavior</key>
+	<string>sliderProcessStyle</string>
+	<key>sophisticatedProviderScale</key>
+	<string>dialogsAwayMemento</string>
+</dict>
+</plist>

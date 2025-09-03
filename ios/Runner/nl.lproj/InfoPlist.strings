@@ -1,0 +1,13 @@
+"NSUserTrackingUsageDescription" = "Toegang tot apparaat-id informatie wordt gebruikt om uw accounttransacties te beveiligen en gepersonaliseerde advertentieservices te pushen";
+
+"NSPhotoLibraryUsageDescription" = "Bezoek het album voor foto's en update omslagfoto's.Als het verboden is, kan uw coverfoto niet worden bijgewerkt";
+
+"NSLocationWhenInUseUsageDescription" = "Als het tonen van gebruikers in de buurt is verboden, ga dan naar de locatie om gebruikers in de buurt te tonen";
+
+"NSCameraUsageDescription" = "Ga naar de camera om foto's te nemen en de cover foto's bij te werken.Als het verboden is, zal uw coverfoto niet worden bijgewerkt";
+
+"NSLocationAlwaysUsageDescription" = "Als het tonen van gebruikers in de buurt is verboden, ga dan naar de locatie om gebruikers in de buurt te tonen";
+
+"NSPhotoLibraryAddUsageDescription" = "Bezoek de fotobibliotheek om nieuwe foto's toe te voegen";
+
+"NSMicrophoneUsageDescription" = "Met behulp van een microfoon om audio-informatie op te nemen, zal de audio niet worden opgenomen en verzonden als het is verboden";

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineInInterpreter</key>
+	<string>immediateCellEdge</string>
+	<key>factoryNearActivity</key>
+	<string>unsortedSliderSpeed</string>
+	<key>fusedFactoryTheme</key>
+	<string>canvasPhaseAlignment</string>
+	<key>groupNumberFlags</key>
+	<string>cardCompositeLocation</string>
+	<key>metadataBeyondComposite</key>
+	<string>semanticFactoryInterval</string>
+	<key>routePhaseScale</key>
+	<string>promiseFrameworkFlags</string>
+	<key>sinkDuringPhase</key>
+	<string>prevFrameTheme</string>
+	<key>subtleSubpixelTheme</key>
+	<string>reactiveLocalizationName</string>
+	<key>textfieldValueOrigin</key>
+	<string>hyperbolicScaffoldBorder</string>
+</dict>
+</plist>

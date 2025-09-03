@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoArithmeticKind</key>
+	<string>pivotalEquipmentBound</string>
+	<key>constraintObserverState</key>
+	<string>graphicLayerKind</string>
+	<key>draggableProviderOffset</key>
+	<string>fixedSwiftOrigin</string>
+	<key>labelStageVisibility</key>
+	<string>characterTaskDepth</string>
+	<key>resilientManagerOpacity</key>
+	<string>basicAlertBottom</string>
+	<key>responseAgainstVariable</key>
+	<string>progressbarAgainstPrototype</string>
+	<key>widgetShapeInterval</key>
+	<string>cardStateTop</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLabelFrequency</key>
+	<string>inactiveEqualizationTheme</string>
+	<key>descriptionExceptPhase</key>
+	<string>newestMaterialHead</string>
+	<key>desktopCallbackDuration</key>
+	<string>animatedcontainerAndAction</string>
+	<key>effectActivityStatus</key>
+	<string>layoutInterpreterRate</string>
+	<key>radiusFromProxy</key>
+	<string>skirtProcessSpacing</string>
+</dict>
+</plist>

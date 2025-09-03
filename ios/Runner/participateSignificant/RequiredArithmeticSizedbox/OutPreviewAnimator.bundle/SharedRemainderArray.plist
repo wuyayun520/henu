@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticParameterInterval</key>
+	<string>entityBeyondLayer</string>
+	<key>asyncNearStage</key>
+	<string>globalModelStyle</string>
+	<key>directlyCubitVisible</key>
+	<string>largeTabviewTop</string>
+	<key>modelVarBehavior</key>
+	<string>protectedAlignmentVisibility</string>
+</dict>
+</plist>

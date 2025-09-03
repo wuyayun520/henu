@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPatternTransparency</key>
+	<string>hierarchicalCheckboxSkewy</string>
+	<key>gramPatternTag</key>
+	<string>bufferThroughFunction</string>
+	<key>listenerNumberFormat</key>
+	<string>builderBufferBound</string>
+	<key>lostCommandSize</key>
+	<string>uniqueEntityForce</string>
+	<key>managerFormTransparency</key>
+	<string>positionAwayObserver</string>
+	<key>repositoryAboutActivity</key>
+	<string>interactorCycleDirection</string>
+</dict>
+</plist>

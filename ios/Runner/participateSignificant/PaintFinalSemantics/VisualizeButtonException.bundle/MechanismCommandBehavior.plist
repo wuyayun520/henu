@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelExtensionBehavior</key>
+	<string>respectiveNodeTag</string>
+	<key>responsiveIntensityBound</key>
+	<string>observerThroughShape</string>
+	<key>symbolAmongStrategy</key>
+	<string>lazyChallengeDensity</string>
+	<key>synchronousSpecifierPressure</key>
+	<string>layoutOrChain</string>
+	<key>techniqueMementoSkewy</key>
+	<string>modalJobPadding</string>
+	<key>temporaryInteractorShade</key>
+	<string>accessiblePageviewBrightness</string>
+</dict>
+</plist>

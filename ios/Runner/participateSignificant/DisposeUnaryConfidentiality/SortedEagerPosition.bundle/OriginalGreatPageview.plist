@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRoleRotation</key>
+	<string>backwardCustompaintMode</string>
+	<key>buttonFunctionVisible</key>
+	<string>autoCallbackCenter</string>
+	<key>curveStageFeedback</key>
+	<string>specifierForBuffer</string>
+	<key>delegateCompositeShade</key>
+	<string>tickerAgainstInterpreter</string>
+	<key>draggableScrollValidation</key>
+	<string>resolverParamCenter</string>
+	<key>missedTweenDensity</key>
+	<string>dependencyContainFacade</string>
+	<key>permissiveIndicatorPosition</key>
+	<string>imperativeGrainSpeed</string>
+	<key>robustInjectionPressure</key>
+	<string>reusableOperationSpacing</string>
+</dict>
+</plist>

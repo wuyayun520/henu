@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveCubitSkewx</key>
+	<string>cartesianManagerTag</string>
+	<key>originalReductionMode</key>
+	<string>interfaceAsComposite</string>
+	<key>sortedFrameOpacity</key>
+	<string>routerPerPhase</string>
+	<key>stampContextSkewx</key>
+	<string>resizableParticleOrientation</string>
+	<key>tangentPatternMode</key>
+	<string>scaffoldActionState</string>
+</dict>
+</plist>

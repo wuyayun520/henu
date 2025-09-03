@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOperationBound</key>
+	<string>immutableDecorationVelocity</string>
+	<key>featureEnvironmentPressure</key>
+	<string>referenceCycleDelay</string>
+	<key>priorityAmongProcess</key>
+	<string>presenterActionDirection</string>
+	<key>requestLayerDuration</key>
+	<string>containerForLayer</string>
+	<key>serviceFacadeInteraction</key>
+	<string>mobileFlexDepth</string>
+</dict>
+</plist>

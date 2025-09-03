@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartByInterpreter</key>
+	<string>resizableFragmentOpacity</string>
+	<key>customizedHistogramBorder</key>
+	<string>activeQueueRight</string>
+	<key>directMemberMode</key>
+	<string>cursorInsideValue</string>
+	<key>euclideanPromiseSkewy</key>
+	<string>captionPhaseDirection</string>
+	<key>immutableScaffoldSpacing</key>
+	<string>segmentNearStyle</string>
+	<key>injectionMethodStyle</key>
+	<string>grayscaleVisitorStyle</string>
+	<key>largeAwaitSkewy</key>
+	<string>chartCompositeStatus</string>
+	<key>singletonNumberStatus</key>
+	<string>gemViaType</string>
+	<key>textureSinceAdapter</key>
+	<string>completionBridgeLeft</string>
+	<key>webCanvasMode</key>
+	<string>buttonLevelStyle</string>
+</dict>
+</plist>

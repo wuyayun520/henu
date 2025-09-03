@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTempleShade</key>
+	<string>transitionAroundAdapter</string>
+	<key>constraintCommandColor</key>
+	<string>displayableErrorSpacing</string>
+	<key>coordinatorBeyondStrategy</key>
+	<string>widgetParamInset</string>
+	<key>cupertinoZoneAppearance</key>
+	<string>completionAlongDecorator</string>
+	<key>draggableCubeLocation</key>
+	<string>eagerCharacterPosition</string>
+	<key>listviewAlongComposite</key>
+	<string>indicatorTierOpacity</string>
+	<key>painterUntilTier</key>
+	<string>scaleInsideMode</string>
+	<key>queueAboutCommand</key>
+	<string>rowSingletonSkewx</string>
+	<key>rapidContainerRotation</key>
+	<string>sliderFlyweightSaturation</string>
+	<key>resolverPerState</key>
+	<string>grainActionHead</string>
+</dict>
+</plist>

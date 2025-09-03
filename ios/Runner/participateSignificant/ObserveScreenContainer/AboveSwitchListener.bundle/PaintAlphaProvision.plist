@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCommandInteraction</key>
+	<string>topicTypeOpacity</string>
+	<key>commandScopeTail</key>
+	<string>specifierWithoutActivity</string>
+	<key>controllerStateVisible</key>
+	<string>methodIncludeFlyweight</string>
+	<key>cubitBridgeScale</key>
+	<string>invisibleNodeSkewx</string>
+	<key>inactiveMobxSpacing</key>
+	<string>cubeAtOperation</string>
+	<key>inheritedMetadataCount</key>
+	<string>groupIncludeContext</string>
+	<key>navigatorPlatformBehavior</key>
+	<string>singleReductionRotation</string>
+	<key>otherImageCenter</key>
+	<string>swiftAwayPlatform</string>
+	<key>streamBeyondMode</key>
+	<string>tangentOperationOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryUntilStage</key>
+	<string>seamlessTimerKind</string>
+	<key>cellViaDecorator</key>
+	<string>positionJobVelocity</string>
+	<key>granularGradientInteraction</key>
+	<string>sequentialLabelVisible</string>
+	<key>lazyBehaviorMode</key>
+	<string>petCycleIndex</string>
+	<key>rectAdapterValidation</key>
+	<string>particleBesideActivity</string>
+	<key>subsequentShaderDistance</key>
+	<string>taskBesidePattern</string>
+	<key>toolKindDirection</key>
+	<string>spriteBridgeRotation</string>
+	<key>transformerSystemOpacity</key>
+	<string>textfieldPerMethod</string>
+</dict>
+</plist>

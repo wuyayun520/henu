@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleKindRight</key>
+	<string>liteEffectFeedback</string>
+	<key>enabledTextfieldMode</key>
+	<string>chartFormBottom</string>
+	<key>groupBeyondLayer</key>
+	<string>queryWithoutStyle</string>
+	<key>layoutAroundLevel</key>
+	<string>mobileMapShade</string>
+	<key>previewAwayScope</key>
+	<string>globalHistogramBottom</string>
+	<key>prismaticConstraintSkewx</key>
+	<string>textDespiteBridge</string>
+	<key>storageParameterCenter</key>
+	<string>typicalUtilBottom</string>
+</dict>
+</plist>

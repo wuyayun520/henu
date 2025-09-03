@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureInsidePhase</key>
+	<string>synchronousInteractorTheme</string>
+	<key>borderBufferCoord</key>
+	<string>fixedSizedboxEdge</string>
+	<key>cartesianStackShape</key>
+	<string>streamWithForm</string>
+	<key>ephemeralIsolateForce</key>
+	<string>dialogsForAdapter</string>
+	<key>geometricScaleLocation</key>
+	<string>routerBesideOperation</string>
+	<key>layerDuringMediator</key>
+	<string>queueVersusLayer</string>
+	<key>monsterSinceFacade</key>
+	<string>scrollableEntityMargin</string>
+	<key>permissiveDecorationBehavior</key>
+	<string>resultThroughPattern</string>
+</dict>
+</plist>

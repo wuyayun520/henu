@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackParamBehavior</key>
+	<string>decorationMementoLocation</string>
+	<key>chartAsValue</key>
+	<string>widgetExceptJob</string>
+	<key>cursorAroundVariable</key>
+	<string>asyncTextBottom</string>
+	<key>protocolOfVariable</key>
+	<string>menuDespiteStage</string>
+	<key>sizeExceptOperation</key>
+	<string>cellAsMemento</string>
+	<key>usecaseMementoBrightness</key>
+	<string>indicatorFrameworkDuration</string>
+</dict>
+</plist>

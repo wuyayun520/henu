@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionStructureTag</key>
+	<string>tappableSlashSpeed</string>
+	<key>errorStageFlags</key>
+	<string>nodeOutsideComposite</string>
+	<key>materialRepositoryTag</key>
+	<string>cellProxyLocation</string>
+	<key>permissiveCubitFlags</key>
+	<string>documentCycleName</string>
+	<key>smallOffsetAppearance</key>
+	<string>providerPhaseLeft</string>
+	<key>sortedIconSpeed</key>
+	<string>normalColumnEdge</string>
+	<key>subscriptionMediatorShape</key>
+	<string>functionalOffsetFlags</string>
+	<key>unaryStructureAppearance</key>
+	<string>dedicatedParticleTransparency</string>
+	<key>viewScopeIndex</key>
+	<string>permanentStepState</string>
+</dict>
+</plist>

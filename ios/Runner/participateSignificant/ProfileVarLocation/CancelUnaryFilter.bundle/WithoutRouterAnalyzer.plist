@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitInterpreterDistance</key>
+	<string>mediaqueryOutsideMode</string>
+	<key>callbackAboutFunction</key>
+	<string>resourceAgainstMode</string>
+	<key>dedicatedErrorRate</key>
+	<string>sinkIncludeMode</string>
+	<key>newestCapacitiesHue</key>
+	<string>observerBridgeVisibility</string>
+	<key>normalMasterInteraction</key>
+	<string>smallCheckboxKind</string>
+</dict>
+</plist>

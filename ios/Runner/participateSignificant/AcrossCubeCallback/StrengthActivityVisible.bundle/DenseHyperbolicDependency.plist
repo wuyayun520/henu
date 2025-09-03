@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespiteStructure</key>
+	<string>bulletKindLeft</string>
+	<key>baseTypeBorder</key>
+	<string>groupScopeOffset</string>
+	<key>requestByStage</key>
+	<string>firstSkinTop</string>
+	<key>streamStageInset</key>
+	<string>signatureStructureDelay</string>
+</dict>
+</plist>

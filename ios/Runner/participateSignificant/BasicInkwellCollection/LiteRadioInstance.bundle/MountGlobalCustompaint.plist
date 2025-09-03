@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGrainOrientation</key>
+	<string>numericalLocalizationBound</string>
+	<key>arithmeticNearPhase</key>
+	<string>errorNearBuffer</string>
+	<key>desktopRowStatus</key>
+	<string>textPhaseBound</string>
+	<key>discardedTechniqueInset</key>
+	<string>subscriptionAdapterSkewy</string>
+</dict>
+</plist>

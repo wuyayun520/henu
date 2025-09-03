@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryInLevel</key>
+	<string>radiusExceptCycle</string>
+	<key>cubitActivityTag</key>
+	<string>navigatorWithFacade</string>
+	<key>navigatorWithoutObserver</key>
+	<string>groupShapeOffset</string>
+	<key>presenterKindTransparency</key>
+	<string>tweenTierSpeed</string>
+	<key>protocolCompositeContrast</key>
+	<string>parallelSpineDuration</string>
+	<key>stackEnvironmentStatus</key>
+	<string>observerProcessFrequency</string>
+	<key>tabviewIncludeMediator</key>
+	<string>statelessSinceStage</string>
+	<key>textureFromFunction</key>
+	<string>labelActionDelay</string>
+</dict>
+</plist>

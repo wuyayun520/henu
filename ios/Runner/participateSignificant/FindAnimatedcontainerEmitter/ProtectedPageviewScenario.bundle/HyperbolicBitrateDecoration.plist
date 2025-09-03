@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryExceptKind</key>
+	<string>usageKindSkewy</string>
+	<key>nextPageviewLeft</key>
+	<string>cellProcessVisible</string>
+	<key>notifierStateDepth</key>
+	<string>factoryMethodBorder</string>
+	<key>optimizerSingletonDensity</key>
+	<string>liteFactorySkewx</string>
+	<key>subpixelFormVisibility</key>
+	<string>nodePlatformDensity</string>
+</dict>
+</plist>

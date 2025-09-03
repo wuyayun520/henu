@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileProviderSize</key>
+	<string>popupDuringComposite</string>
+	<key>delegateAwayStage</key>
+	<string>prevEffectFormat</string>
+	<key>histogramIncludeScope</key>
+	<string>switchDecoratorStyle</string>
+	<key>promiseInterpreterVisibility</key>
+	<string>tickerModeBorder</string>
+	<key>relationalViewBottom</key>
+	<string>dropdownbuttonAwayCycle</string>
+	<key>segueAtLayer</key>
+	<string>serviceBufferType</string>
+	<key>stackFormType</key>
+	<string>gateFacadeTheme</string>
+	<key>statelessUntilStyle</key>
+	<string>hashPrototypeDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPerFacade</key>
+	<string>gramEnvironmentHead</string>
+	<key>dropdownbuttonStateVisibility</key>
+	<string>popupBesideTask</string>
+	<key>eventFlyweightFlags</key>
+	<string>routerSinceTask</string>
+	<key>geometricLayoutVelocity</key>
+	<string>lazyCanvasOrientation</string>
+	<key>materialDelegateTheme</key>
+	<string>animatedGrainSpeed</string>
+	<key>pointFromSystem</key>
+	<string>streamOperationDensity</string>
+	<key>singleMomentumType</key>
+	<string>compositionalCommandSpeed</string>
+	<key>textTierOffset</key>
+	<string>callbackAgainstMediator</string>
+</dict>
+</plist>

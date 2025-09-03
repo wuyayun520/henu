@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customWidgetMargin</key>
+	<string>coordinatorAgainstFacade</string>
+	<key>delegateLikeNumber</key>
+	<string>textfieldAgainstMediator</string>
+	<key>exceptionInterpreterOrientation</key>
+	<string>asyncConstraintIndex</string>
+	<key>iterativeSingletonValidation</key>
+	<string>basicBaselineSpacing</string>
+	<key>labelAmongVariable</key>
+	<string>oldDependencyInteraction</string>
+	<key>notificationJobTail</key>
+	<string>paddingInStructure</string>
+	<key>optimizerAtFunction</key>
+	<string>difficultIntensitySkewx</string>
+	<key>reductionContainParameter</key>
+	<string>rowParamInset</string>
+	<key>similarPromiseState</key>
+	<string>positionedInsideVar</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousQuerySpacing</key>
+	<string>radiusOrParameter</string>
+	<key>chartBeyondNumber</key>
+	<string>subpixelFromAdapter</string>
+	<key>getxLevelState</key>
+	<string>pivotalControllerPosition</string>
+	<key>modelNearForm</key>
+	<string>textureDespiteLayer</string>
+	<key>presenterPerEnvironment</key>
+	<string>listviewValueDirection</string>
+	<key>respectiveInterfaceContrast</key>
+	<string>effectContainPhase</string>
+	<key>tappableAlignmentState</key>
+	<string>dedicatedResolverSpacing</string>
+</dict>
+</plist>

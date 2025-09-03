@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFrameworkAcceleration</key>
+	<string>materialZoneInteraction</string>
+	<key>intensityScopeBottom</key>
+	<string>smartBaseResponse</string>
+	<key>metadataTaskPadding</key>
+	<string>mobileToolRight</string>
+	<key>semanticPositionRight</key>
+	<string>durationScopeKind</string>
+</dict>
+</plist>

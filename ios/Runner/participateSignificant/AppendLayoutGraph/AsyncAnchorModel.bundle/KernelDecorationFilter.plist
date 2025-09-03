@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetShapeFrequency</key>
+	<string>asyncWidgetColor</string>
+	<key>crudeUsecaseSpeed</key>
+	<string>denseCardOffset</string>
+	<key>cubitValueShape</key>
+	<string>baseLayerOpacity</string>
+	<key>customizedStreamResponse</key>
+	<string>effectTierFlags</string>
+	<key>deferredZoneTail</key>
+	<string>sizedboxAboutFacade</string>
+	<key>gridExceptMethod</key>
+	<string>inheritedMemberOrigin</string>
+	<key>sortedWidgetCount</key>
+	<string>composableResponseCount</string>
+	<key>zoneActivityRight</key>
+	<string>basicAnimationPadding</string>
+</dict>
+</plist>

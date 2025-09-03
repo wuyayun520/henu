@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstVisitor</key>
+	<string>disparateEqualizationKind</string>
+	<key>constraintInterpreterBehavior</key>
+	<string>stateCycleStyle</string>
+	<key>customTextTint</key>
+	<string>compositionCommandValidation</string>
+	<key>opaqueTextureVisible</key>
+	<string>largeCatalystLeft</string>
+	<key>resultNearEnvironment</key>
+	<string>shaderTypeFeedback</string>
+	<key>semanticDependencyRotation</key>
+	<string>offsetSinceCommand</string>
+	<key>stateFormType</key>
+	<string>zoneMethodHue</string>
+</dict>
+</plist>

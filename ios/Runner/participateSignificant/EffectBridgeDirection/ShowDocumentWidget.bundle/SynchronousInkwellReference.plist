@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEventValidation</key>
+	<string>callbackTaskScale</string>
+	<key>custompaintOperationHue</key>
+	<string>customChannelFeedback</string>
+	<key>handlerCycleVelocity</key>
+	<string>normalSingletonFeedback</string>
+	<key>inactiveInteractorSize</key>
+	<string>uniqueContainerInterval</string>
+	<key>intuitiveProviderContrast</key>
+	<string>featureBesideState</string>
+	<key>notificationAsVar</key>
+	<string>textureThroughMemento</string>
+	<key>pivotalSampleStatus</key>
+	<string>constraintFromFramework</string>
+</dict>
+</plist>

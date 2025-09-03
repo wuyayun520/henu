@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCompletionTransparency</key>
+	<string>navigatorWithoutProxy</string>
+	<key>instructionForScope</key>
+	<string>skinLevelInset</string>
+	<key>memberChainOpacity</key>
+	<string>contractionContainType</string>
+	<key>radiusVersusCycle</key>
+	<string>otherGroupOpacity</string>
+	<key>singletonNearOperation</key>
+	<string>accessoryActionName</string>
+</dict>
+</plist>

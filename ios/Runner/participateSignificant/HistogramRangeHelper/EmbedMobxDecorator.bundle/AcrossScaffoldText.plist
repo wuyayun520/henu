@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAmongPattern</key>
+	<string>directTopicForce</string>
+	<key>consumerInsideChain</key>
+	<string>newestSceneVisibility</string>
+	<key>cupertinoOperationFormat</key>
+	<string>keyAsyncAppearance</string>
+	<key>labelDecoratorAcceleration</key>
+	<string>numericalControllerTheme</string>
+	<key>lostButtonScale</key>
+	<string>collectionStagePressure</string>
+	<key>scrollableDescriptionMode</key>
+	<string>compositionFacadeCenter</string>
+	<key>sensorForOperation</key>
+	<string>featureTaskMomentum</string>
+	<key>stateKindFrequency</key>
+	<string>routeFromSystem</string>
+	<key>subscriptionOutsideKind</key>
+	<string>binaryAwayMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByComposite</key>
+	<string>diffableActivitySkewy</string>
+	<key>bufferTaskShape</key>
+	<string>transitionScopeRotation</string>
+	<key>cosineStrategyMomentum</key>
+	<string>explicitNavigationAcceleration</string>
+	<key>grainAsCycle</key>
+	<string>characterParamInset</string>
+	<key>movementThroughContext</key>
+	<string>fixedUtilForce</string>
+	<key>publicLocalizationBrightness</key>
+	<string>extensionParameterLocation</string>
+	<key>resizableApertureAlignment</key>
+	<string>grayscaleCycleTop</string>
+	<key>specifierNearActivity</key>
+	<string>textureTierVisibility</string>
+	<key>vectorBufferMomentum</key>
+	<string>inheritedTableKind</string>
+</dict>
+</plist>

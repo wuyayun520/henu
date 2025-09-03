@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInProxy</key>
+	<string>methodStyleDuration</string>
+	<key>cubePlatformContrast</key>
+	<string>sizeLayerSpeed</string>
+	<key>customizedAnchorCenter</key>
+	<string>blocAmongStrategy</string>
+	<key>entropyChainColor</key>
+	<string>entityAboutBuffer</string>
+	<key>particleWithValue</key>
+	<string>responsiveHistogramDepth</string>
+	<key>smallLoopShade</key>
+	<string>skinExceptState</string>
+	<key>specifyTransitionRate</key>
+	<string>inactiveLayerCount</string>
+	<key>tweenProcessOrientation</key>
+	<string>activeAccessoryPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInterpreterValidation</key>
+	<string>chartByProcess</string>
+	<key>commandProxyOffset</key>
+	<string>consumerAndVariable</string>
+	<key>customMenuMargin</key>
+	<string>mobileFlexPressure</string>
+	<key>localizationPhaseVisibility</key>
+	<string>streamSinceParameter</string>
+	<key>subscriptionOperationIndex</key>
+	<string>symmetricMemberDelay</string>
+	<key>symmetricMobileBehavior</key>
+	<string>tweenContainStage</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitTickerState</key>
+	<string>storyboardByJob</string>
+	<key>shaderFromMode</key>
+	<string>gestureLikeAction</string>
+	<key>tappableAnimationRate</key>
+	<string>labelAdapterFlags</string>
+</dict>
+</plist>

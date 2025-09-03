@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customIsolateName</key>
+	<string>intensityValueVelocity</string>
+	<key>independentCharacterLocation</key>
+	<string>accordionSinkOrigin</string>
+	<key>interactiveCatalystShape</key>
+	<string>featureLikeEnvironment</string>
+	<key>layerContainState</key>
+	<string>tensorResourceVisibility</string>
+	<key>nextControllerVisible</key>
+	<string>mobxMediatorOpacity</string>
+	<key>subscriptionAndVariable</key>
+	<string>constraintStrategyOrigin</string>
+	<key>uniqueNibDirection</key>
+	<string>similarLayerResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureAmongContext</key>
+	<string>providerModeValidation</string>
+	<key>brushOutsideWork</key>
+	<string>semanticsWithFunction</string>
+	<key>clipperProcessBrightness</key>
+	<string>uniformChannelName</string>
+	<key>descriptorCommandCount</key>
+	<string>reducerPlatformOffset</string>
+	<key>euclideanDialogsValidation</key>
+	<string>callbackVisitorOrientation</string>
+	<key>inactiveLogarithmShape</key>
+	<string>navigationStateInterval</string>
+	<key>sizedboxAndScope</key>
+	<string>curveOperationCoord</string>
+</dict>
+</plist>

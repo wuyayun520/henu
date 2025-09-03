@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocValueForce</key>
+	<string>originalLossTransparency</string>
+	<key>histogramFunctionDuration</key>
+	<string>callbackTierContrast</string>
+	<key>mediaqueryFromPlatform</key>
+	<string>managerEnvironmentInterval</string>
+	<key>spotObserverTop</key>
+	<string>entityStateFeedback</string>
+	<key>subpixelNearDecorator</key>
+	<string>unaryProxySaturation</string>
+	<key>taskStructureType</key>
+	<string>relationalDependencyTransparency</string>
+	<key>uniformReferenceSkewy</key>
+	<string>statefulAtStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOrVariable</key>
+	<string>cursorPatternOpacity</string>
+	<key>checklistBeyondParameter</key>
+	<string>bufferUntilTask</string>
+	<key>currentTextureVisibility</key>
+	<string>serviceCompositeRight</string>
+	<key>eventProxyDirection</key>
+	<string>completionWithLevel</string>
+	<key>independentServiceAlignment</key>
+	<string>tableStructureColor</string>
+	<key>labelTaskPosition</key>
+	<string>notifierCommandRight</string>
+	<key>matrixKindTail</key>
+	<string>reusableSlashVelocity</string>
+	<key>routerAmongSingleton</key>
+	<string>promiseContextIndex</string>
+	<key>spineAlongStage</key>
+	<string>particlePlatformState</string>
+</dict>
+</plist>

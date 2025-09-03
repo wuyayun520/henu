@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorForLayer</key>
+	<string>notifierAsVariable</string>
+	<key>delegateWithObserver</key>
+	<string>axisAdapterSaturation</string>
+	<key>groupValueBehavior</key>
+	<string>lastInjectionBorder</string>
+	<key>nextLayoutForce</key>
+	<string>drawerIncludeContext</string>
+	<key>pivotalActionVisible</key>
+	<string>invisibleContainerResponse</string>
+	<key>sampleDuringCycle</key>
+	<string>mobxAboutFacade</string>
+	<key>unaryBeyondVar</key>
+	<string>taskVersusParam</string>
+</dict>
+</plist>

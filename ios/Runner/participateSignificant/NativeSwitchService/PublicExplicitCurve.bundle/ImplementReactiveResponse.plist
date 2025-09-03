@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAgainstChain</key>
+	<string>convolutionValueResponse</string>
+	<key>imageModeDepth</key>
+	<string>techniqueAmongValue</string>
+	<key>mutablePreviewBound</key>
+	<string>accessoryInterpreterSkewy</string>
+	<key>sequentialBufferDelay</key>
+	<string>immutableTickerVisible</string>
+</dict>
+</plist>

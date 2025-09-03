@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAboutTier</key>
+	<string>providerStateTint</string>
+	<key>getxOperationState</key>
+	<string>autoCheckboxState</string>
+	<key>intuitiveProjectionOffset</key>
+	<string>titleActionTag</string>
+	<key>positionedActivityTag</key>
+	<string>routeMethodFeedback</string>
+	<key>textfieldObserverTop</key>
+	<string>deferredStampBound</string>
+</dict>
+</plist>

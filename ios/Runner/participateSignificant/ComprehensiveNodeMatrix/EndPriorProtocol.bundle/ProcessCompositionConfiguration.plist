@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationNumberStyle</key>
+	<string>providerNearFlyweight</string>
+	<key>assetVersusStructure</key>
+	<string>alertUntilSystem</string>
+	<key>decorationPatternSaturation</key>
+	<string>customizedVectorOrigin</string>
+	<key>nativeSwitchFlags</key>
+	<string>observerProcessInset</string>
+	<key>parallelTextVisible</key>
+	<string>fragmentLikeStage</string>
+	<key>timerContainNumber</key>
+	<string>subtleMatrixPadding</string>
+	<key>topicInJob</key>
+	<string>modelChainShade</string>
+	<key>visibleSegueOrigin</key>
+	<string>textAsActivity</string>
+</dict>
+</plist>

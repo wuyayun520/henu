@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVersusProcess</key>
+	<string>managerPerContext</string>
+	<key>cacheDespiteEnvironment</key>
+	<string>gestureFromMemento</string>
+	<key>constSingletonColor</key>
+	<string>oldCompositionAcceleration</string>
+	<key>exceptionVarTail</key>
+	<string>mutableLabelValidation</string>
+	<key>heapExceptFramework</key>
+	<string>richtextJobVelocity</string>
+	<key>hyperbolicCapacitiesAcceleration</key>
+	<string>builderAgainstVariable</string>
+	<key>mediumBlocForce</key>
+	<string>nativeTextTail</string>
+	<key>resourceStageInteraction</key>
+	<string>difficultServiceFrequency</string>
+	<key>sequentialColumnTransparency</key>
+	<string>crucialGetxLeft</string>
+</dict>
+</plist>

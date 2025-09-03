@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityShapeAppearance</key>
+	<string>persistentBorderInset</string>
+	<key>constraintAroundActivity</key>
+	<string>transitionWorkPosition</string>
+	<key>containerPlatformTint</key>
+	<string>grainKindSize</string>
+	<key>finalInteractorCoord</key>
+	<string>activatedAccessoryIndex</string>
+	<key>futureLikeValue</key>
+	<string>positionCommandKind</string>
+	<key>listenerWithoutActivity</key>
+	<string>sineSingletonEdge</string>
+	<key>offsetEnvironmentSaturation</key>
+	<string>transitionExceptTask</string>
+	<key>streamStageBound</key>
+	<string>eventVersusPhase</string>
+</dict>
+</plist>

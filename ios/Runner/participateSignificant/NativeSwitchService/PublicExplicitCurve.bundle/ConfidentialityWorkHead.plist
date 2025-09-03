@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBlocPressure</key>
+	<string>semanticMovementLeft</string>
+	<key>blocThroughAdapter</key>
+	<string>stepCycleCount</string>
+	<key>controllerInterpreterTransparency</key>
+	<string>loopAgainstShape</string>
+	<key>exceptionLikeProcess</key>
+	<string>statefulPositionState</string>
+	<key>labelMementoSkewy</key>
+	<string>statelessAlongLevel</string>
+</dict>
+</plist>

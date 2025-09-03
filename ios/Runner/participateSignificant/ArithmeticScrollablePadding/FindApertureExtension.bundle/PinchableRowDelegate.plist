@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAroundContext</key>
+	<string>vectorCompositeOrientation</string>
+	<key>chartStrategyShape</key>
+	<string>profileSingletonTint</string>
+	<key>factoryPatternSkewy</key>
+	<string>interpolationTaskFormat</string>
+	<key>inheritedMapShape</key>
+	<string>otherAllocatorTransparency</string>
+	<key>injectionIncludeParameter</key>
+	<string>repositoryIncludeObserver</string>
+	<key>labelPerMode</key>
+	<string>uniformLogarithmSpacing</string>
+	<key>materialSignatureFormat</key>
+	<string>constraintBeyondKind</string>
+	<key>presenterParamTint</key>
+	<string>grayscaleFunctionBorder</string>
+	<key>resourceParameterColor</key>
+	<string>tangentParamVisibility</string>
+</dict>
+</plist>

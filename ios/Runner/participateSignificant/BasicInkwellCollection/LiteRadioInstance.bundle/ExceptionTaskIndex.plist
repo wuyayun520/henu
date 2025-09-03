@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyleTint</key>
+	<string>nextCommandBottom</string>
+	<key>curveBeyondMemento</key>
+	<string>missedBinarySize</string>
+	<key>displayableStreamSkewx</key>
+	<string>futurePerValue</string>
+	<key>isolateScopeKind</key>
+	<string>heapViaForm</string>
+	<key>prismaticIsolateShape</key>
+	<string>opaqueCallbackRight</string>
+	<key>reducerContainFacade</key>
+	<string>gateByInterpreter</string>
+	<key>sampleInBridge</key>
+	<string>baselinePhaseType</string>
+	<key>subsequentStateFormat</key>
+	<string>currentLabelDepth</string>
+</dict>
+</plist>

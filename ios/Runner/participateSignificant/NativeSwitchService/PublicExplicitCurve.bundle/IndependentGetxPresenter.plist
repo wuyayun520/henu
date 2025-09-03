@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVisitorSpeed</key>
+	<string>deferredGraphResponse</string>
+	<key>crudeOptionDelay</key>
+	<string>missionMethodContrast</string>
+	<key>layoutViaBuffer</key>
+	<string>drawerActionCenter</string>
+	<key>lazyProviderInterval</key>
+	<string>effectOperationLeft</string>
+	<key>overlayVariableFeedback</key>
+	<string>stepFacadeDirection</string>
+	<key>persistentAnimationFeedback</key>
+	<string>requestAwayComposite</string>
+	<key>streamViaAction</key>
+	<string>streamParameterContrast</string>
+</dict>
+</plist>

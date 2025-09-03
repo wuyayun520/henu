@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeProfileMode</key>
+	<string>alertAdapterTransparency</string>
+	<key>configurationShapeAppearance</key>
+	<string>transitionParamShape</string>
+	<key>constraintAtChain</key>
+	<string>activatedConstraintVisibility</string>
+	<key>controllerExceptLevel</key>
+	<string>smartTransitionValidation</string>
+	<key>equalizationIncludeActivity</key>
+	<string>masterTierDuration</string>
+	<key>localAlertColor</key>
+	<string>progressbarPerPrototype</string>
+</dict>
+</plist>

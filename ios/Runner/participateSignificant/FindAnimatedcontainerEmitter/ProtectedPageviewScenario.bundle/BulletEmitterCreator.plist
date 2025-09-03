@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartUntilStructure</key>
+	<string>missedRectRate</string>
+	<key>desktopRequestContrast</key>
+	<string>progressbarBufferEdge</string>
+	<key>resourceTaskSaturation</key>
+	<string>repositoryInPhase</string>
+	<key>resourceVarSaturation</key>
+	<string>asyncAsFramework</string>
+	<key>singletonVariableBrightness</key>
+	<string>primaryPromiseTheme</string>
+	<key>viewAsStrategy</key>
+	<string>storeOutsideShape</string>
+</dict>
+</plist>

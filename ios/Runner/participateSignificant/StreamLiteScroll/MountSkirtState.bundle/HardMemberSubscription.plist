@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionActivityTag</key>
+	<string>standaloneNibKind</string>
+	<key>alphaContextAcceleration</key>
+	<string>fixedEventSaturation</string>
+	<key>concurrentFrameInterval</key>
+	<string>pageviewWithMethod</string>
+	<key>controllerAmongInterpreter</key>
+	<string>scaffoldAsPhase</string>
+	<key>mediumTabbarDistance</key>
+	<string>commonMobxStyle</string>
+	<key>pointMediatorShade</key>
+	<string>listviewSystemPadding</string>
+	<key>routerFlyweightBottom</key>
+	<string>adaptiveMasterSaturation</string>
+</dict>
+</plist>

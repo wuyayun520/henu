@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInterpolationFormat</key>
+	<string>buttonAsStyle</string>
+	<key>buttonPerType</key>
+	<string>stackAndJob</string>
+	<key>instructionStateInteraction</key>
+	<string>normalSingletonDensity</string>
+	<key>queryUntilLevel</key>
+	<string>layoutInValue</string>
+	<key>reusableCommandDistance</key>
+	<string>cycleEnvironmentScale</string>
+	<key>tangentPlatformShape</key>
+	<string>dropdownbuttonWithAdapter</string>
+	<key>viewAsKind</key>
+	<string>gridOfProxy</string>
+	<key>widgetAndMode</key>
+	<string>projectTemplePadding</string>
+</dict>
+</plist>

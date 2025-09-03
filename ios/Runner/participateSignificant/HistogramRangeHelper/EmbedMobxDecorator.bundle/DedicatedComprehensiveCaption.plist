@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStrategySkewx</key>
+	<string>crucialAlphaStyle</string>
+	<key>priorityPatternInteraction</key>
+	<string>sliderStageOrientation</string>
+	<key>rowShapeAcceleration</key>
+	<string>secondQueueCoord</string>
+	<key>singletonDuringStrategy</key>
+	<string>capsuleStrategyRate</string>
+	<key>staticEffectIndex</key>
+	<string>resizableSkirtLocation</string>
+</dict>
+</plist>

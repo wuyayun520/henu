@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAboutProxy</key>
+	<string>stackByPrototype</string>
+	<key>backwardBufferTop</key>
+	<string>localChannelDelay</string>
+	<key>builderMediatorSkewx</key>
+	<string>observerAndMemento</string>
+	<key>cubitInKind</key>
+	<string>customizedSineSkewx</string>
+	<key>immutableNotificationSkewy</key>
+	<string>keyCardPadding</string>
+	<key>logarithmMementoInset</key>
+	<string>swiftAsVariable</string>
+	<key>opaqueExpandedKind</key>
+	<string>resizableStoreAcceleration</string>
+	<key>parallelTaskTransparency</key>
+	<string>usecaseAlongProcess</string>
+	<key>variantValueFormat</key>
+	<string>eventPerVar</string>
+</dict>
+</plist>

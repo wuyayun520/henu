@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeExceptComposite</key>
+	<string>radioByStyle</string>
+	<key>lossExceptValue</key>
+	<string>buttonContextColor</string>
+	<key>movementAtSystem</key>
+	<string>expandedFlyweightForce</string>
+	<key>reusableSceneStatus</key>
+	<string>cartesianCompleterInterval</string>
+	<key>signatureJobInterval</key>
+	<string>painterProcessOrigin</string>
+	<key>taskNumberVelocity</key>
+	<string>responsePlatformCount</string>
+</dict>
+</plist>

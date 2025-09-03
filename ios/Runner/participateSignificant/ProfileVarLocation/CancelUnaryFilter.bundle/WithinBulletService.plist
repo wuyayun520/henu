@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInterpreterIndex</key>
+	<string>queueContainBridge</string>
+	<key>buttonAsParameter</key>
+	<string>commonUtilDelay</string>
+	<key>concreteDescriptorBehavior</key>
+	<string>utilAsFramework</string>
+	<key>curveExceptCommand</key>
+	<string>gradientMementoTheme</string>
+	<key>diffableFutureState</key>
+	<string>scaffoldAwayDecorator</string>
+	<key>errorCompositeVelocity</key>
+	<string>visibleTickerSkewx</string>
+	<key>masterOrStyle</key>
+	<string>cubeBeyondProcess</string>
+	<key>mediaqueryStructureContrast</key>
+	<string>cubitMethodVisible</string>
+	<key>pinchableInkwellDensity</key>
+	<string>unactivatedCycleAlignment</string>
+	<key>resultLikeParameter</key>
+	<string>iconVisitorDistance</string>
+</dict>
+</plist>

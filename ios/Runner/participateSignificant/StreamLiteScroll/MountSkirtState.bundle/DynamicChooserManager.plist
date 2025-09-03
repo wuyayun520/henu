@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAnimationKind</key>
+	<string>eventByComposite</string>
+	<key>iterativeProtocolRate</key>
+	<string>repositoryInsideSingleton</string>
+	<key>publicCompleterInset</key>
+	<string>mobileOffsetInset</string>
+	<key>smallChannelScale</key>
+	<string>borderForStrategy</string>
+	<key>subpixelFunctionMomentum</key>
+	<string>crucialDurationContrast</string>
+	<key>threadForMemento</key>
+	<string>optimizerLikeProcess</string>
+	<key>utilActivityEdge</key>
+	<string>chartScopeBrightness</string>
+</dict>
+</plist>

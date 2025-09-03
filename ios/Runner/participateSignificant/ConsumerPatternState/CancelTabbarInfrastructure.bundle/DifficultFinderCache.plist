@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAtPhase</key>
+	<string>curveViaLayer</string>
+	<key>channelForStyle</key>
+	<string>providerContainVisitor</string>
+	<key>concurrentCurvePressure</key>
+	<string>interactorPrototypeStatus</string>
+	<key>nativeAnimationPosition</key>
+	<string>batchUntilComposite</string>
+	<key>prevPreviewCenter</key>
+	<string>notificationOutsideBridge</string>
+	<key>serviceVersusObserver</key>
+	<string>priorityScopeSpeed</string>
+	<key>singleManagerSkewx</key>
+	<string>callbackKindPadding</string>
+</dict>
+</plist>

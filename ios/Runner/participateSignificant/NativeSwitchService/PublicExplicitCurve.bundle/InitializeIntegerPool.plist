@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewStructureTop</key>
+	<string>coordinatorVersusType</string>
+	<key>nibActivityColor</key>
+	<string>touchWithActivity</string>
+	<key>sceneWithMemento</key>
+	<string>custompaintPatternHue</string>
+	<key>utilModeSpacing</key>
+	<string>intensityWithContext</string>
+</dict>
+</plist>

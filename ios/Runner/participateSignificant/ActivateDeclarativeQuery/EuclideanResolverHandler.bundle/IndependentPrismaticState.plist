@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteGestureType</key>
+	<string>granularPositionEdge</string>
+	<key>effectAndType</key>
+	<string>basicConstraintTop</string>
+	<key>globalUsecasePadding</key>
+	<string>catalystAboutAction</string>
+	<key>relationalGridVisibility</key>
+	<string>materialShapeMargin</string>
+	<key>requiredPositionDistance</key>
+	<string>discardedTextureTint</string>
+	<key>responsePerPlatform</key>
+	<string>promiseShapeStyle</string>
+	<key>uniformSlashSkewx</key>
+	<string>visibleBlocStatus</string>
+</dict>
+</plist>

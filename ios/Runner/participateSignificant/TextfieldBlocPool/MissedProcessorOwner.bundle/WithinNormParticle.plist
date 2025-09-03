@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleSingletonTension</key>
+	<string>bufferValueStyle</string>
+	<key>criticalAlphaRotation</key>
+	<string>displayablePlateRotation</string>
+	<key>interfaceAndStage</key>
+	<string>uniqueMetadataShade</string>
+	<key>newestMenuSkewy</key>
+	<string>iconKindBehavior</string>
+	<key>referenceBufferRight</key>
+	<string>pinchableResourceDelay</string>
+</dict>
+</plist>

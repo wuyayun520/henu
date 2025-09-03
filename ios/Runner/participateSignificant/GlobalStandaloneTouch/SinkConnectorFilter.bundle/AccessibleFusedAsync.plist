@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardDimensionSpacing</key>
+	<string>observerSingletonHue</string>
+	<key>inheritedReducerSpacing</key>
+	<string>graphThanStyle</string>
+	<key>largePageviewRate</key>
+	<string>mobileManagerMargin</string>
+	<key>mapThanDecorator</key>
+	<string>usedStatefulState</string>
+	<key>mediumDropdownbuttonAlignment</key>
+	<string>entropyFunctionMargin</string>
+	<key>methodOfType</key>
+	<string>awaitOfComposite</string>
+	<key>sharedAsyncScale</key>
+	<string>observerInState</string>
+	<key>tappableVectorMode</key>
+	<string>iconCompositeTransparency</string>
+</dict>
+</plist>

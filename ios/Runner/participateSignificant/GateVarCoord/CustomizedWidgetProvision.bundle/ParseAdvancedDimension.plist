@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardNavigatorTag</key>
+	<string>builderAtTemple</string>
+	<key>beginnerStreamBorder</key>
+	<string>overlayMementoBorder</string>
+	<key>descriptionDecoratorMode</key>
+	<string>textureStageValidation</string>
+	<key>ignoredLayoutShade</key>
+	<string>spriteDespiteParameter</string>
+	<key>layoutAsLayer</key>
+	<string>widgetTempleLeft</string>
+	<key>retainedRadioTransparency</key>
+	<string>smallLoopContrast</string>
+</dict>
+</plist>

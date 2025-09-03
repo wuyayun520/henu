@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSceneCenter</key>
+	<string>fixedEventOffset</string>
+	<key>compositionalCurveLeft</key>
+	<string>mainRowDistance</string>
+	<key>lossParamSaturation</key>
+	<string>workflowBridgeAlignment</string>
+	<key>previewContainJob</key>
+	<string>dialogsExceptInterpreter</string>
+	<key>providerStageForce</key>
+	<string>sampleSystemBrightness</string>
+	<key>spriteDespiteStyle</key>
+	<string>unsortedControllerOrigin</string>
+	<key>taskProxyLeft</key>
+	<string>symmetricThreadSaturation</string>
+	<key>typicalConstraintSize</key>
+	<string>futureProcessEdge</string>
+</dict>
+</plist>

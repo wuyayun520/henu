@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSystemEdge</key>
+	<string>singletonMementoValidation</string>
+	<key>curveSingletonOffset</key>
+	<string>hierarchicalContainerSkewy</string>
+	<key>durationFunctionSpacing</key>
+	<string>retainedResolverValidation</string>
+	<key>flexFromMediator</key>
+	<string>capsuleFunctionStyle</string>
+	<key>interpolationBufferTension</key>
+	<string>stackMementoMomentum</string>
+	<key>priorityAlongStyle</key>
+	<string>materialExceptionCoord</string>
+	<key>taskVersusMemento</key>
+	<string>pointPhaseValidation</string>
+	<key>tweenByProxy</key>
+	<string>tabbarAmongBuffer</string>
+	<key>visibleStoreMargin</key>
+	<string>statefulDelegateInterval</string>
+	<key>webHeapSaturation</key>
+	<string>presenterMediatorAppearance</string>
+</dict>
+</plist>

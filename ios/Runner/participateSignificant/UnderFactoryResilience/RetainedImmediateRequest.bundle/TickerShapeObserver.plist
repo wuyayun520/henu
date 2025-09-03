@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSegueState</key>
+	<string>touchFunctionSaturation</string>
+	<key>imperativeEventSpeed</key>
+	<string>positionStrategyLeft</string>
+	<key>masterCompositeInteraction</key>
+	<string>movementAlongOperation</string>
+	<key>specifySpriteTail</key>
+	<string>transitionEnvironmentSaturation</string>
+	<key>tweenAroundTier</key>
+	<string>signWorkValidation</string>
+	<key>workflowAroundValue</key>
+	<string>mobilePositionSpeed</string>
+</dict>
+</plist>

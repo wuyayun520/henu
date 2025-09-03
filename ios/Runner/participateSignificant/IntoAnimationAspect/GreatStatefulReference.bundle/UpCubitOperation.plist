@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAgainstDecorator</key>
+	<string>awaitWithScope</string>
+	<key>composableSpriteKind</key>
+	<string>injectionInProxy</string>
+	<key>concreteSpriteFeedback</key>
+	<string>subtleControllerStatus</string>
+	<key>fixedSkirtDensity</key>
+	<string>publicSizeLocation</string>
+	<key>interactiveTopicFeedback</key>
+	<string>usageSingletonInset</string>
+	<key>intermediateUnaryVelocity</key>
+	<string>managerOutsideCycle</string>
+	<key>resourceBufferInteraction</key>
+	<string>streamCycleSpacing</string>
+	<key>subpixelModeInteraction</key>
+	<string>semanticsInsideTemple</string>
+	<key>transitionSinceAdapter</key>
+	<string>resolverOfForm</string>
+</dict>
+</plist>

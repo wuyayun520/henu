@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineStageValidation</key>
+	<string>equipmentKindLeft</string>
+	<key>inkwellModeEdge</key>
+	<string>animatedNavigationValidation</string>
+	<key>nextStreamVisible</key>
+	<string>navigatorProxyScale</string>
+	<key>particleAmongLayer</key>
+	<string>richtextExceptCycle</string>
+	<key>resizableCoordinatorDistance</key>
+	<string>canvasAndAction</string>
+	<key>stampAroundPlatform</key>
+	<string>scaleDuringFacade</string>
+	<key>textChainRotation</key>
+	<string>nodeMementoDensity</string>
+	<key>textOfStyle</key>
+	<string>textStageFormat</string>
+	<key>unsortedBuilderDelay</key>
+	<string>currentTimerStyle</string>
+</dict>
+</plist>

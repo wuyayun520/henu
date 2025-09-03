@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionBeyondCycle</key>
+	<string>progressbarAgainstMediator</string>
+	<key>delegateCycleDistance</key>
+	<string>stampCommandForce</string>
+	<key>descriptionLayerState</key>
+	<string>configurationActivityInterval</string>
+	<key>gradientCommandLocation</key>
+	<string>storeActionDepth</string>
+	<key>materialKindDensity</key>
+	<string>vectorIncludeInterpreter</string>
+	<key>singletonFrameworkShade</key>
+	<string>interactiveListenerSpeed</string>
+</dict>
+</plist>

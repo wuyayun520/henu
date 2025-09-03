@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPerChain</key>
+	<string>missedTextPosition</string>
+	<key>groupMediatorVelocity</key>
+	<string>draggableViewAcceleration</string>
+	<key>resultUntilContext</key>
+	<string>scaffoldStagePadding</string>
+	<key>segmentWithoutJob</key>
+	<string>tableAlongBuffer</string>
+	<key>spotFrameworkBottom</key>
+	<string>explicitAnimationSkewy</string>
+</dict>
+</plist>

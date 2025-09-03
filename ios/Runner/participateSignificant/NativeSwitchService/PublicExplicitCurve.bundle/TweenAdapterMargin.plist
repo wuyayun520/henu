@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTempleEdge</key>
+	<string>lastClipperOffset</string>
+	<key>menuUntilChain</key>
+	<string>activatedSemanticsDuration</string>
+	<key>missedLabelVisible</key>
+	<string>callbackCommandBehavior</string>
+	<key>navigationParamMomentum</key>
+	<string>mobileEquipmentResponse</string>
+	<key>numericalInterfaceOrigin</key>
+	<string>canvasKindDelay</string>
+	<key>persistentLayoutVelocity</key>
+	<string>aspectFormBehavior</string>
+	<key>publicExpandedCoord</key>
+	<string>configurationWithAction</string>
+	<key>requiredDecorationVisibility</key>
+	<string>challengeIncludePhase</string>
+	<key>viewWithStage</key>
+	<string>standaloneContainerInset</string>
+</dict>
+</plist>

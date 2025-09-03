@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncScopeAlignment</key>
+	<string>storageAdapterInteraction</string>
+	<key>dedicatedReducerShape</key>
+	<string>textBufferInset</string>
+	<key>eagerRoleName</key>
+	<string>serviceFunctionCenter</string>
+	<key>gesturedetectorFromStructure</key>
+	<string>checklistLevelDirection</string>
+	<key>newestTangentHue</key>
+	<string>sharedRoleBorder</string>
+	<key>providerModeBorder</key>
+	<string>persistentControllerInset</string>
+	<key>routerParameterAlignment</key>
+	<string>bitrateMethodCount</string>
+	<key>sineDuringBridge</key>
+	<string>denseBuilderTint</string>
+	<key>topicVersusFlyweight</key>
+	<string>prevCanvasTint</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPerChain</key>
+	<string>smallPopupBorder</string>
+	<key>directEventRight</key>
+	<string>localizationVersusStructure</string>
+	<key>elasticSymbolType</key>
+	<string>singletonViaProxy</string>
+	<key>segueVisitorLeft</key>
+	<string>curveAtVar</string>
+	<key>skirtAdapterAcceleration</key>
+	<string>durationLikeNumber</string>
+	<key>subsequentConstraintOrigin</key>
+	<string>ignoredStepDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAgainstShape</key>
+	<string>layoutFacadeFrequency</string>
+	<key>checklistObserverLocation</key>
+	<string>routeContainAction</string>
+	<key>coordinatorProxyPosition</key>
+	<string>widgetFacadeType</string>
+	<key>getxStrategyTransparency</key>
+	<string>buttonAndMethod</string>
+	<key>opaqueMobxMode</key>
+	<string>managerInComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisLevelBorder</key>
+	<string>sinkCommandFeedback</string>
+	<key>cubitJobShade</key>
+	<string>queryNearTask</string>
+	<key>equalizationPerObserver</key>
+	<string>subscriptionCompositeTint</string>
+	<key>memberInsideFlyweight</key>
+	<string>multiErrorName</string>
+	<key>routerInMediator</key>
+	<string>reductionAwayPhase</string>
+	<key>transitionBridgeDelay</key>
+	<string>callbackOfKind</string>
+	<key>transitionTaskCount</key>
+	<string>drawerLevelOrientation</string>
+</dict>
+</plist>

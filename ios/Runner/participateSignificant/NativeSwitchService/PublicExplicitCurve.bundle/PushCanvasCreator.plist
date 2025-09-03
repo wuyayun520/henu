@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleFromPhase</key>
+	<string>euclideanCallbackBehavior</string>
+	<key>delicateCacheKind</key>
+	<string>buttonStateSpacing</string>
+	<key>futureJobAlignment</key>
+	<string>constGradientFormat</string>
+	<key>gridOutsideState</key>
+	<string>intermediateDurationOrigin</string>
+	<key>opaqueTweenForce</key>
+	<string>resilientTabbarAppearance</string>
+	<key>resolverFormVisible</key>
+	<string>expandedAroundDecorator</string>
+	<key>responseSystemVisible</key>
+	<string>appbarFacadeHue</string>
+</dict>
+</plist>

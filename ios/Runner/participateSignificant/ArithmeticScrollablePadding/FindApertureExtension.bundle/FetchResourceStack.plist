@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferPerMemento</key>
+	<string>nodePatternFeedback</string>
+	<key>contractionAsContext</key>
+	<string>checkboxAdapterRotation</string>
+	<key>granularLayerDirection</key>
+	<string>intensityPhaseTag</string>
+	<key>precisionForParam</key>
+	<string>animatedLayoutStyle</string>
+	<key>prevEntityPadding</key>
+	<string>mobileTitleOffset</string>
+	<key>primaryConstraintMargin</key>
+	<string>currentCollectionPosition</string>
+	<key>reusableAspectratioHue</key>
+	<string>storeCycleBorder</string>
+	<key>uniqueBulletDelay</key>
+	<string>graphByJob</string>
+	<key>unsortedAnimationTension</key>
+	<string>effectJobSpeed</string>
+</dict>
+</plist>

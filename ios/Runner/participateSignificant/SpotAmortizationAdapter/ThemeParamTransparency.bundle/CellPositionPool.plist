@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directScaleContrast</key>
+	<string>respectiveBaselineSize</string>
+	<key>futureByJob</key>
+	<string>listenerBridgeOpacity</string>
+	<key>localizationCompositeInteraction</key>
+	<string>mapFunctionEdge</string>
+	<key>reducerLayerOffset</key>
+	<string>enabledCubeBehavior</string>
+	<key>responsePatternFrequency</key>
+	<string>skirtSinceActivity</string>
+	<key>significantStorageFlags</key>
+	<string>mediaWorkStatus</string>
+	<key>sophisticatedAnimationPadding</key>
+	<string>alphaVisitorDensity</string>
+	<key>statelessFacadeVisibility</key>
+	<string>statefulVectorSkewy</string>
+</dict>
+</plist>

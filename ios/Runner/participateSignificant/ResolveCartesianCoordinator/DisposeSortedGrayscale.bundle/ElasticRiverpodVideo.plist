@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLossType</key>
+	<string>animationIncludeLayer</string>
+	<key>contractionValueRight</key>
+	<string>cursorThroughStrategy</string>
+	<key>draggableViewStatus</key>
+	<string>eagerErrorAlignment</string>
+	<key>fusedClipperTail</key>
+	<string>frameValueSaturation</string>
+	<key>resizableButtonPadding</key>
+	<string>discardedIconPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCubitDuration</key>
+	<string>decorationParamShade</string>
+	<key>binaryInsideEnvironment</key>
+	<string>multiTouchMode</string>
+	<key>containerLikeSingleton</key>
+	<string>rectInStage</string>
+	<key>controllerSingletonInteraction</key>
+	<string>roleOrBuffer</string>
+	<key>desktopRouteInteraction</key>
+	<string>smallNodeTint</string>
+	<key>factoryBesideEnvironment</key>
+	<string>promiseThroughJob</string>
+	<key>prevDescriptionDensity</key>
+	<string>logAboutFramework</string>
+	<key>reducerPrototypeDelay</key>
+	<string>cellAlongState</string>
+	<key>subsequentVariantLeft</key>
+	<string>crudeOptionBound</string>
+	<key>typicalNotifierOpacity</key>
+	<string>activeAllocatorEdge</string>
+</dict>
+</plist>

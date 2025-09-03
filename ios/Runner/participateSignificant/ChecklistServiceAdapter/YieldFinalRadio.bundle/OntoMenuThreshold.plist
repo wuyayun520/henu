@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBeyondTemple</key>
+	<string>ternaryByFramework</string>
+	<key>cartesianDependencyValidation</key>
+	<string>originalBaseSpeed</string>
+	<key>previewBridgeBound</key>
+	<string>completionLevelShape</string>
+</dict>
+</plist>

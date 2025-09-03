@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncByTask</key>
+	<string>dedicatedSizeState</string>
+	<key>eventShapeTop</key>
+	<string>interactiveAppbarSpeed</string>
+	<key>fixedDescriptorTop</key>
+	<string>chapterLayerLeft</string>
+	<key>granularLayoutSpacing</key>
+	<string>themeValueRate</string>
+	<key>persistentExceptionDepth</key>
+	<string>asynchronousNotificationInteraction</string>
+	<key>remainderStageTransparency</key>
+	<string>futureExceptFacade</string>
+	<key>sceneInterpreterSpeed</key>
+	<string>requestContainBridge</string>
+</dict>
+</plist>

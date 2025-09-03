@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInteractorDuration</key>
+	<string>persistentSineOpacity</string>
+	<key>callbackTierFlags</key>
+	<string>alignmentStageForce</string>
+	<key>deferredPresenterState</key>
+	<string>lastNavigatorKind</string>
+	<key>opaqueBaselineTop</key>
+	<string>prevSampleScale</string>
+	<key>reusableButtonBound</key>
+	<string>modulusInsideMediator</string>
+	<key>sophisticatedCompositionCoord</key>
+	<string>querySinceFramework</string>
+</dict>
+</plist>

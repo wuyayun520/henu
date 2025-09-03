@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionControllerStyle</key>
+	<string>streamThroughAction</string>
+	<key>extensionFromDecorator</key>
+	<string>sliderVarTransparency</string>
+	<key>hardBinaryMargin</key>
+	<string>gesturedetectorPatternDepth</string>
+	<key>monsterInsideVar</key>
+	<string>immediateMenuPadding</string>
+	<key>multiplicationCycleFlags</key>
+	<string>semanticPriorityValidation</string>
+	<key>taskSingletonAlignment</key>
+	<string>behaviorMethodBound</string>
+</dict>
+</plist>

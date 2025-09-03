@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAmongPattern</key>
+	<string>localizationTypeTag</string>
+	<key>behaviorFlyweightCount</key>
+	<string>zoneStyleDepth</string>
+	<key>futureAtState</key>
+	<string>normalGridCenter</string>
+	<key>offsetTypeName</key>
+	<string>pinchableUtilDistance</string>
+	<key>resourceSincePlatform</key>
+	<string>interactorTypeBrightness</string>
+	<key>switchVariableMomentum</key>
+	<string>granularRouterSkewx</string>
+</dict>
+</plist>

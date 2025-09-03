@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOutsideVar</key>
+	<string>isolateFacadeMode</string>
+	<key>constraintVariableState</key>
+	<string>awaitOutsideNumber</string>
+	<key>criticalAsyncSaturation</key>
+	<string>fixedExceptionVelocity</string>
+	<key>curveObserverTheme</key>
+	<string>sampleTierRate</string>
+	<key>remainderFlyweightLocation</key>
+	<string>groupViaVisitor</string>
+	<key>storagePlatformLeft</key>
+	<string>protocolOfMode</string>
+</dict>
+</plist>

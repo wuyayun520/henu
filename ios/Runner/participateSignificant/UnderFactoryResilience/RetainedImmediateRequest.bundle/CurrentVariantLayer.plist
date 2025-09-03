@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPerCycle</key>
+	<string>asyncServiceInteraction</string>
+	<key>constraintTemplePressure</key>
+	<string>allocatorLayerTheme</string>
+	<key>dependencyPlatformSpacing</key>
+	<string>promiseObserverFeedback</string>
+	<key>loopOfFramework</key>
+	<string>persistentSizeHue</string>
+	<key>missedButtonEdge</key>
+	<string>decorationLevelTransparency</string>
+	<key>mutableExceptionLocation</key>
+	<string>mutableBoxshadowDepth</string>
+	<key>otherQueueCenter</key>
+	<string>reusableModulusSize</string>
+	<key>respectiveZoneCenter</key>
+	<string>managerOrLevel</string>
+	<key>semanticSizedboxTint</key>
+	<string>specifierOperationSkewx</string>
+	<key>synchronousColumnBehavior</key>
+	<string>pointTierAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventWithoutCommand</key>
+	<string>coordinatorStyleTint</string>
+	<key>menuVersusAction</key>
+	<string>finalGramState</string>
+	<key>modalBridgeAppearance</key>
+	<string>navigationStructureCoord</string>
+	<key>newestTopicInset</key>
+	<string>statelessStageStyle</string>
+	<key>repositoryStageKind</key>
+	<string>resourceThroughBuffer</string>
+	<key>storeInType</key>
+	<string>configurationStateCount</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDespitePrototype</key>
+	<string>tensorFeatureCoord</string>
+	<key>containerCompositeVisibility</key>
+	<string>newestMobileFormat</string>
+	<key>screenContainPhase</key>
+	<string>observerVersusParameter</string>
+	<key>textActionBottom</key>
+	<string>rectContainDecorator</string>
+</dict>
+</plist>

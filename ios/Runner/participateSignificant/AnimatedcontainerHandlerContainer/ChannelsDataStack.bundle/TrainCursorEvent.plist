@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoInjectionFrequency</key>
+	<string>particleAroundProcess</string>
+	<key>errorSinceCycle</key>
+	<string>actionDespiteProcess</string>
+	<key>finalProtocolType</key>
+	<string>deferredErrorSpeed</string>
+	<key>instructionExceptOperation</key>
+	<string>independentStoreDepth</string>
+	<key>nodeModeFeedback</key>
+	<string>switchAroundStyle</string>
+	<key>significantRouterDelay</key>
+	<string>controllerWithoutValue</string>
+</dict>
+</plist>

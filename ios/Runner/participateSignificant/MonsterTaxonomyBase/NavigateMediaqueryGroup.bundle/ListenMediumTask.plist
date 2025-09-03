@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveFeatureVisibility</key>
+	<string>cubeFlyweightEdge</string>
+	<key>gradientFacadeShade</key>
+	<string>queueOfShape</string>
+	<key>listviewShapeTheme</key>
+	<string>directTextBehavior</string>
+	<key>modelStyleSize</key>
+	<string>controllerAgainstMemento</string>
+	<key>providerForVariable</key>
+	<string>characterDuringVisitor</string>
+	<key>statefulMenuBorder</key>
+	<string>seamlessNavigatorVisible</string>
+	<key>symmetricBulletTop</key>
+	<string>taskThanDecorator</string>
+	<key>tensorCubitAcceleration</key>
+	<string>getxTypeFrequency</string>
+	<key>transitionAdapterKind</key>
+	<string>routerPerOperation</string>
+</dict>
+</plist>

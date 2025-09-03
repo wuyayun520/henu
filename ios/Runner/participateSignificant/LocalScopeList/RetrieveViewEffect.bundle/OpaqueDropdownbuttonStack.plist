@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorInsideStructure</key>
+	<string>smartSizeFeedback</string>
+	<key>iterativeBinaryInteraction</key>
+	<string>commonProviderOpacity</string>
+	<key>managerStrategyColor</key>
+	<string>usecaseLayerInteraction</string>
+	<key>pinchableDescriptorPosition</key>
+	<string>transformerKindIndex</string>
+	<key>spineKindTheme</key>
+	<string>criticalDelegateVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAtContext</key>
+	<string>rowForParam</string>
+	<key>cacheExceptScope</key>
+	<string>finalBulletMargin</string>
+	<key>invisibleInjectionSize</key>
+	<string>labelStageIndex</string>
+	<key>sustainableBulletOffset</key>
+	<string>isolateAwayParam</string>
+	<key>uniformMenuRotation</key>
+	<string>hardProviderRate</string>
+	<key>variantInterpreterTint</key>
+	<string>repositoryWithoutFacade</string>
+</dict>
+</plist>

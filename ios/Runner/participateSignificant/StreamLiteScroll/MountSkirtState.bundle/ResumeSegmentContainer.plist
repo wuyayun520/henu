@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightInset</key>
+	<string>constSkinPadding</string>
+	<key>disabledStorageOffset</key>
+	<string>protectedSliderScale</string>
+	<key>localizationAboutChain</key>
+	<string>unactivatedHashVisibility</string>
+	<key>previewEnvironmentRotation</key>
+	<string>topicOfPlatform</string>
+	<key>reusableRequestOpacity</key>
+	<string>activityBufferRate</string>
+	<key>statefulImageEdge</key>
+	<string>dimensionFromCommand</string>
+	<key>visibleOffsetOrigin</key>
+	<string>listenerStageDuration</string>
+</dict>
+</plist>

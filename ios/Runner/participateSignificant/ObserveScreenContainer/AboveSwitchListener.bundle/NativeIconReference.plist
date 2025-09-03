@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCubeBound</key>
+	<string>baseOrDecorator</string>
+	<key>checkboxByVariable</key>
+	<string>entityModeBrightness</string>
+	<key>cupertinoSampleRate</key>
+	<string>scrollableTaskType</string>
+	<key>inheritedCatalystSpeed</key>
+	<string>axisPhaseTag</string>
+	<key>intuitiveBulletHead</key>
+	<string>utilScopePadding</string>
+	<key>reducerThroughChain</key>
+	<string>workflowCompositeAlignment</string>
+	<key>rowAmongParameter</key>
+	<string>compositionalCollectionCoord</string>
+	<key>tappableAllocatorScale</key>
+	<string>gradientBesideMediator</string>
+</dict>
+</plist>

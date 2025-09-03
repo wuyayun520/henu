@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWithoutMode</key>
+	<string>materialSliderType</string>
+	<key>appbarTempleRight</key>
+	<string>persistentQueueVisibility</string>
+	<key>disabledScaleShade</key>
+	<string>listviewMethodState</string>
+	<key>imperativeDecorationBrightness</key>
+	<string>controllerAmongSystem</string>
+	<key>missedTitleBehavior</key>
+	<string>disabledPreviewTail</string>
+	<key>themeOrChain</key>
+	<string>descriptionAboutFunction</string>
+</dict>
+</plist>

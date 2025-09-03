@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEventEdge</key>
+	<string>curveCycleFlags</string>
+	<key>descriptionWithoutCycle</key>
+	<string>activatedMobxAppearance</string>
+	<key>desktopThreadDensity</key>
+	<string>labelUntilLayer</string>
+	<key>isolateAgainstMemento</key>
+	<string>constStreamScale</string>
+	<key>memberProcessTransparency</key>
+	<string>riverpodObserverFrequency</string>
+	<key>missionVersusForm</key>
+	<string>textChainVisibility</string>
+	<key>segueVarSkewx</key>
+	<string>immutableConsumerDirection</string>
+	<key>streamProxyCoord</key>
+	<string>rapidCoordinatorTag</string>
+	<key>sustainableProgressbarTheme</key>
+	<string>slashThroughActivity</string>
+</dict>
+</plist>

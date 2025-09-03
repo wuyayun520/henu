@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVersusFramework</key>
+	<string>errorBridgeBrightness</string>
+	<key>bitrateCommandScale</key>
+	<string>materialJobRate</string>
+	<key>bufferInOperation</key>
+	<string>directRequestCount</string>
+	<key>cellNumberOffset</key>
+	<string>activeGemTop</string>
+	<key>containerScopeBottom</key>
+	<string>robustBaseState</string>
+	<key>descriptorParamTheme</key>
+	<string>customizedResponseStyle</string>
+	<key>imperativeEffectRight</key>
+	<string>resultAsComposite</string>
+	<key>layoutContextCount</key>
+	<string>asynchronousCubitSaturation</string>
+	<key>mobxThroughTask</key>
+	<string>awaitByChain</string>
+	<key>transitionUntilParameter</key>
+	<string>concurrentServiceSaturation</string>
+</dict>
+</plist>

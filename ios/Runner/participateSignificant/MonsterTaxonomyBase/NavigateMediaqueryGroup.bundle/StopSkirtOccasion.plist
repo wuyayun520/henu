@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterDuringAction</key>
+	<string>toolPatternTail</string>
+	<key>dependencyTempleShape</key>
+	<string>resilientTextVisible</string>
+	<key>eagerWidgetResponse</key>
+	<string>unactivatedInteractorVisible</string>
+	<key>requestThanStyle</key>
+	<string>precisionForTier</string>
+	<key>widgetNumberSkewy</key>
+	<string>statefulUtilRate</string>
+</dict>
+</plist>

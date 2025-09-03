@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFlexInset</key>
+	<string>uniformBehaviorRight</string>
+	<key>hyperbolicConstraintLocation</key>
+	<string>logarithmMementoValidation</string>
+	<key>isolateKindDelay</key>
+	<string>isolateInsideScope</string>
+	<key>profileScopeSkewy</key>
+	<string>variantAgainstCycle</string>
+	<key>topicVariablePressure</key>
+	<string>subsequentPositionMode</string>
+</dict>
+</plist>

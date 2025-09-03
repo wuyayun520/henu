@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedQueryState</key>
+	<string>apertureByProcess</string>
+	<key>eagerQueueSpeed</key>
+	<string>cupertinoAboutFramework</string>
+	<key>frameWithShape</key>
+	<string>apertureWorkSkewx</string>
+	<key>invisibleNotificationInterval</key>
+	<string>asyncProgressbarInset</string>
+	<key>positionedSinceVar</key>
+	<string>imperativeTabbarState</string>
+	<key>zoneAlongValue</key>
+	<string>interactorForLayer</string>
+</dict>
+</plist>

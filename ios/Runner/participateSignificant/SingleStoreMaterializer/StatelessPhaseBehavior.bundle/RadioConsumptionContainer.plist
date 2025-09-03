@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperCommandTransparency</key>
+	<string>mediaAndTask</string>
+	<key>clipperStrategyState</key>
+	<string>hyperbolicColumnAlignment</string>
+	<key>interpolationAmongWork</key>
+	<string>largeScrollTop</string>
+	<key>nodeExceptOperation</key>
+	<string>batchPerCommand</string>
+	<key>rectDespiteValue</key>
+	<string>completionPhaseKind</string>
+</dict>
+</plist>

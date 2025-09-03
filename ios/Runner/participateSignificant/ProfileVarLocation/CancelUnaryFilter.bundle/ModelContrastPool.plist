@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customTimerBottom</key>
+	<string>lazyKernelVelocity</string>
+	<key>finalRouterFeedback</key>
+	<string>activatedIsolateDuration</string>
+	<key>gradientContextFeedback</key>
+	<string>gradientActionAppearance</string>
+	<key>intuitiveProviderDelay</key>
+	<string>challengeObserverDepth</string>
+	<key>popupBeyondForm</key>
+	<string>gridEnvironmentSpacing</string>
+	<key>repositoryAdapterContrast</key>
+	<string>heroVariableOffset</string>
+	<key>standaloneErrorDistance</key>
+	<string>aspectSystemAcceleration</string>
+	<key>swiftOrForm</key>
+	<string>spriteModeCount</string>
+</dict>
+</plist>

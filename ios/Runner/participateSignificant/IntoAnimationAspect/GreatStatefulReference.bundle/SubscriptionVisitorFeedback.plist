@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorAmongSystem</key>
+	<string>fragmentBeyondLayer</string>
+	<key>gestureActivityVisibility</key>
+	<string>rowMementoCenter</string>
+	<key>greatInterpolationCoord</key>
+	<string>displayableListviewColor</string>
+	<key>listenerAsChain</key>
+	<string>immediatePointBottom</string>
+	<key>rowInEnvironment</key>
+	<string>cellInsideProxy</string>
+</dict>
+</plist>

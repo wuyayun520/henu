@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOrPattern</key>
+	<string>alertTempleSkewx</string>
+	<key>scrollableBoxRate</key>
+	<string>singletonAtForm</string>
+	<key>significantViewBound</key>
+	<string>opaqueResponseInteraction</string>
+	<key>stampExceptTier</key>
+	<string>factoryStrategySkewx</string>
+	<key>statefulCanvasName</key>
+	<string>vectorStateOpacity</string>
+</dict>
+</plist>

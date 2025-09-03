@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAndParameter</key>
+	<string>switchBufferFlags</string>
+	<key>aspectratioIncludeShape</key>
+	<string>usedInteractorPadding</string>
+	<key>labelVersusType</key>
+	<string>overlayVersusFlyweight</string>
+	<key>mediaFacadeCoord</key>
+	<string>symmetricCurveSkewx</string>
+	<key>modelInterpreterOffset</key>
+	<string>storageAsBridge</string>
+	<key>providerInsideAction</key>
+	<string>captionLikeParam</string>
+	<key>workflowBeyondParameter</key>
+	<string>positionedModeDistance</string>
+</dict>
+</plist>

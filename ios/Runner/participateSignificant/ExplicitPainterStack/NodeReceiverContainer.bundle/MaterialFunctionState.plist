@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoNavigatorBehavior</key>
+	<string>containerFromSingleton</string>
+	<key>listviewAgainstProcess</key>
+	<string>injectionVarShade</string>
+	<key>mapAmongVisitor</key>
+	<string>exponentKindTail</string>
+	<key>movementNumberFormat</key>
+	<string>responsiveSwitchAcceleration</string>
+</dict>
+</plist>

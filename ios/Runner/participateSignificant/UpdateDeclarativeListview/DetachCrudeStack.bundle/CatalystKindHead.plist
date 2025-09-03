@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resilientParticleSkewy</key>
+	<string>transformerStrategyLeft</string>
+	<key>respectiveContainerOffset</key>
+	<string>durationAlongForm</string>
+	<key>rowStateBehavior</key>
+	<string>constraintTierCount</string>
+	<key>temporaryChannelsKind</key>
+	<string>tappableCompleterTail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystJobAppearance</key>
+	<string>managerStyleDuration</string>
+	<key>chapterCommandStatus</key>
+	<string>managerScopeHead</string>
+	<key>lostRowInteraction</key>
+	<string>similarSegueMode</string>
+	<key>missedRiverpodName</key>
+	<string>singletonMementoResponse</string>
+	<key>positionPerAdapter</key>
+	<string>autoSensorFlags</string>
+	<key>resizableBulletRotation</key>
+	<string>capsuleVarOffset</string>
+	<key>viewTempleInset</key>
+	<string>sceneCycleTag</string>
+</dict>
+</plist>

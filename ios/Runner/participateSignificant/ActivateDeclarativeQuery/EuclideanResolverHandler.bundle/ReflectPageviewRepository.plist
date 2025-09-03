@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableResultInterval</key>
+	<string>inactiveStepStyle</string>
+	<key>enabledBatchFeedback</key>
+	<string>positionedByNumber</string>
+	<key>fusedCustompaintLeft</key>
+	<string>appbarAgainstStrategy</string>
+	<key>heroWithoutCycle</key>
+	<string>queueAdapterColor</string>
+	<key>intensityAboutMode</key>
+	<string>singletonViaDecorator</string>
+	<key>modulusFlyweightValidation</key>
+	<string>frameStateResponse</string>
+	<key>musicValueAcceleration</key>
+	<string>cupertinoViewSpeed</string>
+	<key>seamlessRepositoryTheme</key>
+	<string>standaloneErrorSize</string>
+	<key>storageFrameworkFlags</key>
+	<string>containerAtObserver</string>
+</dict>
+</plist>

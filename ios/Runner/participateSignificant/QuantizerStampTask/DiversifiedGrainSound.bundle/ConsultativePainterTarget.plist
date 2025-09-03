@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialOptimizerTag</key>
+	<string>baseModeOrientation</string>
+	<key>newestControllerLeft</key>
+	<string>sensorShapePressure</string>
+	<key>pinchableAnchorMomentum</key>
+	<string>gridviewWithoutTask</string>
+	<key>riverpodInComposite</key>
+	<string>cacheBufferCenter</string>
+	<key>spineWithChain</key>
+	<string>taskExceptPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSliderTag</key>
+	<string>localViewEdge</string>
+	<key>cupertinoLayerDuration</key>
+	<string>segueStyleScale</string>
+	<key>finalObserverSkewy</key>
+	<string>sizePerCycle</string>
+	<key>integerNumberResponse</key>
+	<string>callbackStructureVisible</string>
+	<key>listenerMediatorAppearance</key>
+	<string>associatedAsyncBound</string>
+	<key>lostRouterInterval</key>
+	<string>graphicLayerVisibility</string>
+	<key>mutableRepositoryAppearance</key>
+	<string>boxWithoutEnvironment</string>
+	<key>swiftStructureSpeed</key>
+	<string>checklistAgainstStyle</string>
+</dict>
+</plist>

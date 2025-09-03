@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOperationPosition</key>
+	<string>equipmentLikeType</string>
+	<key>disabledPresenterRate</key>
+	<string>fixedCardTag</string>
+	<key>nodeInsideStructure</key>
+	<string>tickerOfSystem</string>
+	<key>scrollIncludeAction</key>
+	<string>smallFeatureInterval</string>
+</dict>
+</plist>

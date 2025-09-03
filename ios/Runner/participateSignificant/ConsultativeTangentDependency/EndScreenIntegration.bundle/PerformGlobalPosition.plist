@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAtMode</key>
+	<string>labelAsState</string>
+	<key>desktopResourceAppearance</key>
+	<string>popupBeyondParam</string>
+	<key>inheritedMetadataInset</key>
+	<string>notifierTaskBrightness</string>
+	<key>routerContextStatus</key>
+	<string>interactiveNodeOffset</string>
+	<key>similarGestureColor</key>
+	<string>interactiveNodeDuration</string>
+</dict>
+</plist>

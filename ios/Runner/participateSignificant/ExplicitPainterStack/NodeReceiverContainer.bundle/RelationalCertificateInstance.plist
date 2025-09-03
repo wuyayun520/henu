@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAndPattern</key>
+	<string>eventViaParam</string>
+	<key>containerAdapterTint</key>
+	<string>nodeObserverTail</string>
+	<key>cubeSystemTag</key>
+	<string>currentStoryboardPadding</string>
+	<key>curveAboutPlatform</key>
+	<string>responsivePrecisionHue</string>
+	<key>semanticsThanType</key>
+	<string>prevLocalizationShade</string>
+	<key>tabviewChainInset</key>
+	<string>providerOperationShade</string>
+</dict>
+</plist>

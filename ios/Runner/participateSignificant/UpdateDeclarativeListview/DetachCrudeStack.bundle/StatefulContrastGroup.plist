@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSingletonSpacing</key>
+	<string>advancedAppbarRate</string>
+	<key>behaviorCycleBrightness</key>
+	<string>usedFrameDepth</string>
+	<key>cardPlatformOrigin</key>
+	<string>positionInsideLevel</string>
+	<key>durationWithPlatform</key>
+	<string>coordinatorBesidePrototype</string>
+	<key>observerUntilValue</key>
+	<string>dropdownbuttonAlongType</string>
+	<key>pinchableAlphaStatus</key>
+	<string>interactiveDropdownbuttonOrientation</string>
+	<key>sampleVisitorStyle</key>
+	<string>progressbarScopeOffset</string>
+	<key>spineOperationState</key>
+	<string>builderFrameworkOrientation</string>
+</dict>
+</plist>

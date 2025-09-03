@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionContainMethod</key>
+	<string>firstBitrateType</string>
+	<key>sampleFrameworkDirection</key>
+	<string>missionVersusActivity</string>
+	<key>serviceValueInteraction</key>
+	<string>offsetVersusInterpreter</string>
+	<key>spotViaSystem</key>
+	<string>instructionContainFlyweight</string>
+</dict>
+</plist>

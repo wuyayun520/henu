@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferByJob</key>
+	<string>equipmentAdapterBehavior</string>
+	<key>delegatePlatformOpacity</key>
+	<string>mobileCommandBorder</string>
+	<key>descriptorLikeOperation</key>
+	<string>semanticsLevelTag</string>
+	<key>elasticFragmentDuration</key>
+	<string>staticFrameInteraction</string>
+	<key>graphTempleOffset</key>
+	<string>dialogsValueScale</string>
+	<key>robustLabelSpacing</key>
+	<string>subpixelOfForm</string>
+	<key>robustSessionMargin</key>
+	<string>alignmentNumberRotation</string>
+	<key>rowFunctionColor</key>
+	<string>granularOffsetDirection</string>
+	<key>usageInsideTemple</key>
+	<string>resizableBehaviorVisible</string>
+</dict>
+</plist>

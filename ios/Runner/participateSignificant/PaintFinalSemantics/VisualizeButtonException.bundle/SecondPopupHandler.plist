@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOperationContrast</key>
+	<string>titleActivityPosition</string>
+	<key>asynchronousDurationState</key>
+	<string>histogramPerPrototype</string>
+	<key>binaryValueRotation</key>
+	<string>effectFlyweightInterval</string>
+	<key>catalystDecoratorHue</key>
+	<string>reducerAroundProxy</string>
+	<key>channelAlongStrategy</key>
+	<string>scaleBridgeStatus</string>
+	<key>firstSubscriptionBrightness</key>
+	<string>routerAndParam</string>
+	<key>particleSingletonTail</key>
+	<string>semanticCommandBehavior</string>
+	<key>positionedSystemFrequency</key>
+	<string>factoryStateDuration</string>
+	<key>statefulExponentInteraction</key>
+	<string>gesturedetectorVersusAdapter</string>
+</dict>
+</plist>

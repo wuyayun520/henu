@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetFunctionBrightness</key>
+	<string>independentScaleOrientation</string>
+	<key>blocProcessLeft</key>
+	<string>columnChainCenter</string>
+	<key>durationParamCount</key>
+	<string>grainIncludeAdapter</string>
+	<key>interactiveCacheDelay</key>
+	<string>gridLayerTag</string>
+	<key>routerShapePosition</key>
+	<string>singletonOutsideScope</string>
+	<key>statelessFlexFrequency</key>
+	<string>borderAsFacade</string>
+	<key>vectorVersusMode</key>
+	<string>resourceThroughScope</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellStyleType</key>
+	<string>granularDurationMomentum</string>
+	<key>masterContainChain</key>
+	<string>unaryCommandMode</string>
+	<key>synchronousLocalizationSpacing</key>
+	<string>tweenInOperation</string>
+	<key>titleWithFunction</key>
+	<string>titleFrameworkResponse</string>
+</dict>
+</plist>

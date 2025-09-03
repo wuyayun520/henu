@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocProcessDelay</key>
+	<string>stateDespiteMediator</string>
+	<key>materialMethodState</key>
+	<string>assetAboutActivity</string>
+	<key>transitionIncludeMemento</key>
+	<string>activatedStreamTheme</string>
+	<key>unactivatedStoreColor</key>
+	<string>layerSingletonInteraction</string>
+</dict>
+</plist>

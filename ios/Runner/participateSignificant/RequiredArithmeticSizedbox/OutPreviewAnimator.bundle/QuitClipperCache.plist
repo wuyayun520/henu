@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentIncludeBridge</key>
+	<string>cubeCommandValidation</string>
+	<key>equalizationContextColor</key>
+	<string>keySubpixelRate</string>
+	<key>materialProxyState</key>
+	<string>coordinatorCycleSkewx</string>
+	<key>mutableButtonScale</key>
+	<string>scrollableStateSkewx</string>
+	<key>optionAlongWork</key>
+	<string>pageviewBridgeMomentum</string>
+	<key>sceneAsVar</key>
+	<string>textPerEnvironment</string>
+	<key>sliderFrameworkBottom</key>
+	<string>synchronousSceneColor</string>
+</dict>
+</plist>

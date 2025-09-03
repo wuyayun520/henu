@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationStageContrast</key>
+	<string>resilientTextureSpacing</string>
+	<key>disabledPositionedPadding</key>
+	<string>streamBufferCoord</string>
+	<key>easySpriteDistance</key>
+	<string>asyncTernaryLocation</string>
+	<key>fixedSingletonInteraction</key>
+	<string>chapterScopeFeedback</string>
+	<key>frameInterpreterVisible</key>
+	<string>popupLayerOrientation</string>
+	<key>scrollableAwaitIndex</key>
+	<string>uniqueFlexValidation</string>
+	<key>statefulManagerCount</key>
+	<string>resilientFeatureBottom</string>
+	<key>synchronousChannelsResponse</key>
+	<string>sizedboxScopeTop</string>
+	<key>transitionContainScope</key>
+	<string>smartSinkAppearance</string>
+</dict>
+</plist>

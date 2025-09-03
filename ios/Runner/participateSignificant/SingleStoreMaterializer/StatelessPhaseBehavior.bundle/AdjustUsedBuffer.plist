@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferThroughParam</key>
+	<string>canvasNearParameter</string>
+	<key>cardAndAdapter</key>
+	<string>bitrateSystemFrequency</string>
+	<key>popupScopeRotation</key>
+	<string>capsuleStageRotation</string>
+	<key>primaryActionScale</key>
+	<string>directGraphTension</string>
+	<key>temporaryPlaybackContrast</key>
+	<string>swiftBesideStage</string>
+</dict>
+</plist>

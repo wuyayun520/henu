@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFromProxy</key>
+	<string>lazyChartFeedback</string>
+	<key>alphaAroundStrategy</key>
+	<string>priorMetadataColor</string>
+	<key>animationIncludeContext</key>
+	<string>projectionFlyweightInset</string>
+	<key>inactiveIntensityForce</key>
+	<string>timerFunctionTension</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteSubpixelShape</key>
+	<string>routePhaseTint</string>
+	<key>loopModeVisible</key>
+	<string>multiPositionFeedback</string>
+	<key>mapCompositeInteraction</key>
+	<string>transitionOperationName</string>
+	<key>nibVersusMethod</key>
+	<string>indicatorOrKind</string>
+	<key>positionProxyPosition</key>
+	<string>tappableStoryboardCoord</string>
+	<key>timerOfMemento</key>
+	<string>smallEffectForce</string>
+</dict>
+</plist>

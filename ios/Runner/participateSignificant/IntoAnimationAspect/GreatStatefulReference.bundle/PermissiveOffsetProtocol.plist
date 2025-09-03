@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewAtOperation</key>
+	<string>boxAboutTask</string>
+	<key>mobxCompositeVisibility</key>
+	<string>rapidGridTransparency</string>
+	<key>optimizerWithState</key>
+	<string>inactiveTransitionFrequency</string>
+	<key>positionedCommandCenter</key>
+	<string>dedicatedConstraintScale</string>
+	<key>requiredExceptionTail</key>
+	<string>smallReducerHead</string>
+	<key>symbolUntilFunction</key>
+	<string>momentumEnvironmentFeedback</string>
+</dict>
+</plist>

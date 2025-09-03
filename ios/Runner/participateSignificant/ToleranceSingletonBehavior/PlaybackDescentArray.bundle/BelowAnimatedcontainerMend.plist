@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedLossBehavior</key>
+	<string>checklistTaskAcceleration</string>
+	<key>pinchableAccessoryBehavior</key>
+	<string>unactivatedSwitchOpacity</string>
+	<key>routerWithoutStage</key>
+	<string>lossUntilMode</string>
+	<key>stampTierPressure</key>
+	<string>liteHashRate</string>
+	<key>themeTypeShade</key>
+	<string>denseAspectratioInterval</string>
+</dict>
+</plist>

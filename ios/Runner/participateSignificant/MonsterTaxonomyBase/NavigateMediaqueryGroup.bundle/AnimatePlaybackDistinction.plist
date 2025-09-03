@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNavigatorEdge</key>
+	<string>popupTierBrightness</string>
+	<key>autoPreviewAcceleration</key>
+	<string>promiseAroundLevel</string>
+	<key>collectionStateHead</key>
+	<string>standaloneCursorContrast</string>
+	<key>enabledDescriptionTension</key>
+	<string>tappableTouchStyle</string>
+	<key>queueAroundJob</key>
+	<string>referenceOutsidePhase</string>
+	<key>ternaryOperationColor</key>
+	<string>taskPlatformBorder</string>
+	<key>titleTaskMomentum</key>
+	<string>iterativeAccessoryAcceleration</string>
+</dict>
+</plist>

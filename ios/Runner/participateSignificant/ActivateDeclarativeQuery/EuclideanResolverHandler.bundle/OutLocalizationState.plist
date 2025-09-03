@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricPlaybackOrigin</key>
+	<string>mobileCapacitiesLeft</string>
+	<key>kernelPerState</key>
+	<string>keyBorderSkewx</string>
+	<key>localizationTaskOrigin</key>
+	<string>activeLayerValidation</string>
+	<key>spotWithLayer</key>
+	<string>sustainableTexturePosition</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRadioPressure</key>
+	<string>spineStateRotation</string>
+	<key>constSkinSize</key>
+	<string>tappableCompositionRate</string>
+	<key>factoryAboutProxy</key>
+	<string>allocatorPerOperation</string>
+	<key>persistentScreenPadding</key>
+	<string>fragmentModeBound</string>
+	<key>tangentAboutSystem</key>
+	<string>tickerAndPlatform</string>
+	<key>variantViaParameter</key>
+	<string>queueMediatorAcceleration</string>
+	<key>widgetDespiteTier</key>
+	<string>textfieldWithJob</string>
+</dict>
+</plist>

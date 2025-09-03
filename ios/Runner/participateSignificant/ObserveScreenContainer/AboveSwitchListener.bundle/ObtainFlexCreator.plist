@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPresenterShade</key>
+	<string>behaviorPatternHue</string>
+	<key>concreteRouteBrightness</key>
+	<string>constraintNearShape</string>
+	<key>concurrentOffsetInset</key>
+	<string>resourceContextShade</string>
+	<key>consumerWithoutProcess</key>
+	<string>hashThroughShape</string>
+	<key>documentUntilFramework</key>
+	<string>modalAboutDecorator</string>
+	<key>eagerConsumerLeft</key>
+	<string>spineDuringKind</string>
+	<key>eventWorkInteraction</key>
+	<string>delegateVarBorder</string>
+	<key>mainDecorationTop</key>
+	<string>denseCompleterType</string>
+	<key>storeBeyondBuffer</key>
+	<string>clipperMementoCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisContainMemento</key>
+	<string>animationOfDecorator</string>
+	<key>drawerObserverLocation</key>
+	<string>overlayPlatformLocation</string>
+	<key>nodeThroughAdapter</key>
+	<string>controllerLikeLayer</string>
+	<key>smallMatrixTag</key>
+	<string>viewFormShape</string>
+</dict>
+</plist>

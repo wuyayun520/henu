@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateCompositeDirection</key>
+	<string>draggableAxisScale</string>
+	<key>custompaintBufferFormat</key>
+	<string>statefulCanvasDepth</string>
+	<key>hardPriorityFlags</key>
+	<string>navigationInKind</string>
+	<key>interpolationFacadeIndex</key>
+	<string>curveMementoKind</string>
+	<key>loopTypeShape</key>
+	<string>futureParamCoord</string>
+	<key>mediocreGridDuration</key>
+	<string>contractionKindVisibility</string>
+	<key>mediumStoragePressure</key>
+	<string>heroForTier</string>
+	<key>subsequentSingletonFrequency</key>
+	<string>widgetForMemento</string>
+</dict>
+</plist>

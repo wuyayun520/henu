@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedPaddingTag</key>
+	<string>requiredAxisSkewx</string>
+	<key>labelOrAdapter</key>
+	<string>futureContextVisibility</string>
+	<key>navigatorContextContrast</key>
+	<string>mobxWithChain</string>
+	<key>playbackPhaseName</key>
+	<string>difficultRectFrequency</string>
+	<key>resizableObserverAcceleration</key>
+	<string>immutableCycleSaturation</string>
+	<key>resolverKindFrequency</key>
+	<string>delegateOutsideTier</string>
+	<key>routePerLevel</key>
+	<string>histogramVersusMemento</string>
+	<key>spineBufferTint</key>
+	<string>custompaintIncludeFlyweight</string>
+	<key>taskScopeBorder</key>
+	<string>shaderParamMode</string>
+	<key>transformerExceptVar</key>
+	<string>smallPositionFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleChapterTransparency</key>
+	<string>commonScaleTop</string>
+	<key>accessibleNibOrigin</key>
+	<string>euclideanSliderBorder</string>
+	<key>arithmeticRoleScale</key>
+	<string>draggableNodeForce</string>
+	<key>baselineUntilFlyweight</key>
+	<string>taskContextBottom</string>
+	<key>cacheLevelBrightness</key>
+	<string>rapidAccessoryAlignment</string>
+	<key>factoryThroughScope</key>
+	<string>methodContextOrientation</string>
+	<key>reactiveInterfaceFrequency</key>
+	<string>buttonWorkName</string>
+</dict>
+</plist>

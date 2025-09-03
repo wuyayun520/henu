@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitViaState</key>
+	<string>criticalImageBrightness</string>
+	<key>containerStrategyCount</key>
+	<string>numericalNavigationKind</string>
+	<key>expandedAboutTask</key>
+	<string>menuLevelContrast</string>
+	<key>injectionWithParameter</key>
+	<string>scenePatternBound</string>
+	<key>positionValueState</key>
+	<string>queryVersusEnvironment</string>
+</dict>
+</plist>

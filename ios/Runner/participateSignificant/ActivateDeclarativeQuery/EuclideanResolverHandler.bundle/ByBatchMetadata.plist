@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOutsideAction</key>
+	<string>gramFromSingleton</string>
+	<key>aspectActivityBrightness</key>
+	<string>uniformObserverFeedback</string>
+	<key>captionKindOpacity</key>
+	<string>independentResponseAlignment</string>
+	<key>cubitJobInset</key>
+	<string>protocolAdapterTag</string>
+	<key>menuAmongStage</key>
+	<string>collectionWithoutObserver</string>
+	<key>primarySessionDensity</key>
+	<string>accordionBitrateVelocity</string>
+</dict>
+</plist>

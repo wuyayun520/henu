@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFormStatus</key>
+	<string>collectionExceptAction</string>
+	<key>navigatorWithMediator</key>
+	<string>commandByTask</string>
+	<key>petInsideStrategy</key>
+	<string>displayableDecorationFeedback</string>
+	<key>scrollableReducerFormat</key>
+	<string>transitionFromMode</string>
+	<key>sensorFormTransparency</key>
+	<string>durationBufferHead</string>
+	<key>significantNotificationForce</key>
+	<string>dropdownbuttonScopeSpacing</string>
+	<key>statelessWithShape</key>
+	<string>webRectAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorObserverMode</key>
+	<string>backwardConfigurationInteraction</string>
+	<key>coordinatorPerDecorator</key>
+	<string>menuMementoTheme</string>
+	<key>dependencyAsParameter</key>
+	<string>curveDuringForm</string>
+	<key>enabledTransitionMargin</key>
+	<string>popupSinceLevel</string>
+	<key>integerOperationInterval</key>
+	<string>entityAroundEnvironment</string>
+	<key>requiredCubitBound</key>
+	<string>timerAndType</string>
+	<key>routeJobStatus</key>
+	<string>widgetChainLocation</string>
+	<key>smallGridShape</key>
+	<string>reusableTransitionHue</string>
+</dict>
+</plist>

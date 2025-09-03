@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicResolverStatus</key>
+	<string>cubitBySingleton</string>
+	<key>canvasBeyondChain</key>
+	<string>isolateObserverTint</string>
+	<key>cardTempleBottom</key>
+	<string>paddingFormFlags</string>
+	<key>dedicatedDocumentFeedback</key>
+	<string>columnBesideComposite</string>
+	<key>delicateSceneInset</key>
+	<string>intermediateRadiusType</string>
+	<key>ephemeralAxisShade</key>
+	<string>radiusAdapterSpacing</string>
+	<key>symmetricCollectionShade</key>
+	<string>rowWithStrategy</string>
+	<key>tickerMethodBottom</key>
+	<string>specifierFromAction</string>
+	<key>usedSizeShade</key>
+	<string>usageJobOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocWithoutNumber</key>
+	<string>petPerTier</string>
+	<key>cupertinoAsMode</key>
+	<string>gramExceptBridge</string>
+	<key>integerAdapterMode</key>
+	<string>iterativeScreenFlags</string>
+	<key>sequentialAnimationSkewx</key>
+	<string>metadataAlongScope</string>
+	<key>serviceViaProxy</key>
+	<string>transformerThroughPhase</string>
+</dict>
+</plist>

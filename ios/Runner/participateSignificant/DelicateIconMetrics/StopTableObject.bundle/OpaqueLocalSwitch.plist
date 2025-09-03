@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableResolverFeedback</key>
+	<string>asynchronousListenerBound</string>
+	<key>publicSegmentVisibility</key>
+	<string>nativeTransitionName</string>
+	<key>queueCompositeDelay</key>
+	<string>stampParameterFlags</string>
+	<key>rapidSingletonOpacity</key>
+	<string>statefulExponentAppearance</string>
+	<key>sceneOrSingleton</key>
+	<string>arithmeticTaskSize</string>
+	<key>semanticsDuringAdapter</key>
+	<string>vectorFlyweightEdge</string>
+	<key>staticSampleSkewy</key>
+	<string>accessoryThanMethod</string>
+	<key>toolOutsideObserver</key>
+	<string>storageInterpreterForce</string>
+</dict>
+</plist>

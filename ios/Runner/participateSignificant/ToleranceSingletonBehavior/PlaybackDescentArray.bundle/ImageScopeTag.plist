@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalBoxshadowTag</key>
+	<string>taskInParam</string>
+	<key>movementAndForm</key>
+	<string>buttonDespiteAction</string>
+	<key>pageviewBufferAcceleration</key>
+	<string>streamProcessBound</string>
+	<key>stampBesidePrototype</key>
+	<string>futureInsideFlyweight</string>
+	<key>stampInsideAdapter</key>
+	<string>custompaintFormOrigin</string>
+	<key>sustainableUsecaseAlignment</key>
+	<string>immutableLayerTheme</string>
+</dict>
+</plist>

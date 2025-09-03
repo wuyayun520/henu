@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramSystemTop</key>
+	<string>nibTierSkewy</string>
+	<key>staticPresenterRotation</key>
+	<string>otherClipperBound</string>
+</dict>
+</plist>

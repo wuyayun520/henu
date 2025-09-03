@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityViaForm</key>
+	<string>exceptionContextMode</string>
+	<key>assetLikeDecorator</key>
+	<string>inkwellJobType</string>
+	<key>enabledBitrateInteraction</key>
+	<string>effectProxyFlags</string>
+	<key>enabledLocalizationHue</key>
+	<string>storyboardContainKind</string>
+	<key>flexibleProfilePadding</key>
+	<string>currentHandlerCoord</string>
+	<key>intermediateAnimatedcontainerDensity</key>
+	<string>integerAdapterHue</string>
+	<key>permanentSinkInset</key>
+	<string>euclideanOperationOffset</string>
+	<key>robustDescriptionRotation</key>
+	<string>transformerDespitePhase</string>
+</dict>
+</plist>

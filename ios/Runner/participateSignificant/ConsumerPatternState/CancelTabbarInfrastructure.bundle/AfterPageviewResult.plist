@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemIncludeJob</key>
+	<string>sizeTaskPosition</string>
+	<key>independentSegueSaturation</key>
+	<string>serviceOutsideLevel</string>
+	<key>indicatorAwayNumber</key>
+	<string>responseForVisitor</string>
+	<key>interactiveNodeValidation</key>
+	<string>sliderNumberTint</string>
+	<key>lazyCompletionOrigin</key>
+	<string>interactorMementoPadding</string>
+	<key>visibleButtonSpacing</key>
+	<string>modelTierHue</string>
+</dict>
+</plist>

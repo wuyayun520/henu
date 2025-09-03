@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptBridge</key>
+	<string>accessoryOperationOffset</string>
+	<key>animationLikeStrategy</key>
+	<string>paddingAwayType</string>
+	<key>layerFlyweightTint</key>
+	<string>enabledNodeCount</string>
+	<key>lossLikeValue</key>
+	<string>vectorBeyondDecorator</string>
+</dict>
+</plist>

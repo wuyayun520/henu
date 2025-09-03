@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticQueryAlignment</key>
+	<string>priorityByComposite</string>
+	<key>awaitNumberAppearance</key>
+	<string>dependencyLayerRate</string>
+	<key>constraintPhaseHue</key>
+	<string>missionThanValue</string>
+	<key>containerDespiteTask</key>
+	<string>concurrentWidgetOffset</string>
+	<key>coordinatorPrototypeSpacing</key>
+	<string>equipmentContainObserver</string>
+	<key>effectDuringFacade</key>
+	<string>newestLocalizationDensity</string>
+	<key>mediaFlyweightPosition</key>
+	<string>pivotalMusicStyle</string>
+	<key>plateProcessResponse</key>
+	<string>heroFromAdapter</string>
+</dict>
+</plist>

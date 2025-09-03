@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentVarBorder</key>
+	<string>rapidSliderAcceleration</string>
+	<key>relationalSubscriptionTag</key>
+	<string>behaviorUntilVar</string>
+</dict>
+</plist>

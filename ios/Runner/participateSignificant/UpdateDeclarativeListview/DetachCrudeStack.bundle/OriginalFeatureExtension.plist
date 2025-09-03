@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOfInterpreter</key>
+	<string>listviewMediatorTint</string>
+	<key>arithmeticInstructionValidation</key>
+	<string>activityStrategyTop</string>
+	<key>callbackIncludeFunction</key>
+	<string>checkboxCommandBehavior</string>
+	<key>decorationFunctionDuration</key>
+	<string>layoutViaKind</string>
+	<key>flexibleCompletionBehavior</key>
+	<string>futureLayerCenter</string>
+	<key>graphicWithoutWork</key>
+	<string>temporaryCharacterRight</string>
+	<key>missedTransitionSize</key>
+	<string>resourceScopeAppearance</string>
+	<key>priorityForJob</key>
+	<string>durationFacadeDirection</string>
+	<key>sizedboxInsideSingleton</key>
+	<string>radiusAroundShape</string>
+</dict>
+</plist>

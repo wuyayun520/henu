@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelInTask</key>
+	<string>controllerDecoratorInteraction</string>
+	<key>managerParamInteraction</key>
+	<string>titleTempleScale</string>
+	<key>optimizerProxyDuration</key>
+	<string>transitionNearCycle</string>
+	<key>referenceWithStage</key>
+	<string>baselineFormTop</string>
+	<key>sizeSinceTask</key>
+	<string>symmetricAllocatorKind</string>
+	<key>timerOutsideProcess</key>
+	<string>taskJobDuration</string>
+	<key>touchVariableColor</key>
+	<string>sliderContainPrototype</string>
+</dict>
+</plist>

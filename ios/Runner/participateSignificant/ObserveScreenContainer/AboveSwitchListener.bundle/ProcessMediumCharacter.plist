@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerStageStyle</key>
+	<string>playbackIncludeTier</string>
+	<key>apertureSingletonIndex</key>
+	<string>priorCallbackLeft</string>
+	<key>cursorObserverDepth</key>
+	<string>significantBitratePressure</string>
+	<key>durationAsMode</key>
+	<string>dynamicHashFlags</string>
+	<key>dynamicDurationPadding</key>
+	<string>checkboxInsideActivity</string>
+	<key>graphAmongState</key>
+	<string>sinkStageRate</string>
+	<key>persistentInterpolationInset</key>
+	<string>transitionPhaseOrigin</string>
+	<key>timerIncludeStyle</key>
+	<string>reusableWidgetPosition</string>
+	<key>topicThroughLayer</key>
+	<string>customizedUsecaseResponse</string>
+	<key>zoneLikeCycle</key>
+	<string>sequentialPopupFlags</string>
+</dict>
+</plist>

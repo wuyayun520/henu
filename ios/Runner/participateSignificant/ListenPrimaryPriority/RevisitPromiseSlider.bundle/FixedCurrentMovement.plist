@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFacadeValidation</key>
+	<string>responsiveTextEdge</string>
+	<key>functionalLogRotation</key>
+	<string>assetScopeBound</string>
+	<key>persistentCapsuleContrast</key>
+	<string>adaptiveMenuOpacity</string>
+	<key>previewIncludeForm</key>
+	<string>pinchableTweenTag</string>
+	<key>textScopeTint</key>
+	<string>lostDocumentDepth</string>
+	<key>textureStateName</key>
+	<string>mediumShaderContrast</string>
+	<key>widgetVisitorColor</key>
+	<string>inheritedVariantOrientation</string>
+</dict>
+</plist>

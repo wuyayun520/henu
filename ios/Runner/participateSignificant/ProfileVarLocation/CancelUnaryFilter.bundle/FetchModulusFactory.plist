@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleIncludePattern</key>
+	<string>mobileVisitorContrast</string>
+	<key>isolateCycleLeft</key>
+	<string>presenterContainParam</string>
+	<key>labelFormCoord</key>
+	<string>frameMementoEdge</string>
+	<key>riverpodFlyweightStyle</key>
+	<string>convolutionLikeParameter</string>
+	<key>sensorOrFlyweight</key>
+	<string>accessibleKernelOrientation</string>
+	<key>statefulDespitePhase</key>
+	<string>inactiveGrayscaleResponse</string>
+	<key>swiftVersusType</key>
+	<string>effectVisitorSpeed</string>
+</dict>
+</plist>

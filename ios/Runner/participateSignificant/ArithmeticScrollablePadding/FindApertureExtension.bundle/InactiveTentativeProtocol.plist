@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerForSingleton</key>
+	<string>loopAsSystem</string>
+	<key>delegateLevelPosition</key>
+	<string>relationalResourceTop</string>
+	<key>disabledImageTransparency</key>
+	<string>comprehensiveAnchorTheme</string>
+	<key>loopFromTask</key>
+	<string>customizedConfigurationShape</string>
+	<key>popupPrototypePosition</key>
+	<string>mediumWidgetMode</string>
+	<key>sharedManagerTag</key>
+	<string>delegateActionSaturation</string>
+	<key>statelessVersusStyle</key>
+	<string>coordinatorOutsideActivity</string>
+</dict>
+</plist>

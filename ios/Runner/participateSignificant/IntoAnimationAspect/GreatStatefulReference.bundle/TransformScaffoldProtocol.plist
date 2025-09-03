@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseMapFeedback</key>
+	<string>listenerViaForm</string>
+	<key>interactorDuringStage</key>
+	<string>customizedSegmentSpeed</string>
+	<key>primaryGestureForce</key>
+	<string>tableIncludeChain</string>
+	<key>resolverScopeMode</key>
+	<string>particleFlyweightFeedback</string>
+</dict>
+</plist>

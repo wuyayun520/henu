@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectProxySpacing</key>
+	<string>labelIncludeMethod</string>
+	<key>finalRectInterval</key>
+	<string>backwardParticleVelocity</string>
+	<key>nodeAndShape</key>
+	<string>mediaLikeLayer</string>
+</dict>
+</plist>

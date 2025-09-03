@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorBeyondMode</key>
+	<string>transformerPlatformPadding</string>
+	<key>fixedGridOpacity</key>
+	<string>crudeUsecaseSaturation</string>
+	<key>gridviewInterpreterSize</key>
+	<string>inkwellAgainstTask</string>
+	<key>originalMediaSize</key>
+	<string>symmetricAppbarSkewy</string>
+	<key>resizableMenuSize</key>
+	<string>tweenUntilOperation</string>
+	<key>singleStreamDensity</key>
+	<string>durationPhaseSize</string>
+	<key>skinOperationInterval</key>
+	<string>mobileEnvironmentSpeed</string>
+	<key>streamWithoutFacade</key>
+	<string>geometricMasterStyle</string>
+	<key>swiftThanMode</key>
+	<string>normalConfigurationDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureViaFacade</key>
+	<string>entityLikePrototype</string>
+	<key>chapterInsidePattern</key>
+	<string>spriteMediatorBrightness</string>
+	<key>checklistWithoutType</key>
+	<string>delegateVariableStyle</string>
+	<key>difficultRequestFormat</key>
+	<string>topicPrototypeKind</string>
+	<key>listenerPerParameter</key>
+	<string>stackStateTint</string>
+	<key>managerProcessResponse</key>
+	<string>responsiveTableDepth</string>
+	<key>retainedTaskScale</key>
+	<string>callbackVersusState</string>
+	<key>signatureOfParam</key>
+	<string>firstDescriptionCount</string>
+</dict>
+</plist>

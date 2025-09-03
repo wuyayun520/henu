@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPerChain</key>
+	<string>previewTaskVelocity</string>
+	<key>decorationOperationSpeed</key>
+	<string>singleRectVisible</string>
+	<key>intuitiveCubitPosition</key>
+	<string>tabbarAtBridge</string>
+	<key>scaleAsShape</key>
+	<string>decorationPerStyle</string>
+	<key>variantTypeShade</key>
+	<string>convolutionAwayMediator</string>
+</dict>
+</plist>

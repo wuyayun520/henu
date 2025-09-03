@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheStateFeedback</key>
+	<string>variantAlongChain</string>
+	<key>controllerSingletonHead</key>
+	<string>tappableSlashHead</string>
+	<key>finalResultTransparency</key>
+	<string>buttonWorkDuration</string>
+	<key>interactorMementoLocation</key>
+	<string>channelsScopeType</string>
+	<key>robustListenerMode</key>
+	<string>cubitOutsideProxy</string>
+</dict>
+</plist>

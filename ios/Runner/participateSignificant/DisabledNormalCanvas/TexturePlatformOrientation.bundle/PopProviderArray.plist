@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushKindTag</key>
+	<string>dialogsStateOpacity</string>
+	<key>completionValueColor</key>
+	<string>ternaryAgainstState</string>
+	<key>diffableManagerStyle</key>
+	<string>retainedListenerKind</string>
+	<key>gridOutsideWork</key>
+	<string>activeMediaHead</string>
+	<key>invisibleLayoutType</key>
+	<string>notificationEnvironmentRight</string>
+	<key>relationalContainerCount</key>
+	<string>singletonKindCoord</string>
+	<key>semanticDurationPressure</key>
+	<string>semanticsAwayScope</string>
+</dict>
+</plist>

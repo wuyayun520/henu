@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryCommandStatus</key>
+	<string>advancedCompleterShade</string>
+	<key>contractionFrameworkHead</key>
+	<string>retainedContainerHue</string>
+	<key>cursorLayerEdge</key>
+	<string>permanentPriorityDensity</string>
+	<key>diversifiedShaderShade</key>
+	<string>toolThroughActivity</string>
+	<key>entityShapeFormat</key>
+	<string>immediateTextfieldOrigin</string>
+	<key>grainLayerColor</key>
+	<string>transitionStructureRight</string>
+	<key>matrixActivityDirection</key>
+	<string>gesturedetectorByMemento</string>
+	<key>mediaqueryAsVariable</key>
+	<string>tickerForCycle</string>
+	<key>permanentQueryFlags</key>
+	<string>workflowExceptCommand</string>
+</dict>
+</plist>

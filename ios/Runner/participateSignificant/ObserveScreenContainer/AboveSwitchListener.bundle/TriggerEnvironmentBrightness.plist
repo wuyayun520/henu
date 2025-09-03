@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>monsterVariableRate</key>
+	<string>asyncActivityDelay</string>
+	<key>nativeTopicTransparency</key>
+	<string>notificationBeyondObserver</string>
+	<key>pointAwayMediator</key>
+	<string>nodeCycleName</string>
+	<key>resolverLevelDirection</key>
+	<string>grainOperationFormat</string>
+	<key>singletonAsWork</key>
+	<string>dependencyIncludeActivity</string>
+	<key>sliderBufferBrightness</key>
+	<string>autoAlphaDensity</string>
+	<key>vectorAlongCycle</key>
+	<string>exceptionDespiteFlyweight</string>
+</dict>
+</plist>

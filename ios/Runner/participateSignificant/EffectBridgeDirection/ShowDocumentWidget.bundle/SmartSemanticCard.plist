@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCommandOffset</key>
+	<string>layoutAmongAction</string>
+	<key>logarithmTaskRate</key>
+	<string>singleDialogsDelay</string>
+	<key>queryFrameworkShade</key>
+	<string>assetProcessBrightness</string>
+	<key>subsequentDelegateInteraction</key>
+	<string>reactiveConstraintTail</string>
+	<key>variantInsideLayer</key>
+	<string>remainderPhaseForce</string>
+</dict>
+</plist>

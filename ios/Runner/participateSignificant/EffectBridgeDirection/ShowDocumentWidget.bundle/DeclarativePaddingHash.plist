@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDependencyAppearance</key>
+	<string>capsuleWithoutParam</string>
+	<key>capsuleVersusNumber</key>
+	<string>ignoredButtonSkewx</string>
+	<key>composableMemberContrast</key>
+	<string>viewFlyweightMargin</string>
+	<key>logarithmMethodColor</key>
+	<string>anchorLevelRate</string>
+</dict>
+</plist>

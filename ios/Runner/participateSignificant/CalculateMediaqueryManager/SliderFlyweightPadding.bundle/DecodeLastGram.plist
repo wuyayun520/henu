@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFrameworkTheme</key>
+	<string>functionalGrainSpeed</string>
+	<key>greatSegueSize</key>
+	<string>pinchableParticleSaturation</string>
+	<key>reductionOperationRotation</key>
+	<string>opaqueBehaviorInterval</string>
+	<key>statelessIncludeLayer</key>
+	<string>decorationOrSystem</string>
+</dict>
+</plist>

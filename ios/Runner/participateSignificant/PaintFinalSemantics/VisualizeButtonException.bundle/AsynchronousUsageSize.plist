@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAsVariable</key>
+	<string>sinkPatternSaturation</string>
+	<key>channelsThanWork</key>
+	<string>sineBeyondLevel</string>
+	<key>checklistBridgeTransparency</key>
+	<string>builderPatternIndex</string>
+	<key>gridviewObserverOffset</key>
+	<string>listenerSingletonHead</string>
+	<key>hierarchicalDurationMomentum</key>
+	<string>projectChainVelocity</string>
+	<key>relationalSceneSkewx</key>
+	<string>resourceBridgeVisibility</string>
+	<key>sophisticatedBlocFeedback</key>
+	<string>arithmeticZoneKind</string>
+	<key>tableAwayAction</key>
+	<string>serviceBridgeVisible</string>
+</dict>
+</plist>

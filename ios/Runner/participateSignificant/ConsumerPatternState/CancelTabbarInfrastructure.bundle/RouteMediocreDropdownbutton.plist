@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAgainstMode</key>
+	<string>customizedRadioFlags</string>
+	<key>aspectratioStageOffset</key>
+	<string>radioStyleTint</string>
+	<key>desktopEffectMargin</key>
+	<string>responseForPrototype</string>
+	<key>gemPrototypeHue</key>
+	<string>seamlessDecorationKind</string>
+	<key>greatChecklistOffset</key>
+	<string>prismaticUsageDistance</string>
+	<key>injectionProxyTension</key>
+	<string>segueTempleVisibility</string>
+	<key>smartRowEdge</key>
+	<string>utilOperationTail</string>
+	<key>tappableRadiusAcceleration</key>
+	<string>slashSinceChain</string>
+	<key>widgetFrameworkFeedback</key>
+	<string>iconStageVisible</string>
+</dict>
+</plist>

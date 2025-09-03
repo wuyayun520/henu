@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaParameterInteraction</key>
+	<string>layerPerCommand</string>
+	<key>coordinatorExceptPattern</key>
+	<string>shaderAlongComposite</string>
+	<key>disabledMasterSize</key>
+	<string>sensorDespiteLayer</string>
+	<key>errorFormSkewy</key>
+	<string>gridFunctionScale</string>
+	<key>imperativePopupColor</key>
+	<string>bufferOfAction</string>
+	<key>presenterBesidePattern</key>
+	<string>sophisticatedRiverpodOrientation</string>
+	<key>prevProgressbarBrightness</key>
+	<string>deferredTransitionTransparency</string>
+	<key>textureOfPattern</key>
+	<string>mobxNearAdapter</string>
+	<key>widgetAwayValue</key>
+	<string>usecaseCommandCount</string>
+</dict>
+</plist>

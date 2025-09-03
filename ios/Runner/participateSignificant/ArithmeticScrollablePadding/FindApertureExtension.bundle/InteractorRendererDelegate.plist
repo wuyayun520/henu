@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxFlyweightDepth</key>
+	<string>retainedAllocatorBound</string>
+	<key>indicatorLayerState</key>
+	<string>skinFlyweightAppearance</string>
+	<key>radioBesideForm</key>
+	<string>serviceContainKind</string>
+	<key>retainedCupertinoAppearance</key>
+	<string>asyncGraphicFrequency</string>
+</dict>
+</plist>

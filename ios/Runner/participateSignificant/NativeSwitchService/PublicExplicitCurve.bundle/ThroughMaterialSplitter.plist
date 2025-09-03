@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertVisitorBottom</key>
+	<string>groupPerLayer</string>
+	<key>compositionLevelDepth</key>
+	<string>intuitiveNavigationBottom</string>
+	<key>flexPerType</key>
+	<string>widgetPerStage</string>
+	<key>referenceFromMode</key>
+	<string>appbarOrPrototype</string>
+	<key>routeActionCoord</key>
+	<string>pointOutsideVisitor</string>
+	<key>sensorVariableDepth</key>
+	<string>concreteEffectEdge</string>
+	<key>stepWithoutFacade</key>
+	<string>sizeParameterTop</string>
+</dict>
+</plist>

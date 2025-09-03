@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupCycleKind</key>
+	<string>diversifiedCubeTheme</string>
+	<key>labelAboutProcess</key>
+	<string>bufferTypeFeedback</string>
+	<key>methodActionPadding</key>
+	<string>radiusByAction</string>
+	<key>popupContextOpacity</key>
+	<string>desktopPriorityCenter</string>
+	<key>queryIncludeComposite</key>
+	<string>discardedRepositoryIndex</string>
+	<key>segmentCommandVisible</key>
+	<string>activatedChartTop</string>
+	<key>tickerAboutVar</key>
+	<string>blocAdapterBrightness</string>
+</dict>
+</plist>

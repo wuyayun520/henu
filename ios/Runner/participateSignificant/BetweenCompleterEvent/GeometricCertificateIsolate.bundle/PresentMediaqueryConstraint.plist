@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightBehavior</key>
+	<string>isolateDespiteChain</string>
+	<key>composableRequestRotation</key>
+	<string>unsortedScreenSkewx</string>
+	<key>cupertinoGraphicPadding</key>
+	<string>bufferVarShade</string>
+	<key>fusedResourceCount</key>
+	<string>symbolContainMode</string>
+	<key>logarithmBufferLocation</key>
+	<string>listenerNearComposite</string>
+	<key>notifierPlatformTag</key>
+	<string>permanentBinarySize</string>
+	<key>positionBesideContext</key>
+	<string>interpolationProcessTension</string>
+</dict>
+</plist>

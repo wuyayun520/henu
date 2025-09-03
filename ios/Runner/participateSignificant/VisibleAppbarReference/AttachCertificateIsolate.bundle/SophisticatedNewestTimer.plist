@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerMementoVisible</key>
+	<string>animationKindOrigin</string>
+	<key>gradientInsideProxy</key>
+	<string>curveInMode</string>
+	<key>managerAgainstSingleton</key>
+	<string>responseStateAlignment</string>
+	<key>prevCycleMode</key>
+	<string>batchAroundContext</string>
+	<key>spineMementoTag</key>
+	<string>intermediateMetadataBorder</string>
+	<key>textOrChain</key>
+	<string>canvasStateShape</string>
+</dict>
+</plist>

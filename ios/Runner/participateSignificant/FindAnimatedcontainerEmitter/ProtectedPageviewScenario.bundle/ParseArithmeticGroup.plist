@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionManagerDensity</key>
+	<string>disparateWidgetCenter</string>
+	<key>assetStrategyShape</key>
+	<string>prismaticExpandedShade</string>
+	<key>configurationDuringVisitor</key>
+	<string>mainExtensionDelay</string>
+	<key>controllerPhaseShade</key>
+	<string>controllerTaskVelocity</string>
+	<key>exceptionOutsideKind</key>
+	<string>criticalDelegateDistance</string>
+	<key>graphVersusMethod</key>
+	<string>webLabelShade</string>
+	<key>retainedStorageCoord</key>
+	<string>zoneVersusEnvironment</string>
+	<key>techniqueStructureSpeed</key>
+	<string>swiftOfStage</string>
+</dict>
+</plist>

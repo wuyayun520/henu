@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentVersusMediator</key>
+	<string>gestureSinceComposite</string>
+	<key>ignoredResourcePressure</key>
+	<string>responsiveSubscriptionOrigin</string>
+	<key>largeRectTint</key>
+	<string>gridParameterAlignment</string>
+	<key>subtlePopupSpacing</key>
+	<string>flexibleSegmentScale</string>
+</dict>
+</plist>

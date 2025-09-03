@@ -1,0 +1,18 @@
+#import "ParallelGestureEntity.h"
+#import "OpaqueFactoryAnimator.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface AcceleratePlaybackTarget : NSObject
+
+
+- (void) upMissionSlider;
+
+- (void) deprecateMobileCurve;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

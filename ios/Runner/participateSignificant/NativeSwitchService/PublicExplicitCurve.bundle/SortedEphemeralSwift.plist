@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateTimerShape</key>
+	<string>decorationLevelBorder</string>
+	<key>opaqueUsageLocation</key>
+	<string>symbolForActivity</string>
+	<key>protocolVariableScale</key>
+	<string>notifierViaPattern</string>
+	<key>storageVariableSkewy</key>
+	<string>frameLayerVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerStyleColor</key>
+	<string>cubeCompositeShape</string>
+	<key>errorPerFacade</key>
+	<string>resourceInsideBuffer</string>
+	<key>expandedProxyScale</key>
+	<string>reducerParameterBehavior</string>
+	<key>fusedCoordinatorInset</key>
+	<string>prismaticQueryBound</string>
+	<key>missedLocalizationContrast</key>
+	<string>oldRowFlags</string>
+	<key>multiDecorationDepth</key>
+	<string>rectLikeFlyweight</string>
+	<key>swiftNearPlatform</key>
+	<string>associatedAllocatorCount</string>
+</dict>
+</plist>

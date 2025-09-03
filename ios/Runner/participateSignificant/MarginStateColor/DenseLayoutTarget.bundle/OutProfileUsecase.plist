@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectPhaseHead</key>
+	<string>finalMaterialSaturation</string>
+	<key>metadataAndProxy</key>
+	<string>utilSingletonMargin</string>
+	<key>nodeFacadeCenter</key>
+	<string>sizeLayerFrequency</string>
+	<key>queueThroughContext</key>
+	<string>brushOutsideKind</string>
+	<key>requiredQueryStatus</key>
+	<string>chartCyclePosition</string>
+	<key>sceneSingletonOrientation</key>
+	<string>inkwellParamOrientation</string>
+	<key>stateFunctionBehavior</key>
+	<string>commonWidgetMode</string>
+	<key>usageDuringStrategy</key>
+	<string>visibleBoxshadowSpeed</string>
+	<key>webAllocatorLocation</key>
+	<string>momentumInsideScope</string>
+</dict>
+</plist>

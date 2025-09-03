@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constTangentColor</key>
+	<string>activityAsLevel</string>
+	<key>decorationDespiteOperation</key>
+	<string>notifierProxyOffset</string>
+	<key>factoryLevelDistance</key>
+	<string>explicitThemeSaturation</string>
+	<key>logWorkBorder</key>
+	<string>boxshadowLayerShade</string>
+	<key>providerShapeSaturation</key>
+	<string>requiredSineFormat</string>
+	<key>responseTypePressure</key>
+	<string>coordinatorShapeBottom</string>
+	<key>standaloneRouteOrigin</key>
+	<string>autoTextScale</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioUntilVisitor</key>
+	<string>sliderDuringChain</string>
+	<key>batchActionInteraction</key>
+	<string>hashAroundBridge</string>
+	<key>compositionalLayoutTransparency</key>
+	<string>brushContainMode</string>
+	<key>constraintViaDecorator</key>
+	<string>interpolationForBuffer</string>
+	<key>controllerVariableBottom</key>
+	<string>channelKindTransparency</string>
+	<key>loopPrototypeDistance</key>
+	<string>deferredAwaitFormat</string>
+	<key>observerVersusVisitor</key>
+	<string>listenerWithoutParameter</string>
+	<key>smartCellTint</key>
+	<string>blocFunctionMode</string>
+	<key>stateForProcess</key>
+	<string>blocBridgePosition</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAgainstParam</key>
+	<string>riverpodAboutVar</string>
+	<key>controllerAgainstAction</key>
+	<string>hashFromInterpreter</string>
+	<key>independentResolverLeft</key>
+	<string>bufferParameterSkewy</string>
+	<key>observerLikeVariable</key>
+	<string>heroOutsideSingleton</string>
+	<key>optimizerAgainstFunction</key>
+	<string>listenerOutsideProxy</string>
+	<key>slashAtLayer</key>
+	<string>compositionBesideSingleton</string>
+	<key>statefulMediaPadding</key>
+	<string>semanticSkinHue</string>
+	<key>usedSinkDirection</key>
+	<string>flexibleUsecaseLocation</string>
+	<key>variantTaskCount</key>
+	<string>themePrototypeInteraction</string>
+</dict>
+</plist>

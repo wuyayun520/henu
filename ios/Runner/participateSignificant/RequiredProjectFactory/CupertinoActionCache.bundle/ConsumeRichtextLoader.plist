@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPatternDuration</key>
+	<string>graphicPlatformInterval</string>
+	<key>gridActionOrigin</key>
+	<string>previewActionIndex</string>
+	<key>inkwellAsCycle</key>
+	<string>deferredRadiusMode</string>
+	<key>presenterAroundFacade</key>
+	<string>cubitFacadeMomentum</string>
+	<key>transitionStrategyInteraction</key>
+	<string>resourceInterpreterOrigin</string>
+</dict>
+</plist>

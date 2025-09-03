@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIntensityShape</key>
+	<string>cycleInStyle</string>
+	<key>buttonTempleVelocity</key>
+	<string>signActivityInteraction</string>
+	<key>factoryParameterInteraction</key>
+	<string>secondStorageMode</string>
+	<key>sequentialRectShape</key>
+	<string>navigatorProcessOrientation</string>
+	<key>spriteFromPrototype</key>
+	<string>keyBatchDelay</string>
+</dict>
+</plist>

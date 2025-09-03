@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStreamFeedback</key>
+	<string>aspectratioThroughObserver</string>
+	<key>crudeExpandedForce</key>
+	<string>sceneValueRotation</string>
+	<key>dedicatedIconVisibility</key>
+	<string>resourceAsStyle</string>
+	<key>ephemeralSliderMode</key>
+	<string>singleLoopSkewy</string>
+	<key>mediumTickerInterval</key>
+	<string>resultStructureBottom</string>
+	<key>optimizerNearPhase</key>
+	<string>priorityKindMode</string>
+	<key>transitionAndStyle</key>
+	<string>standalonePointRight</string>
+</dict>
+</plist>

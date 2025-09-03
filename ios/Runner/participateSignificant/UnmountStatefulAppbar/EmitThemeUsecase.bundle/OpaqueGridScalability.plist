@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProviderShape</key>
+	<string>permanentEventPosition</string>
+	<key>animatedBlocEdge</key>
+	<string>coordinatorWithoutShape</string>
+	<key>borderAgainstStrategy</key>
+	<string>requiredBuilderRotation</string>
+	<key>dependencyPatternTop</key>
+	<string>euclideanCurveBrightness</string>
+	<key>parallelCupertinoOrientation</key>
+	<string>alertThanVar</string>
+	<key>resolverBesideKind</key>
+	<string>euclideanTouchValidation</string>
+	<key>spotLevelFeedback</key>
+	<string>cacheObserverTail</string>
+</dict>
+</plist>

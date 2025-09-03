@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVariableIndex</key>
+	<string>optimizerParameterMode</string>
+	<key>contractionBeyondProcess</key>
+	<string>resizableTransitionAcceleration</string>
+	<key>elasticSpriteAlignment</key>
+	<string>graphInsideShape</string>
+	<key>graphShapeSpeed</key>
+	<string>fixedNodeName</string>
+	<key>localizationSystemContrast</key>
+	<string>awaitFunctionMomentum</string>
+	<key>matrixMementoMode</key>
+	<string>crudeBufferMargin</string>
+	<key>modelDespiteCommand</key>
+	<string>textAndMethod</string>
+	<key>optionAmongCycle</key>
+	<string>actionDecoratorState</string>
+	<key>persistentEffectType</key>
+	<string>delicateSingletonMode</string>
+</dict>
+</plist>

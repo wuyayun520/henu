@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAsAdapter</key>
+	<string>vectorAgainstComposite</string>
+	<key>builderUntilProcess</key>
+	<string>resilientHashHead</string>
+	<key>desktopLayoutHead</key>
+	<string>interactivePopupDelay</string>
+	<key>labelWorkVisible</key>
+	<string>symmetricArithmeticInterval</string>
+	<key>secondEffectInteraction</key>
+	<string>keyBlocFlags</string>
+	<key>synchronousRouteMode</key>
+	<string>sampleFacadeVisible</string>
+	<key>transitionAmongMethod</key>
+	<string>compositionalProviderFeedback</string>
+</dict>
+</plist>

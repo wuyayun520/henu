@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitContainType</key>
+	<string>priorRemainderOffset</string>
+	<key>bufferFromPlatform</key>
+	<string>asyncPlatformDensity</string>
+	<key>cubitObserverSpacing</key>
+	<string>layoutAtBridge</string>
+	<key>descriptorStateDelay</key>
+	<string>agileVectorState</string>
+	<key>discardedGraphHead</key>
+	<string>iterativePaddingScale</string>
+	<key>dropdownbuttonWithoutProcess</key>
+	<string>radioContainAction</string>
+	<key>effectFromForm</key>
+	<string>priorInterfaceFormat</string>
+	<key>titleObserverFeedback</key>
+	<string>hardTabviewShape</string>
+</dict>
+</plist>

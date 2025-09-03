@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalGrainSize</key>
+	<string>comprehensivePageviewInset</string>
+	<key>promiseCompositeVisibility</key>
+	<string>optimizerAndComposite</string>
+	<key>repositoryInsideDecorator</key>
+	<string>reductionForTier</string>
+	<key>reusableTransitionLeft</key>
+	<string>allocatorPrototypeCoord</string>
+	<key>statelessSampleOffset</key>
+	<string>characterBufferFlags</string>
+	<key>variantVariableDelay</key>
+	<string>notificationForSystem</string>
+	<key>zoneAroundCommand</key>
+	<string>desktopTransformerTint</string>
+</dict>
+</plist>

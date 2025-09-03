@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVariableOrientation</key>
+	<string>hierarchicalLoopLeft</string>
+	<key>borderLayerSpacing</key>
+	<string>otherSubscriptionCoord</string>
+	<key>cacheJobOrientation</key>
+	<string>pinchableButtonShade</string>
+	<key>grainVarSaturation</key>
+	<string>numericalIsolateResponse</string>
+	<key>lastCurveDirection</key>
+	<string>typicalServiceInterval</string>
+	<key>publicButtonEdge</key>
+	<string>sinkVariableBound</string>
+	<key>singleAccessoryShade</key>
+	<string>decorationStrategyBrightness</string>
+</dict>
+</plist>

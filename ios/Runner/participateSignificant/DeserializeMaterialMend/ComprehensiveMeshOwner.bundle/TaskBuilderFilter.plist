@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorBesideTask</key>
+	<string>flexibleEffectOffset</string>
+	<key>inkwellByMediator</key>
+	<string>clipperSystemTheme</string>
+	<key>intensityDecoratorSpeed</key>
+	<string>movementOrStrategy</string>
+	<key>lostPositionVisible</key>
+	<string>usageWithoutSingleton</string>
+	<key>previewDespiteChain</key>
+	<string>backwardSliderInteraction</string>
+	<key>previewSystemValidation</key>
+	<string>priorPositionedOpacity</string>
+	<key>richtextAdapterScale</key>
+	<string>chapterValueTail</string>
+	<key>singleStorageTop</key>
+	<string>similarSwitchValidation</string>
+	<key>swiftInterpreterSpacing</key>
+	<string>explicitOptionShape</string>
+</dict>
+</plist>

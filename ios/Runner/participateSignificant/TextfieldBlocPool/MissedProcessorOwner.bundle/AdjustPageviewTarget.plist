@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateCompositeRotation</key>
+	<string>modelAlongProcess</string>
+	<key>eventMementoRate</key>
+	<string>scrollViaSingleton</string>
+	<key>gradientVisitorVelocity</key>
+	<string>subscriptionAsComposite</string>
+	<key>localizationNearFlyweight</key>
+	<string>instructionAmongNumber</string>
+	<key>precisionSystemVelocity</key>
+	<string>normalTextureDelay</string>
+	<key>sliderBeyondShape</key>
+	<string>basicTabviewFormat</string>
+	<key>streamInStructure</key>
+	<string>radiusBufferBrightness</string>
+	<key>subsequentRichtextKind</key>
+	<string>intensityVersusCommand</string>
+</dict>
+</plist>

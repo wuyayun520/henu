@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectCycleAlignment</key>
+	<string>lossPlatformPadding</string>
+	<key>injectionModeBound</key>
+	<string>standaloneLayoutDistance</string>
+	<key>lazyActionTop</key>
+	<string>effectLayerForce</string>
+	<key>mobxAmongJob</key>
+	<string>greatLayerValidation</string>
+	<key>modalContainOperation</key>
+	<string>nativeRadiusRate</string>
+	<key>relationalStoreOffset</key>
+	<string>pageviewNearParameter</string>
+	<key>subscriptionFrameworkKind</key>
+	<string>storeBesideJob</string>
+</dict>
+</plist>

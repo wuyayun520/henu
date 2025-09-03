@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFlyweightValidation</key>
+	<string>pinchableCompleterRight</string>
+	<key>baselineFunctionSkewy</key>
+	<string>tappableTickerShape</string>
+	<key>durationAndAdapter</key>
+	<string>missedResponseIndex</string>
+	<key>oldBaselineDensity</key>
+	<string>uniformRectStyle</string>
+	<key>stampContextHead</key>
+	<string>baselineWithTemple</string>
+</dict>
+</plist>

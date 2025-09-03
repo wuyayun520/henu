@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBridgeVelocity</key>
+	<string>expandedAroundParameter</string>
+	<key>arithmeticBlocLocation</key>
+	<string>elasticRadiusTail</string>
+	<key>axisProxyCenter</key>
+	<string>curveStrategyCenter</string>
+	<key>coordinatorFlyweightBottom</key>
+	<string>providerBeyondTier</string>
+	<key>durationScopeAcceleration</key>
+	<string>tensorCosineRate</string>
+	<key>inheritedMetadataStyle</key>
+	<string>invisibleArithmeticState</string>
+	<key>notificationProcessDepth</key>
+	<string>channelWorkLocation</string>
+	<key>tabviewAtEnvironment</key>
+	<string>responsiveFutureOrientation</string>
+	<key>tweenInsideObserver</key>
+	<string>temporaryConstraintHead</string>
+</dict>
+</plist>

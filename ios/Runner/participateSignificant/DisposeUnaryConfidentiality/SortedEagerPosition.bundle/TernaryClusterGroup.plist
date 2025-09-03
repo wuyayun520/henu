@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMenuType</key>
+	<string>tangentInsideActivity</string>
+	<key>baseStyleBehavior</key>
+	<string>streamWorkContrast</string>
+	<key>graphAsMediator</key>
+	<string>displayableButtonResponse</string>
+	<key>interfaceVariableStatus</key>
+	<string>inactiveOptionTag</string>
+	<key>iterativeResponseDuration</key>
+	<string>tangentAndDecorator</string>
+	<key>labelExceptNumber</key>
+	<string>statefulChapterOpacity</string>
+	<key>materialWithoutInterpreter</key>
+	<string>configurationDecoratorTension</string>
+	<key>navigationThanLayer</key>
+	<string>durationThanMode</string>
+</dict>
+</plist>

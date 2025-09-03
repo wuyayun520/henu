@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOrValue</key>
+	<string>cubitOfStructure</string>
+	<key>borderFrameworkTheme</key>
+	<string>stateExceptSingleton</string>
+	<key>factoryContextAppearance</key>
+	<string>permissiveCompleterShade</string>
+	<key>lostCacheKind</key>
+	<string>mediaqueryTierVisible</string>
+	<key>mediaStateShade</key>
+	<string>overlayTierValidation</string>
+	<key>originalGestureRotation</key>
+	<string>signLikePhase</string>
+	<key>permanentModalStyle</key>
+	<string>euclideanGrayscaleMode</string>
+	<key>symbolEnvironmentHead</key>
+	<string>substantialTextureStyle</string>
+	<key>textIncludeKind</key>
+	<string>customEffectDensity</string>
+</dict>
+</plist>

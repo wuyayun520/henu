@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCoordinatorTension</key>
+	<string>draggableAsyncPosition</string>
+	<key>captionValueType</key>
+	<string>completerDecoratorHue</string>
+	<key>cellPerMemento</key>
+	<string>collectionLevelSpeed</string>
+	<key>cycleAgainstLevel</key>
+	<string>numericalNormInteraction</string>
+	<key>futureAndLevel</key>
+	<string>interactorKindRotation</string>
+	<key>localizationPatternAcceleration</key>
+	<string>inheritedTopicBound</string>
+	<key>painterInsidePhase</key>
+	<string>gemStateDistance</string>
+	<key>titleAdapterSaturation</key>
+	<string>accessibleOffsetSaturation</string>
+	<key>transitionSystemOrientation</key>
+	<string>transitionAlongDecorator</string>
+</dict>
+</plist>

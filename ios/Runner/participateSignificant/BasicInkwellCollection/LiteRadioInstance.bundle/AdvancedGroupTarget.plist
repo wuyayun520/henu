@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclePatternCenter</key>
+	<string>customModelCenter</string>
+	<key>declarativeResolverCenter</key>
+	<string>resultByMediator</string>
+	<key>movementAdapterMomentum</key>
+	<string>captionVarFrequency</string>
+	<key>providerAndFramework</key>
+	<string>flexibleNavigatorMargin</string>
+</dict>
+</plist>

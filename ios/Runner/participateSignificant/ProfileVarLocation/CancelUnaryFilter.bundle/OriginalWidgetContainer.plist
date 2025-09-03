@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushTypeAppearance</key>
+	<string>modelAgainstStyle</string>
+	<key>hierarchicalFutureIndex</key>
+	<string>callbackAndLayer</string>
+	<key>numericalDecorationOpacity</key>
+	<string>richtextAtParam</string>
+	<key>standaloneBorderOpacity</key>
+	<string>bufferInsideLayer</string>
+</dict>
+</plist>

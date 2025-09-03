@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPhaseTag</key>
+	<string>viewLayerSkewx</string>
+	<key>characterWithParam</key>
+	<string>projectionDuringComposite</string>
+	<key>completerBufferBound</key>
+	<string>missedTabbarSize</string>
+	<key>independentIntegerAcceleration</key>
+	<string>toolShapeHead</string>
+	<key>nodeSincePrototype</key>
+	<string>transitionStrategyMode</string>
+	<key>unsortedDurationCenter</key>
+	<string>streamActivityFlags</string>
+</dict>
+</plist>

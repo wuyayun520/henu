@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterModeInteraction</key>
+	<string>decorationStateScale</string>
+	<key>interactiveRectFlags</key>
+	<string>awaitAboutParam</string>
+	<key>methodByOperation</key>
+	<string>giftSingletonResponse</string>
+	<key>scaleInComposite</key>
+	<string>resilientCubitSkewx</string>
+	<key>specifierIncludeParam</key>
+	<string>unactivatedRowDistance</string>
+	<key>specifierThroughLevel</key>
+	<string>convolutionStateColor</string>
+	<key>tappableRadioTint</key>
+	<string>entityTempleShade</string>
+	<key>timerFacadeSaturation</key>
+	<string>priorCursorSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapPatternOffset</key>
+	<string>signatureInParameter</string>
+	<key>navigationFromTier</key>
+	<string>immediateZoneKind</string>
+	<key>providerEnvironmentOrientation</key>
+	<string>batchActionVisibility</string>
+	<key>routePrototypeRotation</key>
+	<string>interactiveMultiplicationBehavior</string>
+	<key>sizeAtContext</key>
+	<string>gestureFormRotation</string>
+</dict>
+</plist>

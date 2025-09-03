@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatCoordinatorShade</key>
+	<string>contractionFromKind</string>
+	<key>masterStateBorder</key>
+	<string>interactiveModalRotation</string>
+	<key>menuVersusVisitor</key>
+	<string>dialogsValueAlignment</string>
+	<key>notificationStageAppearance</key>
+	<string>interfaceInsideAction</string>
+	<key>unsortedInkwellIndex</key>
+	<string>autoAnimatedcontainerOrientation</string>
+</dict>
+</plist>

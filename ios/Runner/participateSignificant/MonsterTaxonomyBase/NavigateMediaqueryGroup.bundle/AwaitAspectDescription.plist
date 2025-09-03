@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationChainRight</key>
+	<string>particleAgainstStrategy</string>
+	<key>graphicPatternContrast</key>
+	<string>pageviewVersusForm</string>
+	<key>lostTouchName</key>
+	<string>resilientFutureDelay</string>
+	<key>missionThroughState</key>
+	<string>inkwellEnvironmentMode</string>
+	<key>observerShapeTint</key>
+	<string>mainManagerOpacity</string>
+</dict>
+</plist>

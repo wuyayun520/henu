@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetObserverForce</key>
+	<string>canvasAtStage</string>
+	<key>builderWithVar</key>
+	<string>inheritedConstraintSize</string>
+	<key>finalGestureOrientation</key>
+	<string>diffableRowDistance</string>
+	<key>mapAroundValue</key>
+	<string>priorStatefulVelocity</string>
+	<key>responsiveOffsetDelay</key>
+	<string>awaitOutsideFacade</string>
+	<key>resultTempleIndex</key>
+	<string>serviceShapeDistance</string>
+	<key>semanticsBesideFramework</key>
+	<string>protectedTransitionBehavior</string>
+	<key>timerPerAction</key>
+	<string>vectorBeyondPhase</string>
+	<key>tweenProxyOrigin</key>
+	<string>axisDuringParam</string>
+</dict>
+</plist>

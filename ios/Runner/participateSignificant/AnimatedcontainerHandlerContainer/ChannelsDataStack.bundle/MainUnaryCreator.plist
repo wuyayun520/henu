@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerModeColor</key>
+	<string>sharedAlertCenter</string>
+	<key>easyPrecisionCenter</key>
+	<string>navigationBeyondDecorator</string>
+	<key>managerKindTransparency</key>
+	<string>diffableCacheOffset</string>
+	<key>popupCompositeSkewx</key>
+	<string>referenceBufferBehavior</string>
+	<key>positionWithInterpreter</key>
+	<string>hierarchicalProviderDistance</string>
+	<key>responseAdapterColor</key>
+	<string>brushStyleHead</string>
+</dict>
+</plist>

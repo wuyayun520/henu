@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVersusAction</key>
+	<string>advancedQueueEdge</string>
+	<key>graphicStateEdge</key>
+	<string>intuitivePopupOffset</string>
+	<key>isolateCycleSpacing</key>
+	<string>eagerConsumerEdge</string>
+	<key>stampWithTemple</key>
+	<string>concreteActivitySpacing</string>
+</dict>
+</plist>

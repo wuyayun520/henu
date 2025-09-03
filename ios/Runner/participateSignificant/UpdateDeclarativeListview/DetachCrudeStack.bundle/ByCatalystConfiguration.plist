@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletSingletonRotation</key>
+	<string>routeForValue</string>
+	<key>decorationPatternVelocity</key>
+	<string>overlayInterpreterSpeed</string>
+	<key>dynamicViewTransparency</key>
+	<string>originalRiverpodCoord</string>
+	<key>globalSignatureDelay</key>
+	<string>gateTaskPadding</string>
+	<key>hardActionResponse</key>
+	<string>buttonDespiteStage</string>
+	<key>hierarchicalHashShade</key>
+	<string>rowParamDirection</string>
+	<key>logarithmAlongJob</key>
+	<string>persistentParticleSaturation</string>
+	<key>ternaryChainPosition</key>
+	<string>seamlessCaptionKind</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowUntilFramework</key>
+	<string>extensionActionCount</string>
+	<key>inkwellBeyondFacade</key>
+	<string>musicSinceMediator</string>
+	<key>tabviewByPhase</key>
+	<string>statefulObserverTint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarMementoBehavior</key>
+	<string>asyncSamplePadding</string>
+	<key>channelAdapterScale</key>
+	<string>grainFacadeOpacity</string>
+	<key>effectVariableResponse</key>
+	<string>grainAtTask</string>
+	<key>inheritedAlphaScale</key>
+	<string>constraintKindTint</string>
+	<key>menuWithDecorator</key>
+	<string>chartModePadding</string>
+	<key>offsetExceptPattern</key>
+	<string>immutableNotificationInteraction</string>
+	<key>oldTabviewCount</key>
+	<string>equalizationOrLevel</string>
+	<key>smallGiftHue</key>
+	<string>buttonModeDistance</string>
+	<key>substantialLayoutInterval</key>
+	<string>normalTitleSpacing</string>
+</dict>
+</plist>

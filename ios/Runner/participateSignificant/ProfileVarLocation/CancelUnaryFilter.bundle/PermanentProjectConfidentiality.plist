@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetObserverStyle</key>
+	<string>callbackAboutStrategy</string>
+	<key>delicateAnimationDepth</key>
+	<string>delegateViaInterpreter</string>
+	<key>entityActionFormat</key>
+	<string>interactorBufferSize</string>
+	<key>gridCompositeTop</key>
+	<string>arithmeticOrInterpreter</string>
+	<key>progressbarPerEnvironment</key>
+	<string>assetBridgeForce</string>
+	<key>sequentialEffectPadding</key>
+	<string>techniqueViaStage</string>
+	<key>shaderFromSingleton</key>
+	<string>nodePatternTransparency</string>
+	<key>specifierInterpreterSpacing</key>
+	<string>consumerEnvironmentInteraction</string>
+	<key>topicAsVisitor</key>
+	<string>criticalChannelsState</string>
+</dict>
+</plist>

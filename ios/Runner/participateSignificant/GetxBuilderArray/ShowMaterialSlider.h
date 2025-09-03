@@ -1,0 +1,18 @@
+#import "InflateSubstantialDecoration.h"
+#import "NextBorderWidget.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface ShowMaterialSlider : NSObject
+
+
+- (void) skipSustainablePopup;
+
+- (void) setRetainedApertureNumber;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableThemeAcceleration</key>
+	<string>subscriptionVersusTemple</string>
+	<key>finalCoordinatorInterval</key>
+	<string>tabbarProcessVelocity</string>
+	<key>globalKernelOpacity</key>
+	<string>mediaqueryDespiteMediator</string>
+	<key>intermediateEventResponse</key>
+	<string>layoutSinceValue</string>
+	<key>lostEffectSpeed</key>
+	<string>buttonAlongStrategy</string>
+	<key>notificationLevelFlags</key>
+	<string>handlerSingletonVisible</string>
+	<key>priorDecorationBottom</key>
+	<string>skinAgainstOperation</string>
+	<key>storageNumberOpacity</key>
+	<string>shaderIncludeState</string>
+</dict>
+</plist>

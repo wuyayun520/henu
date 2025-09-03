@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAndNumber</key>
+	<string>nativeBlocTint</string>
+	<key>activeResolverDistance</key>
+	<string>smallBorderDirection</string>
+	<key>builderTaskKind</key>
+	<string>activityUntilFacade</string>
+	<key>dimensionScopeVisibility</key>
+	<string>vectorInForm</string>
+	<key>futureAtFunction</key>
+	<string>flexibleLogTag</string>
+	<key>ignoredPlaybackState</key>
+	<string>stateFormVelocity</string>
+	<key>interactiveCapsuleInset</key>
+	<string>accordionExpandedEdge</string>
+</dict>
+</plist>

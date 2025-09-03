@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDescriptorFeedback</key>
+	<string>graphicDespiteCycle</string>
+	<key>chapterTempleBehavior</key>
+	<string>stampStyleColor</string>
+	<key>grainViaState</key>
+	<string>richtextBridgeFormat</string>
+	<key>labelStyleSpeed</key>
+	<string>mobileTaskResponse</string>
+	<key>notificationFrameworkFrequency</key>
+	<string>viewAtPattern</string>
+	<key>priorityThroughAdapter</key>
+	<string>playbackInterpreterRight</string>
+	<key>progressbarInsideMethod</key>
+	<string>diffableCoordinatorDuration</string>
+	<key>retainedDelegateRotation</key>
+	<string>channelThroughType</string>
+	<key>semanticContainerTheme</key>
+	<string>stackVersusComposite</string>
+	<key>vectorInsideProxy</key>
+	<string>delicateProviderSize</string>
+</dict>
+</plist>

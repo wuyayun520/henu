@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOfPattern</key>
+	<string>timerProxyTheme</string>
+	<key>custompaintEnvironmentMargin</key>
+	<string>appbarPrototypeInteraction</string>
+	<key>documentBufferTransparency</key>
+	<string>notifierLikeProxy</string>
+	<key>getxFrameworkRotation</key>
+	<string>progressbarNearStrategy</string>
+	<key>logarithmFacadeFeedback</key>
+	<string>finalNormSpacing</string>
+	<key>menuTaskOffset</key>
+	<string>effectByMemento</string>
+	<key>profileNearBridge</key>
+	<string>sliderProxyPosition</string>
+	<key>skirtInTask</key>
+	<string>blocPrototypeFeedback</string>
+	<key>sustainableDecorationTag</key>
+	<string>priorityAgainstChain</string>
+</dict>
+</plist>

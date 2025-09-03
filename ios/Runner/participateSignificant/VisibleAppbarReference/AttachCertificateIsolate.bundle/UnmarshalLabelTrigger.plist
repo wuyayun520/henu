@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterPrototypeTag</key>
+	<string>seamlessAxisLeft</string>
+	<key>crucialNotifierFormat</key>
+	<string>presenterStageInteraction</string>
+	<key>dynamicTabbarBehavior</key>
+	<string>blocInterpreterLeft</string>
+	<key>enabledWidgetAlignment</key>
+	<string>usedGateBrightness</string>
+	<key>largeStatelessStatus</key>
+	<string>checkboxBesideShape</string>
+	<key>observerThroughSingleton</key>
+	<string>progressbarWithParameter</string>
+	<key>resizableTaskKind</key>
+	<string>tensorSwitchShade</string>
+	<key>shaderAwayPlatform</key>
+	<string>configurationStyleLeft</string>
+	<key>statefulIsolateRight</key>
+	<string>channelBesideTask</string>
+	<key>visibleFrameTransparency</key>
+	<string>cubeNearBridge</string>
+</dict>
+</plist>

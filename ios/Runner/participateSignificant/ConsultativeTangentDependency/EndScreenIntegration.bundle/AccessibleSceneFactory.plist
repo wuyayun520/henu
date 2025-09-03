@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorWithoutInterpreter</key>
+	<string>cubitCycleDistance</string>
+	<key>characterOfType</key>
+	<string>composableSkirtDensity</string>
+	<key>lazyPresenterDistance</key>
+	<string>observerPerStage</string>
+	<key>staticParticleRate</key>
+	<string>gestureAsLayer</string>
+	<key>symmetricTitleRate</key>
+	<string>stateModeTag</string>
+</dict>
+</plist>

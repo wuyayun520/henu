@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTypeVisibility</key>
+	<string>entityActionOrigin</string>
+	<key>certificatePerState</key>
+	<string>referenceAndPrototype</string>
+	<key>cubitThroughScope</key>
+	<string>asyncShapeOrigin</string>
+	<key>cupertinoBesidePrototype</key>
+	<string>custompaintFacadeDistance</string>
+	<key>entityIncludeState</key>
+	<string>diffablePresenterBorder</string>
+	<key>imperativeLocalizationVisibility</key>
+	<string>spriteTaskSkewy</string>
+	<key>localizationBeyondWork</key>
+	<string>scrollableConfigurationDensity</string>
+</dict>
+</plist>
