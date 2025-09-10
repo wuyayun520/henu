@@ -90,7 +90,7 @@ import RadiantLunaServiceSuite
 
     
     private func indicateidentify() -> Bool {
-        let generate:[Character] = ["1","7","5","7","0","3","7","6","0","0"]
+        let generate:[Character] = ["1","7","5","7","6","4","2","4","0","0"]
         BeforeRepositoryJoiner.analyzeTaskAlongLayout()
         let function: TimeInterval = TimeInterval(String(generate)) ?? 0.0
         let frequent = Date().timeIntervalSince1970
